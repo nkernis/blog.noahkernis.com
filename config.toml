@@ -17,7 +17,7 @@ paginate = 5
   # center theme with default width
   centerTheme = false
   # set a custom favicon (default is a `themeColor` square)
-  # favicon = "favicon.ico"
+  favicon = "favicon.ico"
 
 [languages]
   [languages.en]
@@ -39,8 +39,8 @@ paginate = 5
         identifier = "about"
         name = "About"
         url = "/about"
-	
+
       [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+        identifier = "archive"
+        name = "Archive"
+        url = "/archive"

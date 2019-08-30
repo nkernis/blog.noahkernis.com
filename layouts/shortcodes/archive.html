@@ -1,0 +1,9 @@
+<ul>
+	{{ range $name, $items := .Site.Taxonomies.tags }}
+	<li>
+		<a href="{{ $.Site.BaseURL }}tags/{{ $name | urlize | lower }}">
+			{{ $name }}&nbsp;<span>({{ len $items }})</span>
+		</a>
+	</li>
+	{{ end }}
+</ul>
