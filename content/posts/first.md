@@ -1,11 +1,11 @@
 +++
-title = "0"
+title = "asd"
 date = "2019-06-23T16:18:12-04:00"
 author = "Noah K."
 tags = [""]
 description = "Fill me in!"
 showFullContent = false
-draft = true
+draft = false
 +++
 
 # Header 1
