@@ -1,9 +1,12 @@
 +++
-title = "{{ replace .Name "-" " " }}"
+slug = "{{ .Name }}"
+title = "{{ title (replace .Name "-" " ") }}"
 date = "{{ .Date }}"
-author = "Noah K."
-tags = [""]
-description = "Fill me in!"
+cover = "FILL (Link)"
+alt="FILL (if cover)"
+author = "Noah Kernis"
+tags = ["itp"]
+description = "FILL"
 showFullContent = false
 draft = true
 +++
