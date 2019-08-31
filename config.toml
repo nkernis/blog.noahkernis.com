@@ -31,7 +31,7 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "Noah Kernis - The Blog"
-    subtitle = "You can read my blog below. You can leave by turning off your device."
+    subtitle = "You can read my blog here. You can leave by turning off your device."
     keywords = "blog itp technology art learning "
     copyright = "All The Rights - All Of Time - All To Noah Kernis"
     menuMore = "Show more"
