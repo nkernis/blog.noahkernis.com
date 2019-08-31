@@ -9,7 +9,7 @@ paginate = 5
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "green"
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 3
   # show selector to switch language
   showLanguageSelector = false
   # set theme to full screen width
@@ -23,11 +23,11 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "Noah Kernis - The Blog"
-    subtitle = "This is where Noah Kernis - Blogs"
+    subtitle = "You can read my blog below. You can leave by looking left or right."
     keywords = "blog itp technology art learning "
     copyright = "All The Rights - All Of Time - All To Noah Kernis"
     menuMore = "Show more"
-    readMore = "Read more"
+    readMore = "Read post"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
@@ -44,3 +44,8 @@ paginate = 5
         identifier = "archive"
         name = "Archive"
         url = "/archive"
+
+      [[languages.en.menu.main]]
+        identifier = "contact"
+        name = "Contact"
+        url = "/contact"
