@@ -2,6 +2,6 @@
 title = "Archive"
 +++
 
-The following is a list of all the tags I use. Have at it...
+The following is a list of all the tags I used. Have at it...
 
 {{< archive >}}
