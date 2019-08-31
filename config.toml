@@ -2,7 +2,6 @@ baseurl = "/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
-
 # name = "terminal"
 # license = "MIT"
 # licenselink = "https://github.com/panr/hugo-theme-terminal/blob/master/LICENSE.md"
@@ -58,3 +57,32 @@ paginate = 5
         identifier = "contact"
         name = "Contact"
         url = "/contact"
+
+[privacy]
+  [privacy.disqus]
+    disable = false
+
+  [privacy.googleAnalytics]
+    disable = false
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = true
+
+  [privacy.instagram]
+    disable = false
+    simple = true
+    disableInlineCSS = true
+
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = true
+    disableInlineCSS = true
+
+  [privacy.vimeo]
+    disable = false
+    simple = true
+
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true
