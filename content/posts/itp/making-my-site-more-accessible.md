@@ -20,6 +20,8 @@ showFullContent = false
 
 3. Screen Readers
 
+use screen grabs from the demo site for terminal theme to show contrast issues and code without alt text, etc.
+
 ---
 
 ```
