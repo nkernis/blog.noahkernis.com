@@ -1,0 +1,11 @@
+div.code-toolbar>.toolbar a {
+	color: #000;
+	background: #7a61e2;
+	box-shadow: none;
+	font-size: 1em
+}
+
+.token.variable {
+	color: #7a61e2;
+	font-weight: 700
+}
