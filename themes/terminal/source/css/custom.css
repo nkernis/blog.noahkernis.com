@@ -1,11 +1,36 @@
 div.code-toolbar>.toolbar a {
-	color: #000;
-	background: #7a61e2;
+	color: var(--background);
+	background: var(--accent);
 	box-shadow: none;
 	font-size: 1em
 }
 
-.token.variable {
-	color: #7a61e2;
+.token.variable,
+.token.attr-name,
+.token.cdata,
+.token.function {
+	color: var(--accent);
 	font-weight: 700
+}
+
+.token.unit,
+.token.operator,
+code.language-html {
+	color: var(--accent);
+}
+
+.token.tag {
+	color: #000;
+}
+
+.token.punctuation {
+	color: var(--accent);
+}
+
+.token.property {
+	color: var(--accent);
+}
+
+.token.namespace {
+	opacity: 1;
 }
