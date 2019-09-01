@@ -789,13 +789,6 @@ pre[data-line] {
 	content: none
 }
 
-div.code-toolbar>.toolbar a {
-	color: #000;
-	background: #7A61E2;
-	box-shadow: none;
-	font-size: 1em
-}
-
 :root {
 	--accent: #7A61E2;
 	--phoneWidth: (max-width:684px);
