@@ -7,7 +7,7 @@ author = "Noah Kernis"
 tags = ["itp", "accessibility"]
 showFullContent = false
 +++
-
+asd
 1. Made sure list, figures (do this still), and images all have alt text
 ```go
     {{ if .Params.Cover}}
