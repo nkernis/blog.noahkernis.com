@@ -6,7 +6,7 @@ div.code-toolbar > .toolbar a {
 }
 
 div.content {
-	box-sizing: block; 
+	display: block; 
 }
 
 span.pagination__title-h {
