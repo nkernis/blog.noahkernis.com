@@ -5,6 +5,13 @@ div.code-toolbar > .toolbar a {
 	font-size: .9em;
 }
 
+figure > figcaption {
+	color: var(--accent);
+	background: var(--background);
+	font-size: .9em;
+	border-top: 1px solid var(--accent);
+}
+
 div.content {
 	display: block; 
 }
