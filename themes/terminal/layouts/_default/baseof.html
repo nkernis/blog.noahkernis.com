@@ -14,7 +14,7 @@
   {{ partial "header.html" . }}
 
   {{ if .IsHome }}
-  <div id="carl" style="font-size:1.5em; font-style: italic;"> </div>
+  <div id="taglines" style="font-size:1.5em; font-style: italic;"> </div>
   {{ end }}
 
   <div class="content">
@@ -36,7 +36,7 @@
     return Math.floor(Math.random() * Math.floor(max));
   }
 
-  document.getElementById("carl").innerHTML = document.getElementById("carl").innerHTML.replace(/ /g, taglines[randInt(taglines.length)]);
+  document.getElementById("taglines").innerHTML = document.getElementById("taglines").innerHTML.replace(/ /g, taglines[randInt(taglines.length)]);
 </script>
 
 </html>
