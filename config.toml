@@ -39,7 +39,7 @@ paginate = 5
       "Terms of service - use it or don't",
       "[ Insert joke here ]",
       "The input goes nowhere ==> <input type='text'>",
-      "Clicking the button does nothing ==> <button style='background: #7A61E2; color: #fff; display: inline-block;'>I do nothing</button>",
+      "Clicking the button does nothing ==> <button class='nothing-button'>I do nothing</button>",
       "Pick a number - any number - for no reason ==> <input type='number'>",
       "Turn the \"radio\" on ==> <input type='radio'>",
       "I am a computer - beep bop boop",

@@ -1,9 +1,19 @@
+.nothing-button,
 div.code-toolbar > .toolbar a {
 	color: var(--background);
 	background: var(--accent);
 	box-shadow: none;
 	font-size: .9em;
+	display: inline-block;
 }
+
+.nothing-button:hover,
+div.code-toolbar > .toolbar a:hover {
+	color: var(--accent);
+	background: var(--background);
+	border: 1px solid var(--accent);
+}
+
 
 figure > figcaption {
 	color: var(--accent);

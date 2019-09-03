@@ -8,6 +8,19 @@ tags = ["itp"]
 showFullContent = false
 +++
 
+```js
+  var taglines = ["cat", "dog"];
+
+  function randInt(max) {
+    return Math.floor(Math.random() * Math.floor(max));
+  };
+
+  var oldTxt = document.getElementById("tagline").innerHTML;
+  var newTxt = oldTxt.replace(/&nbsp;/g, taglines[randInt(taglines.length)]);
+  document.getElementById("tagline").innerHTML = newTxt;
+```
+
+
 This is the first post. 
 
 Here is an image. 
