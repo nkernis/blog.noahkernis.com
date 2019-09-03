@@ -38,11 +38,13 @@ paginate = 5
       "Freshness guaranteed",
       "Terms of service - use it or don't",
       "[ Insert joke here ]",
-      "This input goes nowhere ==> <input type='text'>",
+      "The input goes nowhere ==> <input type='text'>",
       "Clicking the button does nothing ==> <button style='background: #7A61E2; color: #fff; display: inline-block;'>I do nothing</button>",
-      "Pick a number - any number ==> <input type='number'>",
+      "Pick a number - any number - for no reason ==> <input type='number'>",
       "Turn the \"radio\" on ==> <input type='radio'>",
-      "Change this color ==> <input type='color' value='#7A61E2'>"
+      "I am a computer - beep bop boop",
+      "Commenting is prohibited - for everyone's sake",
+      "I'll get to it at some point"
     ]
 
     [languages.en.params.logo]
