@@ -14,9 +14,7 @@
   {{ partial "header.html" . }}
 
   {{ if .IsHome }}
-  <i style="font-size:1.5em">
-    {{ $.Site.Params.Subtitle }}
-  </i>
+  <div id="carl" style="font-size:1.5em; font-style: italic;"> </div>
   {{ end }}
 
   <div class="content">
@@ -30,4 +28,15 @@
 </div>
 
 </body>
+
+<script>
+  var taglines = {{ $.Site.Params.Taglines }}
+
+	function randInt(max) {
+    return Math.floor(Math.random() * Math.floor(max));
+  }
+
+  document.getElementById("carl").innerHTML = document.getElementById("carl").innerHTML.replace(/ /g, taglines[randInt(taglines.length)]);
+</script>
+
 </html>

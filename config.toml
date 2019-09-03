@@ -29,6 +29,21 @@ paginate = 5
     menuMore = "Show more"
     readMore = "Read post"
     readOtherPosts = "Read other posts"
+    taglines = [
+	    "Only at participating locations", 
+      "No dice - roll again", 
+      "I still can't beleive it's not butter",
+      "All employees must use the service entrance",
+      "Oh - I'm sorry - you just missed them",
+      "Freshness guaranteed",
+      "Terms of service - use it or don't",
+      "[ Insert joke here ]",
+      "This input goes nowhere ==> <input type='text'>",
+      "Clicking the button does nothing ==> <button style='background: #7A61E2; color: #fff; display: inline-block;'>I do nothing</button>",
+      "Pick a number - any number ==> <input type='number'>",
+      "Turn the \"radio\" on ==> <input type='radio'>",
+      "Change this color ==> <input type='color' value='#7A61E2'>"
+    ]
 
     [languages.en.params.logo]
       logoText = "Noah Kernis - The Blog"
