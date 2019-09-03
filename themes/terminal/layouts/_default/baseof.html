@@ -15,7 +15,7 @@
 
   {{ if .IsHome }}
   <div>
-    <span id="tagline" style="font-size:1.5em; font-style: italic;">carl</span>
+    <span id="tagline" style="font-size:1.5em; font-style: italic;">&nbsp;</span>
   </div>
   {{ end }}
 
@@ -37,7 +37,7 @@
   };
 
   var oldTxt = document.getElementById("tagline").innerHTML;
-  var newTxt = oldTxt.replace(/carl/g, taglines[randInt(taglines.length)]);
+  var newTxt = oldTxt.replace(/&nbsp;/g, taglines[randInt(taglines.length)]);
   document.getElementById("tagline").innerHTML = newTxt;
 </script>
 
