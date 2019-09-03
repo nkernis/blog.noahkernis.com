@@ -36,7 +36,9 @@
     return Math.floor(Math.random() * Math.floor(max));
   };
 
-  document.getElementById("tagline").innerHTML = document.getElementById("tagline").innerHTML.replace(/ /g, taglines[randInt(taglines.length)]);
+  var oldTxt = document.getElementById("tagline").innerHTML;
+  var newTxt = oldTxt.replace(/\ /g, taglines[randInt(taglines.length)]);
+  document.getElementById("tagline").innerHTML = newTxt;
 </script>
 
 </body>
