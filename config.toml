@@ -23,8 +23,8 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "Noah Kernis - The Blog"
-    subtitle = "Only at participating locations"
-    keywords = "blog itp technology art learning "
+    subtitle = "Blog is a wierd word"
+    keywords = "blog itp technology art learning noah kernis"
     copyright = "All The Rights - All Of Time - All To Noah Kernis"
     menuMore = "Show more"
     readMore = "Read post"
