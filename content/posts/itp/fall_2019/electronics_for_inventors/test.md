@@ -1,9 +1,9 @@
 +++
 slug = "test"
 title = "test"
-date = "2019-09-04T14:42:22-04:00"
+date = "2019-09-01T14:42:22-04:00"
 author = "Noah Kernis"
-tags = ["itp", "intro_physical_computing"]
+tags = ["itp", "electronics_for_inventors"]
 description = "Proof Sections Works"
 showFullContent = false
 +++

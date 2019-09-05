@@ -1,4 +1,8 @@
 {{ define "main" }}
+<div id="tagline" style="font-size:1.5em; font-style: italic;">
+  <span>&nbsp;</span>
+</div>
+
 <div class="posts">
   {{ $isntDefault := not (or (eq (trim $.Site.Params.contentTypeName " ") "posts") (eq (trim $.Site.Params.contentTypeName " ") "")) }}
   {{ $contentTypeName := cond $isntDefault (string $.Site.Params.contentTypeName) "posts" }}
