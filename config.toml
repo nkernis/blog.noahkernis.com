@@ -30,7 +30,7 @@ paginate = 5
     readMore = "Read post"
     readOtherPosts = "Read other posts"
     taglines = [
-	    "Only at participating locations", 
+      "Only at participating locations", 
       "No dice - roll again", 
       "I still can't beleive it's not butter",
       "All employees must use the service entrance",
