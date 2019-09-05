@@ -11,3 +11,17 @@ showFullContent = false
 This is proof this section works.
 
 Post will be removed when I have real first post...
+
+```js
+
+  var taglines = "words"
+
+  function randInt(max) {
+    return Math.floor(Math.random() * Math.floor(max));
+  };
+
+  var oldTxt = document.getElementById("tagline").innerHTML;
+  var newTxt = oldTxt.replace(/&nbsp;/g, taglines[randInt(taglines.length)]);
+  document.getElementById("tagline").innerHTML = newTxt;
+
+```
