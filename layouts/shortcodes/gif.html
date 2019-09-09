@@ -1,0 +1,26 @@
+{{ if .Get "src" }}
+<figure class="{{ with .Get "position"}}{{ . }}{{ else -}} left {{- end }}">
+	<img src="{{ .Get "src" | safeURL }}" {{ with .Get "alt" }} alt="{{ . | plainify }}" {{ end }}
+		{{ with .Get "style" }} style="{{ . | safeCSS }}" {{ end }} />
+	{{ if .Get "caption" }}
+	<figcaption class="{{ with .Get "captionPosition"}}{{ . }}{{ else -}} center {{- end }}"
+		{{ with .Get "captionStyle" }} style="{{ . | safeCSS }}" {{ end }}>{{ .Get "caption" }}</figcaption>
+	{{ end }}
+</figure>
+{{ end }}
+
+
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;">
+	<iframe
+		src="{{ .Get "src" | safeURL }}" {{ with .Get "alt" }} alt="{{ . | plainify }}" {{ end }} 
+		width="100%"
+		height="100%" style="position:absolute"
+		frameBorder="0" 
+		class="giphy-embed" 
+		allowFullScreen>
+	</iframe>
+	{{ if .Get "caption" }}
+	<figcaption class="{{ with .Get "captionPosition"}}{{ . }}{{ else -}} center {{- end }}" {{ with .Get "captionStyle" }}
+		style="{{ . | safeCSS }}" {{ end }}>{{ .Get "caption" }}</figcaption>
+	{{ end }}
+</div>
