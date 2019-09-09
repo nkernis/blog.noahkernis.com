@@ -27,7 +27,7 @@
 
 
   {{ if .Params.Cover}}
-  <img src="{{ .Params.Cover | absURL }}" alt="{{ .Params.Alt }}" class="post-cover" />
+  <img src="{{ .Params.Cover | safeURL }}" alt="{{ .Params.Alt }}" class="post-cover" />
   {{ end }}
 
   <div class="post-content">
