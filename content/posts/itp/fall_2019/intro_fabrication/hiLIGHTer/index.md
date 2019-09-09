@@ -2,20 +2,17 @@
 slug = "hiLIGHTer"
 title = "hiLIGHTer"
 date = "2019-09-06T01:02:36-04:00"
-cover = "img/cover.JPG"
-alt="Drawing of concept for flashlight"
 author = "Noah Kernis"
-tags = ["itp"]
+tags = ["itp", "intro_fabrication"]
 description = "Make a flashlight they said..."
 showFullContent = false
-
 +++
 
 ## The Thinking Part
 
 I decided for the project "Make a flashlight", I would make a flashlight. 
 
-My first idea was to make something that would twist to turn the light on and off. I thought of one small tube in a bigger tube, both with holes in the side. When twisted, and the holes lined up, the light would turn on.
+My first idea was to make something that would twist to turn the light on and off. I thought of one small tube in a bigger tube.
 
 I ended up building two lights. 
 
@@ -25,9 +22,11 @@ The second light was a "hiLIGHTer". It's a highlighter with an LED instead of in
 
 ## Drawings
 
-[ pic ]
+{{< figure src="img/00_drawing.JPG" alt="Drawing of concept for hiLIGHTER. Also, drawing for how contacts should line up" caption="[ Left: Concept | Right: How Contacts Should Work ]" >}}
 
 ## Materials
+
+{{< figure src="img/01_raw_materials.JPG" alt="raw materials, including plastic containers and some tools" caption="[ Materials and Tools ]" >}}
 
 *Quart Containers* 
 
@@ -37,9 +36,6 @@ The second light was a "hiLIGHTer". It's a highlighter with an LED instead of in
 - Wire socket with loose wires (taken from a found battery holder)
 - LED (green)
   
-{{< figure src="img/01_raw_materials.JPG" alt="raw materials, including plastic containers and some tools" caption="[ Materials and Tools ]" >}}
-xorxorxor7A61E27A61E27A61E27A61E27A61E27A61E27A61E27A61E27A61E27A61E27A61E27A61E27A61E27A61E27A61E27A61E27A61E27A61E27A61E27A61E27A61E27A61E27A61E27A61E2
-
   
 *hiLIGHTer* 
 
@@ -47,6 +43,8 @@ xorxorxor7A61E27A61E27A61E27A61E27A61E27A61E27A61E27A61E27A61E27A61E27A61E27A61E
 - Marker (found on free shelf)
 - Toothpick
 - LED (yellow)
+- Paperclips
+- 3V Watch Battery
 
 ## Tools
 
@@ -55,7 +53,7 @@ xorxorxor7A61E27A61E27A61E27A61E27A61E27A61E27A61E27A61E27A61E27A61E27A61E27A61E
 - Wire striper
 - Pliers
 - Soldering iron
-- Saw
+- Hand Saw
 - Sandpaper
 
 ## The Process of Building - Quart Containers
@@ -72,7 +70,11 @@ I tried a battery pack that held 2 AA batteries. Cool, I can turn a LED on.
 
 I wanted to test the twisting mechanism with contacts. So.......
 
-
+{{< figure src="img/02_contact_wire_example.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/03_cup_contact_example.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/04_holes_drilled_cups.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/05_cups_wired_up.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/06_cups_light_on.JPG" alt="..." caption="[ ... ]" >}}
 
 
 

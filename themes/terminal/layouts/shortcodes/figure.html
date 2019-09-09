@@ -1,8 +1,8 @@
 {{ if .Get "src" }}
-  <figure class="{{ with .Get "position"}}{{ . }}{{ else -}} left {{- end }}" >
-    <img src="{{ .Get "src" | safeURL }}" {{ with .Get "alt" }} alt="{{ . | plainify }}" {{ end }} {{ with .Get "style" }} style="{{ . | safeCSS }}" {{ end }} />
+  <figure class="center" style="max-width:70%;">
+    <img src="{{ .Get "src" | safeURL }}" {{ with .Get "alt" }} alt="{{ . | plainify }}" {{ end }} />
     {{ if .Get "caption" }}
-      <figcaption class="{{ with .Get "captionPosition"}}{{ . }}{{ else -}} center {{- end }}" {{ with .Get "captionStyle" }} style="{{ . | safeCSS }}" {{ end }}>{{ .Get "caption" }}</figcaption>
+      <figcaption class="center">{{ .Get "caption" }}</figcaption>
     {{ end }}
   </figure>
 {{ end }}
