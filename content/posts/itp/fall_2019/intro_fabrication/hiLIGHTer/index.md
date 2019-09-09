@@ -1,12 +1,12 @@
 +++
-slug = "make_a_flashlight_they_said"
-title = "Make a Flashlight They Said..."
+slug = "hiLIGHTer"
+title = "hiLIGHTer"
 date = "2019-09-06T01:02:36-04:00"
 cover = "FILL (THIS SHOULD BE A HAND DRAWN IMAGE - EVERY TIME - EVERY POST)"
 alt="FILL (THIS SHOULD BE A HAND DRAWN IMAGE - EVERY TIME - EVERY POST)"
 author = "Noah Kernis"
 tags = ["itp"]
-description = "The light just has to go on"
+description = "Make a flashlight they said..."
 showFullContent = false
 
 +++
@@ -35,7 +35,7 @@ I tried a battery pack that held 2 AA batteries. Cool, I can turn a LED on.
 
 I wanted to test the twisting mechanism with contacts. So.......
 
-{{< figure src="/img/22_using_light.gif" alt="(gif) Hands twisting light to turn it on" caption="[ Turning 'hiLIGHTer' On ]" >}}
+{{< figure src="img/22_using_light.gif" alt="(gif) Hands twisting 'hiLIGHTer' to turn it on" caption="[ Turning 'hiLIGHTer' On ]" >}}
 
 LINES FOR LATER:
 
