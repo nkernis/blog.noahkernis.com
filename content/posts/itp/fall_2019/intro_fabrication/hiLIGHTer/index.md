@@ -10,7 +10,7 @@ showFullContent = false
 
 ## The Thinking Part
 
-I decided for the project "Make a flashlight", I would make a flashlight - shocking. 
+I decided for the project "Make a flashlight", I would make a flashlight. 
 
 I was interested in building an interaction that wasn't a button. My first idea was to make something that would twist to turn the light on and off. I thought of one small tube in a bigger tube.
 
