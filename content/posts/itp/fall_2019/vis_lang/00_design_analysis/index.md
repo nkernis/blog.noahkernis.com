@@ -1,10 +1,10 @@
 +++
 slug = "design_analysis"
 title = "Design Analysis"
-date = "2019-09-10T14:50:25-04:00"
+date = "2019-09-06T01:02:36-04:00"
 author = "Noah Kernis"
 tags = ["itp", "visual_language"]
-description = "FILL"
+description = "Hairy Who, 1966  Exhibit Poster"
 showFullContent = false
 +++
 
