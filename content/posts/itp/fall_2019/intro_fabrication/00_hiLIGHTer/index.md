@@ -18,8 +18,8 @@ I ended up building two lights.
 
 The first light was to test if the twisting mechanism would work. It was made of two plastic quart containers (thank you delivery food) stacked on top of each other. I decided to use plastic quart containers for two reasons: 
 
-1. Were large and provided a lot of workable surface area  
-2. Were clear so I could easily see if something wasn't in the correct position  
+1. They were large and provided a lot of workable surface area  
+2. They were clear so I could easily see if something wasn't in the correct position  
 
 The second light was a "hiLIGHTer". It's a highlighter with an LED instead of ink. The idea for this came from walking over to the junk shelf and looking for parts. I saw a highlighter and a marker and thought if I took out the insides of both, the marker would fit into the highlighter body. Turns out - it did.
 
@@ -48,7 +48,7 @@ The second light was a "hiLIGHTer". It's a highlighter with an LED instead of in
 - LED (yellow)
 - Paperclips
 - 3V Watch Battery
-- Metal contacts (disks and rods) [taken from a found battery holder]
+- Metal contacts (rods) [taken from a found battery holder]
 
 {{< figure src="img/07_raw_materials.JPG"  alt="raw materials, highlighter and marker (ends cut off)" caption="[ Materials and Tools - Highlighter & Marker (ends cut off)]" >}}
 
@@ -66,7 +66,7 @@ The second light was a "hiLIGHTer". It's a highlighter with an LED instead of in
 
 ## The Process of Building - Quart Containers
 
-To start, I needed to figure out how to make an LED turn on. I found a battery holder and cut the plug bit off the end. I could put the LED in the plug end and then have the lo0se wires free to use. I put the LED in the plug, then held the ends of the wires to a AA battery. No luck. I tried a battery pack that held 2 AA batteries. Cool, I can turn a LED on.
+To start, I needed to figure out how to make an LED turn on. I found a battery holder and cut the plug bit off the end. I could put the LED in the plug end and then have the loose wires free to use. I put the LED in the plug, then held the ends of the wires to a AA battery. No luck. I tried a battery pack that held 2 AA batteries. Cool, I can turn a LED on.
 
 I wanted to test the twisting mechanism with contacts. Using electrical tape, I placed metal discs on the outside of the inner quart container, and metal rods on the inside of the outer container. When twisted, the the metal rods would touch the metal discs.
 
