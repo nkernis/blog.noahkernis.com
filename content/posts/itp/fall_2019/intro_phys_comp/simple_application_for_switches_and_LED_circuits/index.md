@@ -22,7 +22,7 @@ For the most part, building the simple circuit went well. There is one moment wo
 
 **Important lesson #1**: When using the cheap wires that come with breadboards, test them for continuity
 
-It took me forty minutes to realize that issue was not my wiring, but rather it was a single, evil wire. I have provided a photo of this evil wire so I can be reminded of this lesson. 
+It took me forty minutes to realize that the issue was not my wiring, but rather it was a single, evil wire. I have provided a photo of this evil wire so I can be reminded of this lesson. 
 
 {{< figure src="img/01_evil_wire.JPG" alt="short, orange wire on table. up close" caption="[ Evil Wire ]" >}}
 
@@ -51,15 +51,30 @@ And here is the button in action:
 
 ### Motor
 
-For this I replaced the LED with a motor and kept the button. The button turns on the motor. 
+For this, I replaced the LED with a motor and kept the button. The button turns on the motor. 
 
-The motor moves and vibrates a bunch when turned on. The motor's plastic case has a loop end on the back. I poked that into the small cardboard box the motor came in. 
+When on, the motor moves and vibrates a bunch when turned on. For fun, I wanted to see if I could make something quickly that moved. 
 
-When I turned on the motor, the box vibrated and moved a way from me. 
+The motor's plastic encasing has a loop end on the back. I poked that into the small cardboard box the motor came in. When I turned on the motor, the box vibrated and moved a way from me. 
 
 {{< figure src="img/03_button_motor.gif" alt="Finger pressing button to turn on motor. The motor is poked into a cardboard box, and when turned on, the box moves away. A flag on top also twirls, and when stopped, reveals the caption 'hello, motor'" caption="[ Hello, Motor ]" >}}
 
 ## The Process of Building - Handshake Activated LED
 
-{{< figure src="img/04_ring_wired_up.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/05_handshake.gif" alt="..." caption="[ ... ]" >}}
+To create the switch for the handshake, I used the same breadboard setup I had been using for learning basic circuits. 
+
+First I build the circuit for just an LED. I added two long wires extending out from the breadboard. This was done using wires that had alligator clips.
+
+Next, I asked my friend Jake, who has a silver ring, if he would help me with my circuit (*THANK YOU JAKE*).
+
+Then I connected one clip to my ring, and the other clip to Jake's ring.
+
+{{< figure src="img/04_ring_wired_up.JPG" alt="Foreground: Alligator clip connected to gold ring. Background: Breadboard setup for LED." caption="[ The Setup - My Ring ]" >}}
+
+To active the LED, our rings hand to make contact. To do this, Jake and I shook hands (yes - left hands - whatever). 
+
+{{< figure src="img/05_handshake.gif" alt="Hands with rings connected to wires. The hands shakes and the yellow LED on the breadboard turns on." caption="[ Shake To Turn The LED On ]" >}}
+
+## Conclusions 
+
+- Test your wires for continuity (worth saying twice)
