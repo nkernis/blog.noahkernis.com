@@ -4,7 +4,7 @@ title = "Simple Application for Switches and LED Circuits"
 date = "2019-09-17T21:19:43-04:00"
 author = "Noah Kernis"
 tags = ["itp", "intro_physical_computing"]
-description = "FILL"
+description = "Learning basic circuits, and a valuable lesson."
 showFullContent = false
 +++
 
