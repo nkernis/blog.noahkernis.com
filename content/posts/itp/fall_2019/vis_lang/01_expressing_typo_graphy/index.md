@@ -4,7 +4,7 @@ title = "Expressing Typo Graphy"
 date = "2019-09-17T23:07:35-04:00"
 author = "Noah Kernis"
 tags = ["itp", "visual_language"]
-description = "FILL"
+description = "Expressive words and a redesigned airline ticket"
 showFullContent = false
 +++
 
@@ -23,6 +23,6 @@ showFullContent = false
 
 {{< figure src="img/whiskers.png" alt="The word 'whiskers'. The letters are long thing, with hundreds of tiny lines coming off them (like whiskers). Kinda scary looking." caption="[ Whiskers ]" >}}
 
-## Plane Ticket
+## Airline Ticket
 
 {{< figure src="img/plane_ticket.png" alt="A potential design for an airline ticket." caption="[ Whiskers ]" >}}
