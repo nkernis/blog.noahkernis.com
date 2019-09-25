@@ -9,10 +9,23 @@ showFullContent = false
 +++
 
 {{< figure src="img/06_example_trace.png" alt="..." caption="[ ... ]" >}}
+
 {{< figure src="img/07_example_avg.png" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/05_trace.png" alt="..." caption="[ ... ]" >}}" 
+
+{{< figure src="img/05_trace.png" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/05_raw.JPG" alt="..." caption="[ ... ]" >}}
+
 {{< figure src="img/04_trace.png" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/04_raw.JPG" alt="..." caption="[ ... ]" >}}
+
 {{< figure src="img/00_avg_both.png" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/00_raw.JPG" alt="..." caption="[ ... ]" >}}
+
 {{< figure src="img/01_avg_both.png" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/01_raw.jpg" alt="..." caption="[ ... ]" >}}
+
 {{< figure src="img/02_avg_vert.png" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/02_raw.JPG" alt="..." caption="[ ... ]" >}}
+
 {{< figure src="img/03_hor_avg.png" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/03_raw.jpg" alt="..." caption="[ ... ]" >}}
