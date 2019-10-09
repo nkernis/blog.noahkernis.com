@@ -12,6 +12,14 @@ showFullContent = false
 
 {{< figure src="img/00_poster.png" alt="ITP Winter Show poster idea. Hand-drawn look, in black and white. Bottom third contains face, close up. Eyes look bewlidered. Above is a thought cloud that sys 'ITP Winter Show'. It is surrounded by words saying, counter clockwise from the top left: 'media', 'humans', 'gizmos', 'systems', 'art?, '$$$', 'fake news', and 'create/destroy'." caption="[ Poster For Winter Show ]" >}}
 
+## Version 2
+
+{{< figure src="img/02_poster_v2.png" alt="Version 2 of the psoters" caption="[ Poster For Winter Show - V2 ]" >}}
+
+After getting critique from my class, I went back to design and made changes.
+
+I added the missing information. Added some background texture. I also made changes to several of the words and their fonts.
+
 ## The Thinking Part
 
 The prompt for this project, was to make a poster for the Fall 2019 ITP Winter show. 
