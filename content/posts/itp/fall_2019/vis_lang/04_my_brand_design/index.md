@@ -8,6 +8,8 @@ description = "My brand! \"Look - look with your special eyes!\""
 showFullContent = false
 +++
 
+<!-- ADD STYLE GUIDE, COLOR, INSPIRATION, MY SIGNATURE, MY FONT (GE AND NMK), MY USE OF THE DASH IN LANG WORKS FOR LOGO,AND MORE ON IDEAS -->
+
 ## The Thinking Part
 
 For this assignment, I developed a logo for my name. I also continued developing a logo/signature I use for when I produce art.
