@@ -1,6 +1,6 @@
 +++
 slug = "02_knock-off_etch_a_sketch"
-title = "02 Knock-Off Etch a Sketch"
+title = "Knock-Off Etch a Sketch"
 date = "2019-10-15T23:18:38-04:00"
 author = "Noah Kernis"
 tags = ["itp", "intro_physical_computing"]
@@ -14,6 +14,6 @@ showFullContent = false
 
 {{< figure src="img/01_etch_a_sketch.png" alt="..." caption="[ Etch A Sketch Demo ]" >}}
 
-(LINK TO SKETCH)[https://editor.p5js.org/nkernis/sketches/FUJqw150P]
+[LINK TO SKETCH](https://editor.p5js.org/nkernis/sketches/FUJqw150P)
 
 MORE TO COME
