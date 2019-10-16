@@ -1,5 +1,5 @@
 +++
-slug = "04_my_brand_design"
+slug = "my_brand_design"
 title = "My Brand Design"
 date = "2019-10-09T13:03:04-04:00"
 author = "Noah Kernis"
