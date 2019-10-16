@@ -10,7 +10,9 @@ showFullContent = false
 
 ## Etch A Sketch in p5.js
 
-{{< figure src="img/etch_a_sketch" alt="..." caption="[ Etch A Sketch Demo ]" >}}
+{{< figure src="img/00_board_and_pots.JPG" alt="..." caption="[ Inputs On Board ]" >}}
+
+{{< figure src="img/01_etch_a_sketch.png" alt="..." caption="[ Etch A Sketch Demo ]" >}}
 
 (LINK TO SKETCH)[https://editor.p5js.org/nkernis/sketches/FUJqw150P]
 
