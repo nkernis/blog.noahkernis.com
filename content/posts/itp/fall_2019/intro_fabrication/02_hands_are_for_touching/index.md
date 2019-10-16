@@ -23,6 +23,4 @@ draft = true
 
 ## What I Made
 
-<!-- {{< figure src="img/.gif" alt="(gif) . . ." caption="[ ... ]" >}} -->
-
 ## Conclusions 
