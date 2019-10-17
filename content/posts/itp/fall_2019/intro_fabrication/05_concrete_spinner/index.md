@@ -8,8 +8,6 @@ description = "FILL"
 showFullContent = false
 +++
 
-{{< figure src="img/03_raw.jpg" alt="..." caption="[ ... ]" >}}
-
 {{< figure src="img/00_fan.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/01_first_spinner.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/03_1.JPG" alt="..." caption="[ ... ]" >}}
@@ -50,6 +48,33 @@ showFullContent = false
 {{< figure src="img/31_button_inset.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/32_copper_tube_setting.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/33_caulk_drying.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/34_workspace.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/35_filled_with_concrete.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/36_1_making_flag.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/36_2.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/36_3.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/36_4.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/37_prototype_motor_mount.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/38_still_drying.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/39_1_motor_mount.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/39_2.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/40_concrete_is_dry.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/41_box_sides_removed.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/42_box_side.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/43_trim_pvc_pipe_top.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/44_bottom_of_block.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/45_1_prepping_components.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/45_2.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/45_3.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/46_setting button in concrete.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/47_1_connecting_components.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/47_2.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/47_3.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/47_4.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/49_1_done.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/49_2.JPG" alt="..." caption="[ ... ]" >}}
+
+
 
 ## The Thinking Part
 
