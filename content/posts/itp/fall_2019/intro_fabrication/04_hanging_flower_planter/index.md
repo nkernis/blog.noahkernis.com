@@ -10,6 +10,7 @@ showFullContent = false
 
 {{< figure src="img/03_raw.jpg" alt="..." caption="[ ... ]" >}}
 
+
 ## The Thinking Part
 
 ## Drawings
