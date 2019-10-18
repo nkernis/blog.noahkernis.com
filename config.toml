@@ -19,6 +19,8 @@ paginate = 5
   # set a custom favicon (default is a `themeColor` square)
   favicon = "favicon.ico"
 
+  siteURL = "https://blog.noahkernis.com"
+
 [languages]
   [languages.en]
     languageName = "English"
