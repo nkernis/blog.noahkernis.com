@@ -8,6 +8,12 @@ description = "FILL"
 showFullContent = false
 +++
 
+<!-- https://blog.homedepot.com/diy-outdoor-kitchen-concrete-countertops/ -->
+<!-- https://blog.homedepot.com/concrete-pipe-shelves-industrial-chic/ -->
+<!-- https://www.youtube.com/watch?v=aT-JGSTaRn4 -->
+
+<!-- https://www.johnedmark.com/phi/ -->
+
 {{< figure src="img/00_fan.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/01_first_spinner.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/03_1.JPG" alt="..." caption="[ ... ]" >}}
@@ -73,8 +79,6 @@ showFullContent = false
 {{< figure src="img/47_4.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/49_1_done.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/49_2.JPG" alt="..." caption="[ ... ]" >}}
-
-
 
 ## The Thinking Part
 

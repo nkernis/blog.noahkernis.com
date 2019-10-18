@@ -8,6 +8,8 @@ description = "FILL"
 showFullContent = false
 +++
 
+<!-- https://www.thespruce.com/how-to-paint-wood-like-a-pro-1822379 -->
+
 {{< figure src="img/00_sketch_1.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/01_sketch_2.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/02_materials.jpg" alt="..." caption="[ ... ]" >}}
