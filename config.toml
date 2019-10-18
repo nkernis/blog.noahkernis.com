@@ -2,7 +2,6 @@ baseurl = "/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
-siteURL = "https://blog.noahkernis.com"
 
 [params]
   # dir name of your blog content (default is `content/posts`)
