@@ -8,8 +8,12 @@ description = "Project Management stuff for my pcomp final project."
 showFullContent = false
 +++
 
-{{< figure src="img/00_setup.jpg" alt="Circle of 7 laptops, each on a pedestal. There is an 8th stand with a TV on it." caption="[ Project Setup ]" >}}
+## Project Management
 
-{{< figure src="img/01_materials.png" alt="List of materials needed and what they cost." caption="[ Materials And Cost ]" >}}
+After trying several project management tools, I decided to go with Airtable for everything.
 
-{{< figure src="img/02_timeline.png" alt="Schedule for of tasks to do up to presenting projects." caption="[ Timeline ]" >}}
+Here is a link to it: [00_Gossip_Protocol](https://airtable.com/shrGytbkMfYQqy0FA)
+
+And here is is embedded in this page...
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrGytbkMfYQqy0FA?backgroundColor=pink&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
