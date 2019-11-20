@@ -8,6 +8,10 @@ description = "Project Management stuff for my pcomp final project."
 showFullContent = false
 +++
 
+## Setup
+
+{{< figure src="img/00_setup.jpg" alt="Circle of 7 laptops, each on a pedestal. There is an 8th stand with a TV on it." caption="[ Project Setup ]" >}}
+
 ## Project Management
 
 After trying several project management tools, I decided to go with Airtable for everything.
