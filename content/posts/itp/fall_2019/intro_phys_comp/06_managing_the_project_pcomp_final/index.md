@@ -16,8 +16,8 @@ showFullContent = false
 
 After trying several project management tools, I decided to go with Airtable for everything.
 
-Here is a link to it: [00_Gossip_Protocol](https://airtable.com/shrGytbkMfYQqy0FA)
-
-And here is is embedded in this page...
+Here it is embedded in this page:
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrGytbkMfYQqy0FA?backgroundColor=pink&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+And here is a link to it if iframes fail... [00_Gossip_Protocol](https://airtable.com/shrGytbkMfYQqy0FA)
