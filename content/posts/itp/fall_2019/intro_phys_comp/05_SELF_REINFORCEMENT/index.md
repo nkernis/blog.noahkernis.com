@@ -8,7 +8,7 @@ description = "SELF REINFORCEMENT is a piece exploring the relationship between 
 showFullContent = false
 +++
 
-{{< figure src="img/00_poster.jpg" alt="Poster for project" caption="[ Poster ]" >}}
+{{< figure src="img/000.JPG" alt="Poster for project" caption="[ Poster ]" >}}
 
 ## About The Piece
 
@@ -62,7 +62,7 @@ A HUMAN, via a control box, can assign the feed from any of the video feeds, to 
 
 <!-- Describe Outline -->
 
-#### Materials
+###s# Materials
 
 <!-- List Materials -->
 
@@ -78,44 +78,47 @@ A HUMAN, via a control box, can assign the feed from any of the video feeds, to 
 
 <!-- Discuss coding (link to repo) -->
 
-{{< figure src="img/IMG_8319.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8320.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8321.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8322.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8323.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8324.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8325.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8326.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8327.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8328.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8329.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8330.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8331.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8332.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8333.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8334.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8335.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/00_poster.jpg" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/59755375196__52ED7C75-FD57-47E1-B10A-0FF53629CF91.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8189.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8190.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8198.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8202.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8206.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8207.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8208.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8247.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8249.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8251.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8254.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8258.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8264.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8268 2.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8274.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8276.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8279.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8288.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8291.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8293.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/IMG_8297.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/Screen Shot 2019-12-05 at 11.39.40 PM.png" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/010.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/020.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/030.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/040.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/050.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/060.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/070.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/080.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/090.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/100.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/110.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/120.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/130.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/140.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/150.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/160.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/170.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/180.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/190.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/200.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/201.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/210.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/220.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/230.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/240.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/250.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/260.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/270.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/280.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/290.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/300.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/310.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/320.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/330.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/340.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/350.png" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/360.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/370.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/380.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/390.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/400.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/410.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/420.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/430.JPG" alt="..." caption="[ ... ]" >}}
