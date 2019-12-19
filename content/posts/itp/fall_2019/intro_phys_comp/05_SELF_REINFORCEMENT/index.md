@@ -78,6 +78,23 @@ A HUMAN, via a control box, can assign the feed from any of the video feeds, to 
 
 <!-- Discuss coding (link to repo) -->
 
+{{< figure src="img/IMG_8319.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8320.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8321.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8322.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8323.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8324.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8325.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8326.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8327.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8328.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8329.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8330.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8331.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8332.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8333.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8334.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8335.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/00_poster.jpg" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/59755375196__52ED7C75-FD57-47E1-B10A-0FF53629CF91.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/IMG_8189.JPG" alt="..." caption="[ ... ]" >}}

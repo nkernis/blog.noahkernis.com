@@ -41,21 +41,13 @@ By holding the box, the person becomes the organ transport. The pulse reflects t
 
 <!-- Where I started from - early ideas and research -->
 
-### Idea 1
+### The Idea
 
 <!-- Idea 1 -->
 
 <!-- Idea 1 Experiments -->
 
 <!-- Idea 1 issue -->
-
-### Idea 2
-
-<!-- Idea 2 -->
-
-<!-- Idea 2 Experiments (mostly from 1) -->
-
-<!-- Concepts for Idea 2 -->
 
 ## The "How I Made It" Part
 
