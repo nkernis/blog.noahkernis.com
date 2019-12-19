@@ -79,32 +79,32 @@ By holding the box, the person becomes the organ transport. The pulse reflects t
 
 <!-- Discuss coding (link to repo) -->
 
-{{< figure src="59807103330__33A42B41-0750-4B7F-9AE8-1C9D169CCFDB.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="Hand 3.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_5974.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8083.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8084.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8085.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8088.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8089.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8091.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8095.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8096.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8097.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8103.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8105.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8107.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8108.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8109.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8112.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8113.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8116.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8117.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8118.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8119.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8156.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8308.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8310.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8312.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8313.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8443.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/59807103330__33A42B41-0750-4B7F-9AE8-1C9D169CCFDB.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/Hand 3.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_5974.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8083.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8084.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8085.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8088.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8089.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8091.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8095.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8096.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8097.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8103.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8105.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8107.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8108.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8109.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8112.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8113.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8116.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8117.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8118.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8119.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8156.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8308.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8310.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8312.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8313.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8443.JPG" alt="..." caption="[ ... ]" >}}

@@ -77,32 +77,28 @@ A HUMAN, via a control box, can assign the feed from any of the video feeds, to 
 ### Code
 
 <!-- Discuss coding (link to repo) -->
-{{< figure src="" alt="..." caption="[ ... ]" >}}
 
-{{< figure src="00_poster.jpg" alt="..." caption="[ ... ]" >}}
-{{< figure src="59496363093__4188AAAC-54E2-41DE-B7AD-54872DB87E1D.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="59529081138__8E66685D-5BE5-4DEF-8E0A-772AB14B85AA.jpg" alt="..." caption="[ ... ]" >}}
-{{< figure src="59701512919__AED76948-E2A4-43E1-8CF3-F51A2AC1B06B.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="59755375196__52ED7C75-FD57-47E1-B10A-0FF53629CF91.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8189.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8190.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8198.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8202.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8206.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8207.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8208.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8247.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8249.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8251.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8254.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8258.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8264.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8268 2.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8274.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8276.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8279.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8288.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8291.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8293.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="IMG_8297.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="Screen Shot 2019-12-05 at 11.39.40 PM.png" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/00_poster.jpg" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/59755375196__52ED7C75-FD57-47E1-B10A-0FF53629CF91.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8189.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8190.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8198.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8202.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8206.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8207.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8208.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8247.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8249.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8251.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8254.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8258.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8264.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8268 2.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8274.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8276.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8279.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8288.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8291.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8293.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8297.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/Screen Shot 2019-12-05 at 11.39.40 PM.png" alt="..." caption="[ ... ]" >}}
