@@ -24,15 +24,26 @@ A HUMAN, via a control box, can assign the feed from any of the video feeds, to 
 
 <!-- Pictures of Setup -->
 
+{{< figure src="img/370.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/380.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/390.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/400.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/410.JPG" alt="..." caption="[ ... ]" >}}
+
 <!-- Video of Setup -->
 
 #### Show Time
 
 <!-- Pictures of People -->
 
+{{< figure src="img/420.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/430.JPG" alt="..." caption="[ ... ]" >}}
+
 <!-- Videos of People -->
 
 <!-- Link to Live Stream Archive -->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/11M3RLmayz8?start=524" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## The "Thinking" Part
 
@@ -43,40 +54,6 @@ A HUMAN, via a control box, can assign the feed from any of the video feeds, to 
 #### Idea 1
 
 <!-- Idea 1 -->
-
-<!-- Idea 1 Experiments -->
-
-<!-- Idea 1 issue -->
-
-#### Idea 2
-
-<!-- Idea 2 -->
-
-<!-- Idea 2 Experiments (mostly from 1) -->
-
-<!-- Concepts for Idea 2 -->
-
-## The "How I Made It" Part
-
-#### Overview
-
-<!-- Describe Outline -->
-
-###s# Materials
-
-<!-- List Materials -->
-
-#### Sketches
-
-<!-- Sketches -->
-
-#### Fabrication 
-
-<!-- Fab Process -->
-
-#### Code
-
-<!-- Discuss coding (link to repo) -->
 
 {{< figure src="img/010.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/020.JPG" alt="..." caption="[ ... ]" >}}
@@ -98,15 +75,46 @@ A HUMAN, via a control box, can assign the feed from any of the video feeds, to 
 {{< figure src="img/180.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/190.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/200.JPG" alt="..." caption="[ ... ]" >}}
+
+<!-- Idea 1 issue -->
+
+#### Idea 2
+
+<!-- Idea 2 -->
+
 {{< figure src="img/201.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/210.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/220.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/230.JPG" alt="..." caption="[ ... ]" >}}
+
+<!-- Idea 2 Experiments (mostly from 1) -->
+
+<!-- Concepts for Idea 2 -->
+
+## The "How I Made It" Part
+
+#### Overview
+
+<!-- Describe Outline -->
+
+#### Materials
+
+<!-- List Materials -->
+
+#### Sketches
+
+<!-- Sketches -->
+
 {{< figure src="img/240.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/250.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/260.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/270.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/280.JPG" alt="..." caption="[ ... ]" >}}
+
+#### Fabrication 
+
+<!-- Fab Process -->
+
+{{< figure src="img/230.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/290.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/300.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/310.JPG" alt="..." caption="[ ... ]" >}}
@@ -115,10 +123,7 @@ A HUMAN, via a control box, can assign the feed from any of the video feeds, to 
 {{< figure src="img/340.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/350.png" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/360.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/370.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/380.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/390.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/400.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/410.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/420.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/430.JPG" alt="..." caption="[ ... ]" >}}
+
+#### Code
+
+<!-- Discuss coding (link to repo) -->
