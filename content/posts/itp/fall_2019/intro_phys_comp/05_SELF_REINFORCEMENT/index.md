@@ -24,7 +24,6 @@ A HUMAN, via a control box, can assign the feed from any of the video feeds, to 
 
 <!-- Pictures of Setup -->
 
-{{< figure src="img/370.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/380.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/390.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/400.JPG" alt="..." caption="[ ... ]" >}}
@@ -43,7 +42,8 @@ A HUMAN, via a control box, can assign the feed from any of the video feeds, to 
 
 <!-- Link to Live Stream Archive -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/11M3RLmayz8?start=524" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="533" src="https://www.youtube.com/embed/11M3RLmayz8?start=524" frameborder="0" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe>
+
 
 ## The "Thinking" Part
 
@@ -123,6 +123,7 @@ A HUMAN, via a control box, can assign the feed from any of the video feeds, to 
 {{< figure src="img/340.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/350.png" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/360.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/370.JPG" alt="..." caption="[ ... ]" >}}
 
 #### Code
 
