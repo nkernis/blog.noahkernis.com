@@ -21,13 +21,13 @@ By holding the box, the person becomes the organ transport. The pulse reflects t
 
 ## ITP Winter Show - Spring 2019
 
-### The Setup
+#### The Setup
 
 <!-- Pictures of Setup -->
 
 <!-- Video of Setup -->
 
-### Show Time
+#### Show Time
 
 <!-- Pictures of People -->
 
@@ -37,11 +37,11 @@ By holding the box, the person becomes the organ transport. The pulse reflects t
 
 ## The "Thinking" Part
 
-### Ideas and Research
+#### Ideas and Research
 
 <!-- Where I started from - early ideas and research -->
 
-### The Idea
+#### The Idea
 
 <!-- Idea 1 -->
 
@@ -51,7 +51,7 @@ By holding the box, the person becomes the organ transport. The pulse reflects t
 
 ## The "How I Made It" Part
 
-### Overview
+#### Overview
 
 <!-- Describe Outline -->
 
@@ -59,15 +59,15 @@ By holding the box, the person becomes the organ transport. The pulse reflects t
 
 <!-- List Materials -->
 
-### Sketches
+#### Sketches
 
 <!-- Sketches -->
 
-### Fabrication 
+#### Fabrication 
 
 <!-- Fab Process -->
 
-### Code
+#### Code
 
 <!-- Discuss coding (link to repo) -->
 

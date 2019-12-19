@@ -20,13 +20,13 @@ A HUMAN, via a control box, can assign the feed from any of the video feeds, to 
 
 ## ITP Winter Show - Spring 2019
 
-### The Setup
+#### The Setup
 
 <!-- Pictures of Setup -->
 
 <!-- Video of Setup -->
 
-### Show Time
+#### Show Time
 
 <!-- Pictures of People -->
 
@@ -36,11 +36,11 @@ A HUMAN, via a control box, can assign the feed from any of the video feeds, to 
 
 ## The "Thinking" Part
 
-### Ideas and Research
+#### Ideas and Research
 
 <!-- Where I started from - early ideas and research -->
 
-### Idea 1
+#### Idea 1
 
 <!-- Idea 1 -->
 
@@ -48,7 +48,7 @@ A HUMAN, via a control box, can assign the feed from any of the video feeds, to 
 
 <!-- Idea 1 issue -->
 
-### Idea 2
+#### Idea 2
 
 <!-- Idea 2 -->
 
@@ -58,7 +58,7 @@ A HUMAN, via a control box, can assign the feed from any of the video feeds, to 
 
 ## The "How I Made It" Part
 
-### Overview
+#### Overview
 
 <!-- Describe Outline -->
 
@@ -66,15 +66,15 @@ A HUMAN, via a control box, can assign the feed from any of the video feeds, to 
 
 <!-- List Materials -->
 
-### Sketches
+#### Sketches
 
 <!-- Sketches -->
 
-### Fabrication 
+#### Fabrication 
 
 <!-- Fab Process -->
 
-### Code
+#### Code
 
 <!-- Discuss coding (link to repo) -->
 
