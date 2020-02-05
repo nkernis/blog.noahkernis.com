@@ -11,10 +11,16 @@ showFullContent = false
 ## Project Research
 
 - Overview of the issue you care about and
-	- Why it is important based on market research. 
-	- Try to include some high level data that validates why the issue is important. 
+  - Why it is important based on market research. 
+
+- Try to include some high level data that validates why the issue is important. 
 	- Identify 3-4 opportunity areas or places where you intersect with the issue. 
-	- Be narrow and specific.
+
+- Be narrow and specific.  
+  - Be narrow and specific.
+
+- Be narrow and specific. 
+  - Be narrow and specific.
 
 ## News Media Literacy
 
