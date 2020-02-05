@@ -8,20 +8,9 @@ description = "Research and overview on the issue of media Literacy in the US."
 showFullContent = false
 +++
 
-## Project Research
-
-* Overview of the issue you care about and
-  * Why it is important based on market research. 
-* Try to include some high level data that validates why the issue is important. 
-	* Identify 3-4 opportunity areas or places where you intersect with the issue. 
-* Be narrow and specific.  
-  * Be narrow and specific.
-* Be narrow and specific. 
-  * Be narrow and specific.
-
 ## News Media Literacy
 
-- How to validate?
+- How to validate?  
 	- Content can 
 - What to trust?
 	- Tiers of trust?
@@ -39,6 +28,8 @@ showFullContent = false
 	- “Stopping the proliferation of fake news isn't just the responsibility of the platforms used to spread it. Those who consume news also need to find ways of determining if what they're reading is true.”
 	- “The idea is that people should have a fundamental sense of media literacy. And  based on a study recently released by Stanford University researchers, many people don’t.
 		- *DATA* [Evaluating Information: The Cornerstone of Civic Online Reasoning](https://purl.stanford.edu/fv751yt5934)
+			- "Civic online reasoning: the ability to judge the credibility of information that floods young people’s smartphones, tablets, and computers."
+			- "When thousands of students respond to dozens of tasks there are endless variations. That was certainly the case in our experience. However, at each level—middle school, high school, and college—these variations paled in comparison to a stunning and dismaying consistency. Overall, young people’s ability to reason about the information on the Internet can be summed up in one word: bleak."
 		- [Can You Tell Fake News From Real? Study Finds Students Have ‘Dismaying’ Inability : The Two-Way : NPR](https://www.npr.org/sections/thetwo-way/2016/11/23/503129818/study-finds-students-have-dismaying-inability-to-tell-fake-news-from-real)
 		- “…a solution is for all readers to read like fact checkers.”	
 	- “‘You’ll isolate a claim that has something that can be objectively verified, you will seek the best primary sources in that topic. Find whether they match or refute or prove the claim being made, and then present with all limitations the data and what the data says about the claim being made,’ Mantzarlis says.”
@@ -60,9 +51,18 @@ showFullContent = false
 - [News Literacy Project](https://newslit.org/)
 	- Our mission: The News Literacy Project empowers educators to teach students the skills they need to become smart, active consumers of news and other information and engaged, informed participants in civic life.
 	- *DATA* https://newslit.org/wp-content/uploads/2019/10/NLP-Brochure-10-10-19-DIGITAL.pdf
+		- (Data actually from Common Sense Media)
+			- 90% of teens and pre-teens use social media.
+			- 76% of them get news there.
+			- 44% of teens and pre-teens believe that they know the difference between fake and real news.
+			- 31% of teens and pre-teens say they have shared information that they later learned was false or inaccurate.
 	- [‎Informable on the App Store](https://apps.apple.com/us/app/informable/id1486205705)
 - https://medialiteracynow.org/what-is-media-literacy/
 	- *DATA* [Generation M2: Media in the Lives of 8- to 18-Year-Olds | The Henry J. Kaiser Family Foundation](https://www.kff.org/other/event/generation-m2-media-in-the-lives-of/)
+		-
+
+
+
 - *DATA* [More studies to look at](https://journalistsresource.org/studies/society/news-media/fake-news-fact-checking-research-2019/)
 	- [Real Solutions for Fake News? Measuring the Effectiveness of General Warnings and Fact-Check Tags in Reducing Belief in False Stories on Social Media](https://link.springer.com/article/10.1007/s11109-019-09533-0)
 	- [Fighting misinformation on social media using crowdsourced judgments of news source quality](https://www.pnas.org/content/116/7/2521)
