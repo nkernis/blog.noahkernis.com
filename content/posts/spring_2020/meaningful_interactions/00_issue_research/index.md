@@ -69,6 +69,7 @@ showFullContent = false
 	- [Who Shared It?: Deciding What News to Trust on Social Media](https://www.tandfonline.com/doi/full/10.1080/21670811.2019.1623702)
 		- "The findings illustrate that the sharer (H1) greatly impacts both trust and engagement with news on social media, while the reporting source significantly affects only engagement (H2). The sharer has a much larger and more consistent impact than the source on trust and engagement (RQ1), and the sharer and the source do not interact to impact trust or engagement (RQ2). Neither topic salience nor familiarity with getting news on social media moderate the effects of either the sharer or source (RQ3)."
 	- [Trends in the diffusion of  misinformation on social media](https://journals.sagepub.com/doi/pdf/10.1177/2053168019848554)
+		- "We show that user interactions with false content rose steadily  on  both  Facebook  and  Twitter  through  the  end  of  2016. Since then, interactions have fallen sharply on Facebook while continuing to rise on Twitter."
 	- [Lazy, not biased: Susceptibility to partisan fake news is better explained by lack of reasoning than by motivated reasoning](https://www.sciencedirect.com/science/article/pii/S001002771830163X)
 	- [Fact-Checking: A Meta-Analysis of What Works and for Whom](https://www.tandfonline.com/doi/full/10.1080/10584609.2019.1668894?casa_token=t3Q6AJbHPnEAAAAA:ce8O-xuyotlkRlsYmItVc2wCQcTTsbenhT5fbcA172I_wsrbfqlGz3EnIbjgLqAispWRsdp4p5_Fwg)
 - [Facebook's Guide - HAHAHAHAHA](https://www.facebook.com/help/188118808357379)
