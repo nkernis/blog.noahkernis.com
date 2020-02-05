@@ -10,17 +10,14 @@ showFullContent = false
 
 ## Project Research
 
-- Overview of the issue you care about and
-  - Why it is important based on market research. 
-
-- Try to include some high level data that validates why the issue is important. 
-	- Identify 3-4 opportunity areas or places where you intersect with the issue. 
-
-- Be narrow and specific.  
-  - Be narrow and specific.
-
-- Be narrow and specific. 
-  - Be narrow and specific.
+* Overview of the issue you care about and
+  * Why it is important based on market research. 
+* Try to include some high level data that validates why the issue is important. 
+	* Identify 3-4 opportunity areas or places where you intersect with the issue. 
+* Be narrow and specific.  
+  * Be narrow and specific.
+* Be narrow and specific. 
+  * Be narrow and specific.
 
 ## News Media Literacy
 
@@ -33,7 +30,9 @@ showFullContent = false
 	- My personal issue with term?
 		- Is used to dismiss real reports, then real institutions describe problem stories as fake, so the term loses real meaning.
 		- Also, all news is created - a product
-	
+
+### Data to Highlight
+
 ### Resources and Notes
 
 - [Fake News Or Real? How To Self-Check The News And Get The Facts : All Tech Considered : NPR](https://www.npr.org/sections/alltechconsidered/2016/12/05/503581220/fake-or-real-how-to-self-check-the-news-and-get-the-facts)
