@@ -58,16 +58,16 @@ showFullContent = false
 			- 31% of teens and pre-teens say they have shared information that they later learned was false or inaccurate.
 	- [‎Informable on the App Store](https://apps.apple.com/us/app/informable/id1486205705)
 - https://medialiteracynow.org/what-is-media-literacy/
-	- *DATA* [Generation M2: Media in the Lives of 8- to 18-Year-Olds | The Henry J. Kaiser Family Foundation](https://www.kff.org/other/event/generation-m2-media-in-the-lives-of/)
-		-
-
-
-
+	- [Generation M2: Media in the Lives of 8- to 18-Year-Olds | The Henry J. Kaiser Family Foundation](https://www.kff.org/other/event/generation-m2-media-in-the-lives-of/)
 - *DATA* [More studies to look at](https://journalistsresource.org/studies/society/news-media/fake-news-fact-checking-research-2019/)
 	- [Real Solutions for Fake News? Measuring the Effectiveness of General Warnings and Fact-Check Tags in Reducing Belief in False Stories on Social Media](https://link.springer.com/article/10.1007/s11109-019-09533-0)
+		- Tagging Facebook posts
 	- [Fighting misinformation on social media using crowdsourced judgments of news source quality](https://www.pnas.org/content/116/7/2521)
+		- "We investigate one potential approach: having social media platform algorithms preferentially display content from news sources that users rate as trustworthy."
+		- "Despite substantial partisan differences, we find that laypeople across the political spectrum rated mainstream sources as far more trustworthy than either hyperpartisan or fake news sources."
 	- [All the President’s Tweets: Effects of Exposure toTrump’s “Fake News” Accusations on Perceptionsof Journalists, News Stories, and Issue Evaluation](https://www.tandfonline.com/doi/pdf/10.1080/15205436.2019.1652760?casa_token=dBs_vh-bLsAAAAAA%3AaIcIzg3ff6akMdwV_Jx1EjO7qR07y_dZAOo0XdLbWX_N4JQM6bJOmUWHU_BUGUdCnbJ2zcH133CKoQ&)
 	- [Who Shared It?: Deciding What News to Trust on Social Media](https://www.tandfonline.com/doi/full/10.1080/21670811.2019.1623702)
+		- "The findings illustrate that the sharer (H1) greatly impacts both trust and engagement with news on social media, while the reporting source significantly affects only engagement (H2). The sharer has a much larger and more consistent impact than the source on trust and engagement (RQ1), and the sharer and the source do not interact to impact trust or engagement (RQ2). Neither topic salience nor familiarity with getting news on social media moderate the effects of either the sharer or source (RQ3)."
 	- [Trends in the diffusion of  misinformation on social media](https://journals.sagepub.com/doi/pdf/10.1177/2053168019848554)
 	- [Lazy, not biased: Susceptibility to partisan fake news is better explained by lack of reasoning than by motivated reasoning](https://www.sciencedirect.com/science/article/pii/S001002771830163X)
 	- [Fact-Checking: A Meta-Analysis of What Works and for Whom](https://www.tandfonline.com/doi/full/10.1080/10584609.2019.1668894?casa_token=t3Q6AJbHPnEAAAAA:ce8O-xuyotlkRlsYmItVc2wCQcTTsbenhT5fbcA172I_wsrbfqlGz3EnIbjgLqAispWRsdp4p5_Fwg)
