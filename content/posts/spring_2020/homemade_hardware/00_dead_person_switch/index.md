@@ -16,7 +16,7 @@ I decided to make a simple "Dead Person's Switch" ([dead man's switch](https://e
 
 ## Building
 
-### Programming Jig
+#### Programming Jig
 
 Following the instructions provided to us ([programming an ATtiny85](http://www.homemadehardware.com/guides/programming-an-attiny85/#jig)), I created the programming jig. The jig is intedned to be used by pluggiing it into an Arduino UNO. The Arduino UNO acts as a programmer for the ATtiny85.
 
@@ -26,7 +26,7 @@ Following the instructions provided to us ([programming an ATtiny85](http://www.
 
 {{< figure src="img/02_rig_mounted.JPG" alt="Programming jig mounted on Aruino UNO" caption="[ Programming Jig - Mounted on Arduino ]" >}}
 
-### Breadboard
+#### Breadboard
 
 {{< figure src="img/03_bread_board.JPG" alt="ATtiny85 on breadboard with LED and two push buttons." caption="[ Dead Person's Switch ]" >}}
 
