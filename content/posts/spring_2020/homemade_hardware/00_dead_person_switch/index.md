@@ -10,28 +10,31 @@ showFullContent = false
 
 ## About The Piece
 
+For this assignment, we were asked to 1. make an ATtiny85 programming jig, 2. create an interaction/project with the ATtiny85, along with any sensor and/or output you choose.
+
+I decided to make a simple "Dead Person's Switch" ([dead man's switch](https://en.wikipedia.org/wiki/Dead_man%27s_switch)). Two momentary push buttons need to be pressed at the same time in order for an LED to turn on.
+
 ## Building
-{{< figure src="img/00_rig_top.JPG" alt=" ... " caption="[ ... ]" >}}
 
-{{< figure src="img/01_rig_bottom.JPG" alt=" ... " caption="[ ... ]" >}}
+### Programming Jig
 
-{{< figure src="img/02_rig_mounted.JPG" alt=" ... " caption="[ ... ]" >}}
+Following the instructions provided to us ([programming an ATtiny85](http://www.homemadehardware.com/guides/programming-an-attiny85/#jig)), I created the programming jig. The jig is intedned to be used by pluggiing it into an Arduino UNO. The Arduino UNO acts as a programmer for the ATtiny85.
 
-{{< figure src="img/03_bread_board.JPG" alt=" ... " caption="[ ... ]" >}}
+{{< figure src="img/00_rig_top.JPG" alt="Top view of programming jig." caption="[ Programming Jig - Top ]" >}}
 
-## Coding
+{{< figure src="img/01_rig_bottom.JPG" alt="Bottom view of programming jig." caption="[ Programming Jig - Bottom ]" >}}
+
+{{< figure src="img/02_rig_mounted.JPG" alt="Programming jig mounted on Aruino UNO" caption="[ Programming Jig - Mounted on Arduino ]" >}}
+
+### Breadboard
+
+{{< figure src="img/03_bread_board.JPG" alt="ATtiny85 on breadboard with LED and two push buttons." caption="[ Dead Person's Switch ]" >}}
+
+## Code
+
+The code on the ATtiny85.
 
 ```c++
-/*
-  Dead Person Switch
-
-  Turns on an LED if both
-  buttons are pressed.
-
-  created 2020
-  Noah Kernis
-*/
-
 const int leftButtonPin = 3;
 const int rightButtonPin = 4;
 const int ledPin = 1;
@@ -59,5 +62,4 @@ void loop() {
 
 ## The Final Thing
 
-{{< figure src="img/04_dead_person_switch.gif" alt=" ... " caption="[ ... ]" >}}
-
+{{< figure src="img/04_dead_person_switch.gif" alt="Using the Dead Person's Switch to turn on an LED" caption="[ Using the Dead Person's Switch ]" >}}
