@@ -8,7 +8,7 @@ description = "Learning to Program an ATtiny85"
 showFullContent = false
 +++
 
-## About The Piece
+## The Assignment
 
 For this assignment, we were asked to 1. make an ATtiny85 programming jig, 2. create an interaction/project with the ATtiny85, along with any sensor and/or output you choose.
 

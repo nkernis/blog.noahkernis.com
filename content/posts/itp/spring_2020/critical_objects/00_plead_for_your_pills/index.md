@@ -8,4 +8,14 @@ description = " FILL "
 showFullContent = false
 +++
 
-## 
+## The Assignment
+
+## Thinking
+
+## Code
+
+## Building
+
+## The Final Thing
+
+## Thoughts and Concerns
