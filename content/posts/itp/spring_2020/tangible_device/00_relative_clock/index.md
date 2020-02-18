@@ -30,6 +30,7 @@ Researching *relative clock* didn't yield much, but I did find [Jonathan Chomko'
 <div style="text-align:center">
 	<iframe src="https://player.vimeo.com/video/190896012" class="center" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
+<br/>
 
 I spent some more time thinking about concepts for a *relative clock* but didn't come up with much. It wasn't until I was watching "The Office" later that night that I figured it out. In this episode two of the main characters (Pam and Jim) were discussing how one of them has to travel half the week for work and that is was straining the relationship. This led me to think about a way for the characters to have a moment where they remembered each other throughout their respective days. 
 
