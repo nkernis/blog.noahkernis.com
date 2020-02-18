@@ -11,14 +11,14 @@ draft = true
 
 <!-- {{< figure src="img/..." alt="..." caption="[ ... ]" >}} -->
 
-## The Assignment
+## Assignment
 
-## Thinking
+## Think
 
 ## Code
 
-## Building
+## Build
 
-## The Final Thing
+## Final Thing
 
-## Thoughts and Concerns
+## Thoughts & Concerns

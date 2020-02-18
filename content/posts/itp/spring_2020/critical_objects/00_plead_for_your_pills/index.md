@@ -8,14 +8,16 @@ description = " FILL "
 showFullContent = false
 +++
 
-## The Assignment
+<!-- {{< figure src="img/..." alt="..." caption="[ ... ]" >}} -->
 
-## Thinking
+## Assignment
+
+## Think
 
 ## Code
 
-## Building
+## Build
 
-## The Final Thing
+## Final Thing
 
-## Thoughts and Concerns
+## Thoughts & Concerns
