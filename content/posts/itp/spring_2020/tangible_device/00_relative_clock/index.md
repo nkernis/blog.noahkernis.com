@@ -8,6 +8,17 @@ description = "..."
 showFullContent = false
 +++
 
+<!-- 
+* TODO:
+* - Add photos of nano, circuits, and the rest
+-->
+
+<!--
+* Any construction drawings you made for laser cutting, CNC, etc.
+* Circuit diagram/Schematic
+* System diagram
+-->
+
 ## Assignment
 
 For this project I was asked to make a clock with the following requirements: 
@@ -40,8 +51,35 @@ Originally I thought of it looking more like a chess clock, but felt both the de
 
 {{< figure src="img/012.JPG" alt="2 possible design sketches" caption="[ Design Sketches ]" >}}
 
-
 ## Code
+
+The code was written for the Nano 33 IoT, using the Arduino IDE.
+
+The source code can be found on Github: 
+[Relative Clock - Github](https://github.com/nkernis/RELATIVE_CLOCK)
+
+### References
+
+I used the RTC Library for keeping time. I used the Arduino documentation: 
+[RTC Library](https://www.arduino.cc/en/Reference/RTC)
+
+For double-clicks I used the OneButton Library. I used the following example code: 
+[SimpleOneButton.ino](https://github.com/mathertel/OneButton/blob/master/examples/SimpleOneButton/SimpleOneButton.ino)
+
+I used an OLED 128x64 I2C display. I used the following tutorial to learn how to use the module: 
+[OLED I2C Display Arduino Tutorial](https://startingelectronics.org/tutorials/arduino/modules/OLED-128x64-I2C-display/)
+
+The module above uses the Adafruit GFX Graphics Library. I used the following article to learn about the APIs:
+[Adafruit GFX Graphics Library](https://learn.adafruit.com/adafruit-gfx-graphics-library/graphics-primitives)
+
+I used the LSM6DS3 Library for the Nano 33 IoT's built-in gyroscope. I used the following example code:
+[SimpleAccelerometer.ino](https://github.com/arduino-libraries/Arduino_LSM6DS3/blob/master/examples/SimpleAccelerometer/SimpleAccelerometer.ino)
+
+<!-- 
+REFS:
+3
+* https://github.com/PaulStoffregen/Time 
+-->
 
 ## Build
 
@@ -52,14 +90,6 @@ Originally I thought of it looking more like a chess clock, but felt both the de
 - Physical
 - Simple text to remind
 - Small moment in day
-
-<!-- * A short paragraph describing the project
-* Photos and video of the project in action
-* System diagram
-* Circuit diagram/Schematic
-* Links to Source code
-* Any construction drawings you made for laser cutting, CNC, etc.
-* Citation of all example code or example drawings or documentation that you learned from or used -->
 
 {{< figure src="img/010.gif" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/010.JPG" alt="..." caption="[ ... ]" >}}
