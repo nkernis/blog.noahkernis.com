@@ -6,7 +6,6 @@ author = "Noah Kernis"
 tags = ["itp", "meaningful_interactions"]
 description = "Turning research into an idea"
 showFullContent = false
-draft = true
 +++
 
 ## Problem Statement
