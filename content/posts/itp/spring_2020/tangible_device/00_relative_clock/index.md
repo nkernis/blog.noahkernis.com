@@ -1,10 +1,10 @@
 +++
 slug = "relative-clock"
-title = "Relative Clockk"
+title = "Relative Clock"
 date = "2020-02-03T11:44:06-05:00"
 author = "Noah Kernis"
 tags = ["itp", "tangible_device"]
-description = "..."
+description = "Time is always relative... duh."
 showFullContent = false
 +++
 
@@ -43,13 +43,18 @@ Researching *relative clock* didn't yield much, but I did find [Jonathan Chomko'
 </div>
 <br/>
 
-I spent some more time thinking about concepts for a *relative clock* but didn't come up with much. It wasn't until I was watching "The Office" later that night that I figured it out. In this episode two of the main characters (Pam and Jim) were discussing how one of them has to travel half the week for work and that is was straining the relationship. This led me to think about a way for the characters to have a moment where they remembered each other throughout their respective days. 
+I spent some more time thinking about concepts for a *relative clock* but didn't come up with much. It wasn't until I was watching "The Office" later that night that I figured it out. In this episode two of the main characters (Pam and Jim) were discussing how one of them has to travel half the week for work and that it was straining the relationship. I started to think about a way for the characters to have a moment where they remembered each other throughout their respective days. 
 
 I came up with a cube/box looking desk clock. The time is displayed with a small screen. The clock has buttons on the back to set the time. When the clock is is flipped upside-down, the display rotates 180 degrees and shows a different time. The new time is +/- hours relative to the original time. The new time is meant to represent the time of ones work or romantic partner who is in a different time zone. 
 
 Originally I thought of it looking more like a chess clock, but felt both the design and interaction were a little bland.
 
 {{< figure src="img/012.JPG" alt="2 possible design sketches" caption="[ Design Sketches ]" >}}
+
+I ended up designing the clock to look like an hourglass. This design worked well because with real hourglass's, you have to invert them to start the timer. For my clock, to get the alternate time to appear, one also has to invert the clock. The appearance helped to indicate a potential action. 
+
+{{< figure src="img/013.JPG" alt="Final design sketch" caption="[ Hourglass Sketche ]" >}}
+
 
 ## Code
 
