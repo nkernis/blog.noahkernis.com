@@ -1,6 +1,6 @@
 +++
-slug = "01_pick_and_place"
-title = "01 Pick and Place"
+slug = "pick_and_place"
+title = "Pick and Place"
 date = "2020-02-18T22:24:09-05:00"
 author = "Noah Kernis"
 tags = ["itp"]
