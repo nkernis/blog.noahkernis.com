@@ -1,5 +1,5 @@
 +++
-slug = "relative-clock"
+slug = "00-relative-clock"
 title = "Relative Clock"
 date = "2020-02-03T11:44:06-05:00"
 author = "Noah Kernis"

@@ -1,5 +1,5 @@
 +++
-slug = "issue_research"
+slug = "00_issue_research"
 title = "Media Literacy - Research"
 date = "2020-02-03T11:45:06-05:00"
 author = "Noah Kernis"
