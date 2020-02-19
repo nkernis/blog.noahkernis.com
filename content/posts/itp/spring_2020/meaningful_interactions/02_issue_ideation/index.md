@@ -9,20 +9,24 @@ showFullContent = false
 draft = true
 +++
 
-<!-- {{< figure src="img/..." alt="..." caption="[ ... ]" >}} -->
+## Problem Statement
+
+The main problem news consumers face is deciphering whether a news website or news content is trustworthy or true. This leads to distrust in the media overall and allows those wanting to spread misinformation to easily do so. Today, their best option is to either only view a few, trusted news outlets or to educate themselves on the issue of media literacy and then hone that skill. TThis leaves consumers with limited choices for news or feeling overwhelmed trying to accurately check each news article they come across. With companies like Facebook allowing unregulated political advertising and the continued lack of regulation of the technology sector, the problem will only get worse over time.
+
+## Future State Journey Map
 
 <!-- 
-- STATEMENTS:
-	- For ___[target audience], it’s a constant challenge to ___[general problem]. Every ___[time period], these people ___[perform a key activity] in order to ___[achieve a primary goal]. This is especially true if you’re a [niche].
-	- The main problem  ___[target audience] face is ___[primary functional problem relating to activity] which leads to ___[bad/worst case outcomes]. Today, their best option is ___[substitutes], but of course, they ___[the most common complaints of each substitute]. With ___[key trend], the problem will only get worse over time.
-	- If only there was a easier/better/cheaper way to ___[perform a key activity], then c ___could ___[quantifiable impact on their primary goal] which would lead to ___[positive outcomes / emotions]. With ___[number of potential customers], there is a clear opportunity to meaningfully impact a huge number of people.
+- 2. Create a future state journey map. A future state journey map is typically a multi-panel storyboard created from sketches and words that communicates the steps and emotions of the future state your solution addresses.
+-->
 
+<!-- {{< figure src="img/..." alt="..." caption="[ ... ]" >}} -->
 
-- Statements that I would like you to use for next week’s in class presentation (adapt the language if you need to or feel none is a perfect fit).
-	- 1. Create a concise problem statement by using or adapting one of the statement below.
+## Prior Art
 
-	- 2. Create a future state journey map. A future state journey map is typically a multi-panel storyboard created from sketches and words that communicates the steps and emotions of the future state your solution addresses.
+- The News Literacy Project
+	- https://newslit.org/
+	- https://apps.apple.com/us/app/informable/id1486205705
 
-	- 3. Please do some competitive research and be sure you also aware of existing/competitive products that attempt to address the same pain point you have identified or a comparable problem that is applicable (for example be familiar with the ‘find a parking spot app’ if you are the cafe group).
-	
+<!-- 
+- 3. Please do some competitive research and be sure you also aware of existing/competitive products that attempt to address the same pain point you have identified or a comparable problem that is applicable (for example be familiar with the ‘find a parking spot app’ if you are the cafe group).	
 -->
