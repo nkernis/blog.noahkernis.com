@@ -12,13 +12,12 @@ showFullContent = false
 
 The main problem news consumers face is deciphering whether a news website or news content is trustworthy or true. This leads to distrust in the media overall and allows those wanting to spread misinformation to easily do so. Today, their best option is to either only view a few, trusted news outlets or to educate themselves on the issue of media literacy and then hone that skill. TThis leaves consumers with limited choices for news or feeling overwhelmed trying to accurately check each news article they come across. With companies like Facebook allowing unregulated political advertising and the continued lack of regulation of the technology sector, the problem will only get worse over time.
 
-## Future State Journey Map
-
+## Current State and Current State
 <!-- 
 - 2. Create a future state journey map. A future state journey map is typically a multi-panel storyboard created from sketches and words that communicates the steps and emotions of the future state your solution addresses.
 -->
 
-{{< figure src="img/010.JPG" alt="Outline Of Current and Future Journey Map" caption="[ Outline Of Current and Future Journey Map ]" >}}
+{{< figure src="img/010.JPG" alt="Outline Of Current State and Current State" caption="[ Outline Of Current State and Current State ]" >}}
 
 ## Prior Art
 
