@@ -74,5 +74,5 @@ showFullContent = false
 	- [Fact-Checking: A Meta-Analysis of What Works and for Whom](https://www.tandfonline.com/doi/full/10.1080/10584609.2019.1668894?casa_token=t3Q6AJbHPnEAAAAA:ce8O-xuyotlkRlsYmItVc2wCQcTTsbenhT5fbcA172I_wsrbfqlGz3EnIbjgLqAispWRsdp4p5_Fwg)
 - [Facebook's Guide - HAHAHAHAHA](https://www.facebook.com/help/188118808357379)
 - [NYU guide](https://guides.nyu.edu/c.php?g=632820&p=4425212)
-- **Automated Fact Checking**
+- Automated Fact Checking
 	- https://thenewstack.io/deep-learning-ai-tool-identifies-fake-news-with-automated-fact-checking/

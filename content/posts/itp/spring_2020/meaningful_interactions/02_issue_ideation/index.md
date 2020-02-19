@@ -4,7 +4,7 @@ title = "Media Literacy - Issue Ideation"
 date = "2020-02-19T12:20:29-05:00"
 author = "Noah Kernis"
 tags = ["itp", "meaningful_interactions"]
-description = "FILL"
+description = "Turning research into an idea"
 showFullContent = false
 draft = true
 +++
@@ -50,12 +50,12 @@ I did find 3 projects that aim to help consumers in the moment when they come ac
 		- "See who’s behind each site and whether it has a record of publishing accurate information. Learn how each site fares on the nine journalistic standards NewsGuard uses to assess each site."
 		- "Written by journalists, not secret algorithms."
 
-
 I also found another project that is in a similar space. Instead of producing resources to teach consumers or a tool to detect misinformation, this app is a game that teaches consumers how to identify false content
 
 4. Informable - The News Literacy Project
 	- [The News Literacy Project](https://newslit.org/)
 	- [Informable][(https://apps.apple.com/us/app/informable/id1486205705)
+		- [WIRED Article](https://www.wired.com/story/newsguard-extension-fake-news-trust-score/)
 	- About
 		- "You’ll develop news-literate habits of mind by practicing four distinct skills: distinguishing news articles from opinion pieces, advertisements from other types of information, false evidence from sound evidence, and fact-based statements from opinion-based statements."
 
