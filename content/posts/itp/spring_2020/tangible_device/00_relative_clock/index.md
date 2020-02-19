@@ -19,6 +19,8 @@ showFullContent = false
 * System diagram
 -->
 
+ {{< figure src="img/240.JPG" alt="Picture of the final product." caption="[ Relative Clock ]" >}}
+
 ## Assignment
 
 For this project I was asked to make a clock with the following requirements: 
@@ -145,17 +147,16 @@ Feeling comfortable with my cardboard prototype I moved on to the final material
 
 ## Final Thing
 
-{{< figure src="img/210.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/220.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/230.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/240.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/210.JPG" alt="Clock - Front" caption="[ Clock - Front ]" >}}
 
-{{< figure src="img/020.gif" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/030.gif" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/220.JPG" alt="Clock - Front - Inverted" caption="[ Clock - Front - Inverted ]" >}}
+
+{{< figure src="img/230.JPG" alt="Clock - Back" caption="[ Clock - Back ]" >}}
+
+{{< figure src="img/020.gif" alt="Setting Time" caption="[ Setting Time ]" >}}
+
+{{< figure src="img/030.gif" alt="Flipping Clock Over" caption="[ Flipping Clock Over ]" >}}
 
 ## Thoughts & Concerns
 
-- Physical
-- Simple text to remind
-- Small moment in day
-
+In the end, the final clock was pretty much the idea I had in my head. It sits nicely on my desk. It acts as a small reminder of someone not currently present, throughout the day. 
