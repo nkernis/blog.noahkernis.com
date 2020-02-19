@@ -18,7 +18,7 @@ The main problem news consumers face is deciphering whether a news website or ne
 - 2. Create a future state journey map. A future state journey map is typically a multi-panel storyboard created from sketches and words that communicates the steps and emotions of the future state your solution addresses.
 -->
 
-<!-- {{< figure src="img/..." alt="..." caption="[ ... ]" >}} -->
+{{< figure src="img/010.JPG" alt="Outline Of Current and Future Journey Map" caption="[ Outline Of Current and Future Journey Map ]" >}}
 
 ## Prior Art
 
