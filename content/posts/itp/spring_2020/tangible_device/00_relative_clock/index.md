@@ -53,8 +53,7 @@ Originally I thought of it looking more like a chess clock, but felt both the de
 
 I ended up designing the clock to look like an hourglass. This design worked well because with real hourglass's, you have to invert them to start the timer. For my clock, to get the alternate time to appear, one also has to invert the clock. The appearance helped to indicate a potential action. 
 
-{{< figure src="img/013.JPG" alt="Final design sketch" caption="[ Hourglass Sketche ]" >}}
-
+{{< figure src="img/013.JPG" alt="Final design sketch" caption="[ Hourglass Sketch ]" >}}
 
 ## Code
 
@@ -63,7 +62,7 @@ The code was written for the Nano 33 IoT, using the Arduino IDE.
 The source code can be found on Github: 
 [Relative Clock - Github](https://github.com/nkernis/RELATIVE_CLOCK)
 
-### References
+#### References
 
 I used the RTC Library for keeping time. I used the Arduino documentation: 
 [RTC Library](https://www.arduino.cc/en/Reference/RTC)
@@ -80,15 +79,79 @@ The module above uses the Adafruit GFX Graphics Library. I used the following ar
 I used the LSM6DS3 Library for the Nano 33 IoT's built-in gyroscope. I used the following example code:
 [SimpleAccelerometer.ino](https://github.com/arduino-libraries/Arduino_LSM6DS3/blob/master/examples/SimpleAccelerometer/SimpleAccelerometer.ino)
 
-<!-- 
-REFS:
-3
-* https://github.com/PaulStoffregen/Time 
--->
-
 ## Build
 
+To start, I prototype the box version of the clock. I used a 3in x 3in cardboard box that some of my components came in. 
+
+{{< figure src="img/020.JPG" alt="Cardboard Box" caption="[ Cardboard Box ]" >}}
+
+I then drilled holes in the back of the box (using scissors) and inserted some panel mount momentary push buttons.
+
+{{< figure src="img/010.JPG" alt="Panel Mount Push Buttons" caption="[ Panel Mount Push Buttons ]" >}}
+{{< figure src="img/030.JPG" alt="Box With Holes" caption="[ Box With Holes ]" >}}
+{{< figure src="img/040.JPG" alt="Buttons Mounted" caption="[ Buttons Mounted ]" >}}
+{{< figure src="img/050.JPG" alt="Labels For Buttons" caption="[ Labels For Buttons ]" >}}
+
+I played around with the box and buttons. I felt the size was comfortable in my hands. However, the array of buttons on the back was hard to figure out without looking at it. After speaking with Tom I decided to change the layout so it could be understood without looking at it. I vertically stack the up/down buttons on the left side and put a set button on the right side. This arrangement creates a triangle that "points" to the set button.
+
+{{< figure src="img/090.JPG" alt="Box With New Button Layout" caption="[ Box With New Button Layout ]" >}}
+
+I cut a square on the front and drilled some holes to test mounting the display.
+
+{{< figure src="img/080.JPG" alt="Box With Display Mounted" caption="[ Box With Display Mounted ]" >}}
+
+Next, I prototyped the the circuit for the clock. First I set up a breadboard with the Arduino Nano 33 IoT and some push buttons.
+
+{{< figure src="img/060.JPG" alt="Nano On Breadboard With Buttons" caption="[ Nano On Breadboard With Buttons ]" >}}
+
+After, I connected the display and tested writing to it.
+
+{{< figure src="img/070.JPG" alt="Display With Test Image" caption="[ Display With Test Image ]" >}}
+
+With all the pieces working, I moved on to prototyping the hourglass enclosure. I took the cardboard box I had been using and, using masking tape, attached strips of cardboard to box. This allowed to me to get a feel for the size of the device and the flipping action.
+
+{{< figure src="img/100.JPG" alt="Hourglass Prototype - Front" caption="[ Hourglass Prototype - Front ]" >}}
+
+{{< figure src="img/110.JPG" alt="Hourglass Prototype - Back" caption="[ Hourglass Prototype - Back ]" >}}
+
+{{< figure src="img/010.gif" alt="Hourglass Prototype - Flip Test" caption="[ Hourglass Prototype - Flip Test ]" >}}
+
+Next, I moved onto making the final enclosure. Using Vector Works I created the shape to laser cut (several versions included).
+
+{{< figure src="img/111.JPG" alt="Vector Works Drawing To Laser Cut" caption="[ Vector Works Drawing To Laser Cut ]" >}}
+
+I cut the first version out of cardboard. I then assembled the pieces and marked the prototype for changes.
+
+{{< figure src="img/120.JPG" alt="Laser Cutting Cardboard" caption="[ Laser Cutting Cardboard ]" >}}
+
+{{< figure src="img/130.JPG" alt="Cut Cardboard Pieces" caption="[ Cut Cardboard Pieces ]" >}}
+
+{{< figure src="img/140.JPG" alt="Cardboard Prototype - Front" caption="[ Cardboard Prototype - Front ]" >}}
+
+{{< figure src="img/150.JPG" alt="Cardboard Prototype - Side" caption="[ Cardboard Prototype - Side ]" >}}
+
+Feeling comfortable with my cardboard prototype I moved on to the final material, 1/8in black acrylic. After cutting I first tested to make sure things fit. Once I confirmed they did, I took the cover of the acrylic and assembled the final piece. 
+
+{{< figure src="img/160.JPG" alt="Laser Cut Acrylic" caption="[ Laser Cut Acrylic ]" >}}
+
+{{< figure src="img/170.JPG" alt="Testing Component Fit In Acrylic" caption="[ Testing Component Fit In Acrylic ]" >}}
+
+{{< figure src="img/180.JPG" alt="Black Standoffs On Panel" caption="[ Black Standoffs On Panel ]" >}}
+
+{{< figure src="img/190.JPG" alt="Display Mounted On Panel" caption="[ Display Mounted On Panel ]" >}}
+
+{{< figure src="img/200.JPG" alt="Assembled Clock With Test Output" caption="[ Assembled Clock With Test Output ]" >}}
+
+
 ## Final Thing
+
+{{< figure src="img/210.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/220.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/230.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/240.JPG" alt="..." caption="[ ... ]" >}}
+
+{{< figure src="img/020.gif" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/030.gif" alt="..." caption="[ ... ]" >}}
 
 ## Thoughts & Concerns
 
@@ -96,30 +159,3 @@ REFS:
 - Simple text to remind
 - Small moment in day
 
-{{< figure src="img/010.gif" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/010.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/020.gif" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/020.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/030.gif" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/030.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/040.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/050.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/060.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/070.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/080.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/090.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/100.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/110.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/120.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/130.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/140.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/150.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/160.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/170.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/180.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/190.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/200.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/210.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/220.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/230.JPG" alt="..." caption="[ ... ]" >}}
-{{< figure src="img/240.JPG" alt="..." caption="[ ... ]" >}}
