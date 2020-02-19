@@ -61,29 +61,29 @@ I ended up designing the clock to look like an hourglass. This design worked wel
 
 The code was written for the Nano 33 IoT, using the Arduino IDE.
 
-The source code can be found on Github: 
+The source code can be found on Github:   
 [Relative Clock - Github](https://github.com/nkernis/RELATIVE_CLOCK)
 
 #### References
 
-I used the RTC Library for keeping time. I used the Arduino documentation: 
+I used the RTC Library for keeping time. I used the Arduino documentation:  
 [RTC Library](https://www.arduino.cc/en/Reference/RTC)
 
-For double-clicks I used the OneButton Library. I used the following example code: 
+For double-clicks I used the OneButton Library. I used the following example code:  
 [SimpleOneButton.ino](https://github.com/mathertel/OneButton/blob/master/examples/SimpleOneButton/SimpleOneButton.ino)
 
-I used an OLED 128x64 I2C display. I used the following tutorial to learn how to use the module: 
+I used an OLED 128x64 I2C display. I used the following tutorial to learn how to use the module:  
 [OLED I2C Display Arduino Tutorial](https://startingelectronics.org/tutorials/arduino/modules/OLED-128x64-I2C-display/)
 
-The module above uses the Adafruit GFX Graphics Library. I used the following article to learn about the APIs:
+The module above uses the Adafruit GFX Graphics Library. I used the following article to learn about the APIs:  
 [Adafruit GFX Graphics Library](https://learn.adafruit.com/adafruit-gfx-graphics-library/graphics-primitives)
 
-I used the LSM6DS3 Library for the Nano 33 IoT's built-in gyroscope. I used the following example code:
+I used the LSM6DS3 Library for the Nano 33 IoT's built-in gyroscope. I used the following example code:  
 [SimpleAccelerometer.ino](https://github.com/arduino-libraries/Arduino_LSM6DS3/blob/master/examples/SimpleAccelerometer/SimpleAccelerometer.ino)
 
 ## Build
 
-To start, I prototype the box version of the clock. I used a 3in x 3in cardboard box that some of my components came in. 
+To start, I prototyped the box version of the clock. I used a 3in x 3in cardboard box that some of my components came in. 
 
 {{< figure src="img/020.JPG" alt="Cardboard Box" caption="[ Cardboard Box ]" >}}
 
@@ -94,7 +94,7 @@ I then drilled holes in the back of the box (using scissors) and inserted some p
 {{< figure src="img/040.JPG" alt="Buttons Mounted" caption="[ Buttons Mounted ]" >}}
 {{< figure src="img/050.JPG" alt="Labels For Buttons" caption="[ Labels For Buttons ]" >}}
 
-I played around with the box and buttons. I felt the size was comfortable in my hands. However, the array of buttons on the back was hard to figure out without looking at it. After speaking with Tom I decided to change the layout so it could be understood without looking at it. I vertically stack the up/down buttons on the left side and put a set button on the right side. This arrangement creates a triangle that "points" to the set button.
+I played around with the box and buttons. I felt the size was comfortable in my hands. However, the array of buttons on the back was hard to figure out without looking at it. After speaking with Tom I decided to change the layout so it could be understood without looking at it. I vertically stacked the up/down buttons on the left side and put a set button on the right side. This arrangement creates a triangle that "points" to the set button.
 
 {{< figure src="img/090.JPG" alt="Box With New Button Layout" caption="[ Box With New Button Layout ]" >}}
 
@@ -132,11 +132,11 @@ I cut the first version out of cardboard. I then assembled the pieces and marked
 
 {{< figure src="img/150.JPG" alt="Cardboard Prototype - Side" caption="[ Cardboard Prototype - Side ]" >}}
 
+{{< figure src="img/170.JPG" alt="Cardboard Prototype - Back" caption="[ Cardboard Prototype - Back ]" >}}
+
 Feeling comfortable with my cardboard prototype I moved on to the final material, 1/8in black acrylic. After cutting I first tested to make sure things fit. Once I confirmed they did, I took the cover of the acrylic and assembled the final piece. 
 
 {{< figure src="img/160.JPG" alt="Laser Cut Acrylic" caption="[ Laser Cut Acrylic ]" >}}
-
-{{< figure src="img/170.JPG" alt="Testing Component Fit In Acrylic" caption="[ Testing Component Fit In Acrylic ]" >}}
 
 {{< figure src="img/180.JPG" alt="Black Standoffs On Panel" caption="[ Black Standoffs On Panel ]" >}}
 
