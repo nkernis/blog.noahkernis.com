@@ -3,7 +3,7 @@ slug = "pick_and_place"
 title = "Pick and Place"
 date = "2020-02-18T22:24:09-05:00"
 author = "Noah Kernis"
-tags = ["itp"]
+tags = ["itp", "tangible_device"]
 description = "USB Human Interface Device (HID)"
 showFullContent = false
 +++
