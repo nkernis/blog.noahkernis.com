@@ -1,14 +1,12 @@
 +++
 slug = "01_letter_pcb"
-title = "01 Letter Pcb"
+title = "Letter Pcb"
 date = "2020-02-21T13:39:30-05:00"
 author = "Noah Kernis"
 tags = ["itp", "homemade_hardware"]
-description = "FILL"
+description = "PCB for letter \"I\""
 showFullContent = false
 +++
-
-<!-- {{< figure src="img/..." alt="..." caption="[ ... ]" >}} -->
 
 ## Assignment
 
@@ -38,8 +36,8 @@ I decide on "Astlock."
 
 ## Download Links
 
-<a href="file/letter_i.pdf" download> Board PDF </a>
+<a href="files/letter_i.pdf" download> Board PDF </a>
 
-<a href="file/letter_i.brd" download> Board Eagle </a>
+<a href="files/letter_i.brd" download> Board Eagle </a>
 
-<a href="file/letter_i.sch" download> Schematic Eagle </a>
+<a href="files/letter_i.sch" download> Schematic Eagle </a>
