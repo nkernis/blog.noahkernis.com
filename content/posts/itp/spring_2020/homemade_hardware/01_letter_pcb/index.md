@@ -37,3 +37,9 @@ I decide on "Astlock."
 {{< figure src="img/030.JPG" alt="Board in Eagle" caption="[ Board in Eagle ]" >}}
 
 ## Download Links
+
+<a href="file/letter_i.pdf" download> Board PDF </a>
+
+<a href="file/letter_i.brd" download> Board Eagle </a>
+
+<a href="file/letter_i.sch" download> Schematic Eagle </a>
