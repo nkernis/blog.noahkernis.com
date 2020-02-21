@@ -3,7 +3,7 @@ slug = "01_letter_pcb"
 title = "01 Letter Pcb"
 date = "2020-02-21T13:39:30-05:00"
 author = "Noah Kernis"
-tags = ["itp", , "homemade_hardware"]
+tags = ["itp", "homemade_hardware"]
 description = "FILL"
 showFullContent = false
 +++
