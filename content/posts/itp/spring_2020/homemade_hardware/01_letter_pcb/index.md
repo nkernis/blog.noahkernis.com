@@ -20,17 +20,11 @@ I was assigned the letter "I" for this project. I wanted to find a font that had
 
 I decide on "Astlock."
 
-## Making The Board
-
-*Designing Board*
+## Designing The Board
 
 {{< figure src="img/010.JPG" alt="Board In Illustrator" caption="[ Board In Illustrator ]" >}}
 
-*Schematic*
-
 {{< figure src="img/020.JPG" alt="Schematic In Eagle" caption="[ Schematic In Eagle ]" >}}
-
-*Board*
 
 {{< figure src="img/030.JPG" alt="Board in Eagle" caption="[ Board in Eagle ]" >}}
 
