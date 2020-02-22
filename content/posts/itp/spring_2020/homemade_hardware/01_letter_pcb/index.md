@@ -4,7 +4,7 @@ title = "Letter Pcb"
 date = "2020-02-21T13:39:30-05:00"
 author = "Noah Kernis"
 tags = ["itp", "homemade_hardware"]
-description = "PCB for letter \"I\""
+description = "Cust PCB board design for the letter \"I\""
 showFullContent = false
 +++
 
