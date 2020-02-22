@@ -1,10 +1,10 @@
 +++
 slug = "01_letter_pcb"
-title = "Letter Pcb"
+title = "Marquee Sign PCB"
 date = "2020-02-21T13:39:30-05:00"
 author = "Noah Kernis"
 tags = ["itp", "homemade_hardware"]
-description = "Cust PCB board design for the letter \"I\""
+description = "Custom PCB board design for the letter \"I\""
 showFullContent = false
 +++
 
