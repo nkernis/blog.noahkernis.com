@@ -43,3 +43,11 @@ For the mood board I used pinterest.
 {{< figure src="img/02.JPG" alt="Screenshot of MoodBoard" caption="[ Screenshot Of MoodBoard ]" >}}
 
 ## Next Steps
+
+One thing I know I am missing is a final action for the user to do to determine whether or not to trust their article. This is both to complete the experience and so they can reference the note in the future. 
+
+Looking forward I really need to focus on the app functionality. Specifically, designing it to be quick to use and simple to navigate. I have a feeling I will need to focus on readability and ease of use. If it is annoying interferes with reading articles people may abandon it quickly.
+
+For user testing I want to start with just a notebook and the main steps blocked out. Then when the person asks fort more information on what to do for a section, trial different description's and and presentation methods. Do they want examples?
+
+Last, I would want to build some kind of app home or section where the person can review or scroll through their prior research. 
