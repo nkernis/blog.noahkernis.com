@@ -16,7 +16,7 @@ Develop a user flow map with wireframes for your project as well as a mood board
 
 #### Who Am I Designing For
 
-For this iteration I decided to clarify who I am building this for. I have decide to focus on people who are actively looking to improve their media literacy. They are actively looking for ways to improve their ability. The person has this goes, but is unsure how ti achieve it. Second, I am designing for a person who is comfortable using the web browser. In this case, that includes being able to install a browser extension with or without minimal instructions.
+For this iteration I decided to clarify who I am building this for. I have decide to focus on people who are actively looking to improve their media literacy. The person has this goal, but is unsure how to achieve it. Second, I am designing for a person who is comfortable using the web browser. In this case, that includes being able to install a browser extension with or without minimal instructions.
 
 #### The Steno Notebook
 
