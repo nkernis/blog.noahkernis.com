@@ -6,7 +6,6 @@ author = "Noah Kernis"
 tags = ["itp", "meaningful_interactions"]
 description = "User Flow for the still to be named FACTAPP"
 showFullContent = false
-draft = true
 +++
 
 ## Assignment
