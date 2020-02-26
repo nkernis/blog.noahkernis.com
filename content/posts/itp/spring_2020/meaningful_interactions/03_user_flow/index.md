@@ -1,6 +1,6 @@
 +++
 slug = "03_user_flow"
-title = "User Flow"
+title = "Media Literacy - User Flow"
 date = "2020-02-26T13:51:03-05:00"
 author = "Noah Kernis"
 tags = ["itp", "meaningful_interactions"]
