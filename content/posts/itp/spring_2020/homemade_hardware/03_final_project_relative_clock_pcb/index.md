@@ -50,6 +50,7 @@ I am looking to produce a more finished version of this project. Having a PCB fo
 ## Presentation
 
 <div style="text-align:center">
-	<video src="https://youtu.be/xNXErSWGO3w " class="center" width="640" height="360" frameborder="0"></video>
+	<iframe width="640" height="360" src="https://www.youtube.com/embed/xNXErSWGO3w" frameborder="0" allow="autoplay;encrypted-media;picture-in-picture" allowfullscreen></iframe>
 </div>
+
 [Slides](https://docs.google.com/presentation/d/1aOYuvFS8iqAbJ1fB3dZ6ITSUG9_DflkOLxGKYFYh_Uc/edit?usp=sharing)
