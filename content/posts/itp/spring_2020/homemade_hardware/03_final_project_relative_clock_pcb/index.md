@@ -46,3 +46,7 @@ I am looking to produce a more finished version of this project. Having a PCB fo
 	- Three buttons
 	- Screen
 - Extra pin connection incase I need in future
+
+## Presentation
+
+[Slides](https://docs.google.com/presentation/d/1aOYuvFS8iqAbJ1fB3dZ6ITSUG9_DflkOLxGKYFYh_Uc/edit?usp=sharing)
