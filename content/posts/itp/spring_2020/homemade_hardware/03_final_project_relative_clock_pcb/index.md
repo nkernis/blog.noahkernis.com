@@ -40,8 +40,9 @@ I am looking to produce a more finished version of this project. Having a PCB fo
 *I would like the board to have the following:*
 
 - On/Off Switch
-- Battery run (can last)
+- Battery run
 	- Can last a while because it's a clock
 - Easy connections for:
 	- Three buttons
 	- Screen
+- Extra pin connection incase I need in future
