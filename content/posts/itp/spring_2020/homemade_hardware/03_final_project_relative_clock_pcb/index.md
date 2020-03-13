@@ -49,4 +49,7 @@ I am looking to produce a more finished version of this project. Having a PCB fo
 
 ## Presentation
 
+<div style="text-align:center">
+	<video src="https://youtu.be/xNXErSWGO3w " class="center" width="640" height="360" frameborder="0"></video>
+</div>
 [Slides](https://docs.google.com/presentation/d/1aOYuvFS8iqAbJ1fB3dZ6ITSUG9_DflkOLxGKYFYh_Uc/edit?usp=sharing)
