@@ -72,7 +72,9 @@ A water spout that can only be used if another person, using a water gun, keeps 
 
 {{< figure src="img/IMG_8885.JPG" alt="..." caption="[ Water Spout Side ]" >}}
 
-__Video To Come__
+---
+*__Video To Come__*
+---
 
 <!-- <div style="text-align:center">
 	<iframe width="640" height="360" src="https://www.youtube.com/embed/xNXErSWGO3w" frameborder="0" allow="autoplay;encrypted-media;picture-in-picture" allowfullscreen></iframe>
