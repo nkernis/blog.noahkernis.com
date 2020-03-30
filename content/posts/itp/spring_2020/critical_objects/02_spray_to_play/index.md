@@ -1,6 +1,6 @@
 +++
 slug = "02_spray_to_play"
-title = "Spray to Play"
+title = "SPRAY_TO_PLAY"
 date = "2020-03-30T09:16:23-04:00"
 author = "Noah Kernis"
 tags = ["itp", "critical_objects"]
