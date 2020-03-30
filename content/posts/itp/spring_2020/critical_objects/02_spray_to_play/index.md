@@ -68,9 +68,10 @@ A water spout that can only be used if another person, using a water gun, keeps 
 
 ## Final Thing
 
-{{< figure src="img/IMG_8883.JPG" alt="..." caption="[ Water Spray Game Side ]" >}}
 
-{{< figure src="img/IMG_8885.JPG" alt="..." caption="[ Water Spout Side ]" >}}
+{{< figure src="img/IMG_8892.JPG" alt="..." caption="[ Water Spout Side ]" >}}
+
+{{< figure src="img/IMG_8893.JPG" alt="..." caption="[ Water Spray Game Side ]" >}}
 
 
 *__Video To Come__*
@@ -137,8 +138,8 @@ Second, I want the water spray game to be the real thing. Maybe have a couple so
 {{< figure src="img/IMG_8878.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/IMG_8879.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/IMG_8881.JPG" alt="..." caption="[ ... ]" >}}
-<!-- {{< figure src="img/IMG_8883.JPG" alt="..." caption="[ ... ]" >}} -->
-<!-- {{< figure src="img/IMG_8885.JPG" alt="..." caption="[ ... ]" >}} -->
+{{< figure src="img/IMG_8883.JPG" alt="..." caption="[ ... ]" >}}
+{{< figure src="img/IMG_8885.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/IMG_8886.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/IMG_8887.JPG" alt="..." caption="[ ... ]" >}}
 {{< figure src="img/IMG_8888.JPG" alt="..." caption="[ ... ]" >}}
