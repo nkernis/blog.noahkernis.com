@@ -40,7 +40,7 @@ For my version, rather than popping a ballon, hitting the target allows someone 
 
 {{< figure src="img/IMG_8813.JPG" alt="..." caption="[ Idea with Water Spray Game ]" >}}
 
-Here is my breakdown of my idea: 
+Here is the breakdown of my idea: 
 
 *Topic* 
 
