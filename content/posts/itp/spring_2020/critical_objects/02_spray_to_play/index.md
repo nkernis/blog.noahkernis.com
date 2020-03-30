@@ -73,7 +73,7 @@ A water spout that can only be used if another person, using a water gun, keeps 
 
 {{< figure src="img/IMG_8893.JPG" alt="..." caption="[ Water Spray Game Side ]" >}}
 
-{{< figure src="img/SPRAY_TO_PLAY_compressed" alt="..." caption="[ SPRAY_TO_PLAY ]" >}}
+{{< figure src="img/SPRAY_TO_PLAY_compressed.gif" alt="..." caption="[ SPRAY_TO_PLAY ]" >}}
 
 
 *__Video To Come__*
