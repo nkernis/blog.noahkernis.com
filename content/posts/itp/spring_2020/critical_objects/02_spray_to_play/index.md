@@ -8,6 +8,8 @@ description = "Critial Objects Midterm"
 showFullContent = false
 +++
 
+<!-- https://www.adafruit.com/product/997 -->
+
 ## Assignment
 
 > Choose a TOPIC, a DEVICE, and a MOOD. Make an INTERACTIVE Critical Object based on your selections. The technology should be conspicuous ( I should not be able to see your Arduino/wires/motors/etc).
