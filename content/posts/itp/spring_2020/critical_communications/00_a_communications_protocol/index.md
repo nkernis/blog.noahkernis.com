@@ -50,7 +50,7 @@ After some initial research I decided that I wanted to focus on protocols that r
 
 *Transmission Control Protocol (TCP)*
 
-I was interested in TCP for several reasons. One is that it was one of the initial protocols of the internet. Second, it establishes the connections that a lot of the modern internet runs of on top. It is an important protocol that lives in the background. 
+I was interested in TCP for several reasons. One is that it was one of the initial protocols of the internet. Second, it establishes the connections that a lot of the modern internet runs on top of. It is an important protocol that lives in the background. 
 
 *Domain Name System (DNS)*
 
@@ -58,7 +58,7 @@ DNS jumped out to me because it is a place where humans and computer can sort of
 
 *Hypertext Transfer Protocol (HTTP)*
 
-HTTP was kind of an obvious choice. That said, it is how much of content and actual "meat" of the internet is transmitted. It sits on top of many protocols and layers in the OSI model, but is fundamental to the actual information we send over the internet. 
+HTTP was kind of an obvious choice. That said, it is how much of content and actual "meat" of the internet is transmitted. It sits on top of many protocols, but is fundamental to the actual information we send over the internet. 
 
 After lots of pacing and ruminating I decided to go with TCP. Through my work experience I have had more exposure to the inner workings of HTTP. TCP will give me a chance to play around with the implementation of the protocol and to really engage with the history of the modern internet. 
 
@@ -77,7 +77,7 @@ After lots of pacing and ruminating I decided to go with TCP. Through my work ex
 
 *Who made it?*
 
-The Network Working Group working on the original ARPANET. Many people were invloved with various aspects and are refernece in the original RFC. 
+The Network Working Group working on the original ARPANET. Many people were involved with various aspects and are reference in the original RFC. 
 
 The RFC was written by Vinton Cerf, Yogen Dalal, and Carl Sunshine.
 
