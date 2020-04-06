@@ -82,7 +82,7 @@ The RFC was written by Vinton Cerf, Yogen Dalal, and Carl Sunshine.
 
 *Why was it made?*
 
-...
+> In a seminal moment in the development of the Internet, DARPA’s Robert Kahn (who joined the Information Processing Techniques Office as a program manager in 1972) asked Vinton Cerf of Stanford University to collaborate on a project to develop new communications protocols for sending packets of data across the ARPANET. That query resulted in the creation of the Transmission Control Protocol (TCP) and the Internet Protocol (IP), most often seen together as TCP/IP. These protocols remain a mainstay of the Internet’s underlying technical foundation. [DARPA](https://www.darpa.mil/about-us/timeline/tcp-ip)
 
 *How does it work?*
 
@@ -101,6 +101,8 @@ Here is a an example of how the protocol works at a high level:
 The most important thing about TCP to me is how fundamental it is to the modern internet. It is a protocol used by so many people so often - and it may as well be invisible. 
 
 Some of the language involved in describing the protocol (for example, the three-way handshake) embeds a western cultural greeting into the exchange of data.
+
+TCP (and IP) were mentioned all the time when I worked as a DevOps engineer. The truth is I know they exist and the basics of how they work, but I don't actually have a concrete understanding of how it actually works. I want to really break it down.
 
 These are some of my initial thoughts about what I want to explore:
 
