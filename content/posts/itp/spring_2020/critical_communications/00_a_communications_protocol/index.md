@@ -14,11 +14,11 @@ showFullContent = false
 
 Research a communications protocol of your choice and write it up what you find in a blog post. Questions to answer (at the very least):
 
-    - How does it work?
-    	- Doesn't need to be super technical but it should be detailed enough that to understand how someone could use it.
-    - Who made it?
-    - Why was it made?
-    - What did you find interesting about it?
+	- How does it work?
+		- Doesn't need to be super technical but it should be detailed enough that to understand how someone could use it.
+	- Who made it?
+	- Why was it made?
+	- What did you find interesting about it?
 
 For the purpose of this assignment a communications protocol will be defined as a system of rules that allow two or more entities of a communications system to transmit information via any kind of variation of a physical quantity (Source: Wikipedia).
 
@@ -34,7 +34,7 @@ I decided for this assignment that I was going to research a communications prot
 	- https://en.wikipedia.org/wiki/OSI_model
 	- https://en.wikipedia.org/wiki/Internet_protocol_suite
 - SMTP
-	- (https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol)
+	- https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol
 - SSH
 	- https://en.wikipedia.org/wiki/Secure_Shell
 - FTP
@@ -64,19 +64,37 @@ After lots of pacing and ruminating I decided to go with TCP. Through my work ex
 
 ## The Protocol: Transmission Control Protocol - TCP 
 
+*Resources*
+
+- [Out-of-Band Control Signals in a Host-to-Host Protocol](http://www.networksorcery.com/enp/rfc/rfc721.txt)
+- [Original RFC: SPECIFICATION OF INTERNET TRANSMISSION CONTROL PROGRAM - December 1974 Version](https://tools.ietf.org/html/rfc675)
+	- [761](https://tools.ietf.org/html/rfc761)
+	- [793](https://tools.ietf.org/html/rfc793)
+- [Network Sorcery](http://www.networksorcery.com/enp/protocol/tcp.htm)
+- [W3C](https://www.w3.org/TR/tcp-udp-sockets/)
+
 *Who made it?*
 
+The Network Working Group working on the original ARPANET. Many people were invloved with various aspects and are refernece in the original RFC. 
 
+The RFC was written by Vinton Cerf, Yogen Dalal, and Carl Sunshine.
 
 *Why was it made?*
 
-
+...
 
 *How does it work?*
 
+Here is a high level description of the protocol:
 
+> The Transmission Control Protocol provides a communication service at an intermediate level between an application program and the Internet Protocol. It provides host-to-host connectivity at the transport layer of the Internet model. An application does not need to know the particular mechanisms for sending data via a link to another host, such as the required IP fragmentation to accommodate the maximum transmission unit of the transmission medium. At the transport layer, TCP handles all handshaking and transmission details and presents an abstraction of the network connection to the application typically through a network socket interface. [Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+
+Here is a an example of how the protocol works at a high level:
+
+> For example, when an email is sent over TCP, a connection is established and a 3-way handshake is made. First, the source send an SYN “initial request” packet to the target server in order to start the dialogue. Then the target server then sends a SYN-ACK packet to agree to the process. Lastly, the source sends an ACK packet to the target to confirm the process, after which the message contents can be sent. The email message is ultimately broken down into packets before each packet is sent out into the Internet, where it traverses a series of gateways before arriving at the target device where the group of packets are reassembled by TCP into the original contents of the email. [CloudFlare](https://www.cloudflare.com/learning/ddos/glossary/tcp-ip/)
+
+...
 
 *What did you find interesting about it?*
 
-
-
+...
