@@ -110,4 +110,4 @@ These are some of my initial thoughts about what I want to explore:
 - I'm interested in first, understanding how it works. I want to actually implement the protocol myself.
 - Second, I want to know the limitations of the protocol. What constraints does it have? How does that effect the information sent over it? Or what can even be sent over it?
 - Third, I want to understand the world and life-cycle of the protocol. Not only how it works, but what pieces of infrastructure must it pass through? How long does it "live"? How does it change when sent, received, etc?
-- Fourth, how can I tamper with it? How resilient is it to tampering? What happens to data when the protocol can't complete?
+- Fourth, how can I tamper with it? How resilient is it to tampering? What happens to data when the protocol can't complete? Where do "lost" packets go?
