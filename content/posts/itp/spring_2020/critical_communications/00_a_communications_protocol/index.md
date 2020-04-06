@@ -87,11 +87,11 @@ The RFC was written by Vinton Cerf, Yogen Dalal, and Carl Sunshine.
 
 *How does it work?*
 
-Here is a high level description of the protocol:
+Here is a high-level description of the protocol:
 
 > The Transmission Control Protocol provides a communication service at an intermediate level between an application program and the Internet Protocol. It provides host-to-host connectivity at the transport layer of the Internet model. An application does not need to know the particular mechanisms for sending data via a link to another host, such as the required IP fragmentation to accommodate the maximum transmission unit of the transmission medium. At the transport layer, TCP handles all handshaking and transmission details and presents an abstraction of the network connection to the application typically through a network socket interface. [Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
 
-Here is a an example of how the protocol works at a high level:
+Here is a simplified example of how the protocol works:
 
 > For example, when an email is sent over TCP, a connection is established and a 3-way handshake is made. First, the source send an SYN “initial request” packet to the target server in order to start the dialogue. Then the target server then sends a SYN-ACK packet to agree to the process. Lastly, the source sends an ACK packet to the target to confirm the process, after which the message contents can be sent. The email message is ultimately broken down into packets before each packet is sent out into the Internet, where it traverses a series of gateways before arriving at the target device where the group of packets are reassembled by TCP into the original contents of the email. [CloudFlare](https://www.cloudflare.com/learning/ddos/glossary/tcp-ip/)
 
