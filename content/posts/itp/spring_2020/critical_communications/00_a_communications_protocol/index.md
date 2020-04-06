@@ -73,6 +73,7 @@ After lots of pacing and ruminating I decided to go with TCP. Through my work ex
 - [Network Sorcery](http://www.networksorcery.com/enp/protocol/tcp.htm)
 - [W3C](https://www.w3.org/TR/tcp-udp-sockets/)
 - [Julia Evans](https://jvns.ca/blog/2015/11/21/why-you-should-understand-a-little-about-tcp/)
+- [OSI: The Internet That Wasn’t](https://spectrum.ieee.org/tech-history/cyberspace/osi-the-internet-that-wasnt)
 
 *Who made it?*
 
