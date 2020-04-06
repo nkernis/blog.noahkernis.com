@@ -72,6 +72,7 @@ After lots of pacing and ruminating I decided to go with TCP. Through my work ex
 	- [793](https://tools.ietf.org/html/rfc793)
 - [Network Sorcery](http://www.networksorcery.com/enp/protocol/tcp.htm)
 - [W3C](https://www.w3.org/TR/tcp-udp-sockets/)
+- [Julia Evans](https://jvns.ca/blog/2015/11/21/why-you-should-understand-a-little-about-tcp/)
 
 *Who made it?*
 
@@ -97,4 +98,13 @@ Here is a an example of how the protocol works at a high level:
 
 *What did you find interesting about it?*
 
-...
+The most important thing about TCP to me is how fundamental it is to the modern internet. It is a protocol used by so many people so often - and it may as well be invisible. 
+
+Some of the language involved in describing the protocol (for example, the three-way handshake) embeds a western cultural greeting into the exchange of data.
+
+These are some of my initial thoughts about what I want to explore:
+
+- I'm interested in first, understanding how it works. I want to actually implement the protocol itself.
+- Second, I want to know the limitations of the protocol. What constraints does it have? How does that effect the information sent over it? Or what can even be sent over it?
+- Third, I want to understand the world and life-cycle of the protocol. Not only how it works, but what pieces of infrastructure must it pass through? How long does it "live"? How does it change when sent, received, etc?
+- Fourth, how can I tamper with it? How resilient is it to tampering? What happens to data when the protocol can't complete?
