@@ -63,7 +63,7 @@ I know I generally wanted to focus on the experience of having T1D, so I started
 	- RFID ID/tag worn at work to get into rooms. To use, person must enter BG (integrated into tag?) and it open if in certain range. 
 
 * B) DIY insulin 
-	- 
+	- DIY survival kit made only from medical waste fro, having T1D
 
 * C) Insulin access 
 	- Home router, bandwidth is determined by bg of one person.
@@ -93,5 +93,7 @@ I know I generally wanted to focus on the experience of having T1D, so I started
 		- [Schematic](https://hackaday.io/project/11719-open-source-arduino-blood-glucose-meter-shield/log/39412-basic-glucose-meter-schematic)
 	- [Glucose Meter Fundamentals and Design - Miriam Garcia Yanez](https://www.nxp.com/docs/en/application-note/AN4364.pdf)
 	- [Design of Digital Blood Glucose Meter Based on Arduino UNO](https://www.researchgate.net/publication/305590433_Design_of_Digital_Blood_Glucose_Meter_Based_on_Arduino_UNO)
+	- [Module 6: Glucose Sensor - UTEP](http://www.ece.utep.edu/courses/web1305/EE1305/modules/module_6.html)
 ## Proposal
 
+Yes.
