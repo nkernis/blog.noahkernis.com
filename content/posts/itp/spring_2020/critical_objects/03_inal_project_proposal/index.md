@@ -57,7 +57,7 @@ I know I generally wanted to focus on the experience of having T1D, so I started
 
 #### Ideas
 
-<!-- {{< figure src="img/IMG_  .JPG" alt="Notes in notebook on ideas" caption="[ Coming Up With Ideas ]" >}} -->
+{{< figure src="img/IMG_9087.JPG" alt="Notes in notebook on ideas" caption="[ Coming Up With Ideas ]" >}}
 
 * A) Workplace assumes "normal" body function
 	- RFID ID/tag worn at work to get into rooms. To use, person must enter BG (integrated into tag?) and it open if in certain range. 
