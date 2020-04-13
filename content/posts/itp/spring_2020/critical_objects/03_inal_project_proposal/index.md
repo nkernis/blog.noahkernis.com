@@ -14,13 +14,12 @@ showFullContent = false
 
 *Design, make and document a Device or Object that is critical about a topic related to Body politics. ( Feminism, Racial Bias, Abortion, Healthcare Access, Bionic Humans, Cyborgs, Non Binary Rights, ... )*
 
-*Guidelines*
-
-- Choose a Topic / Subject relevant to the idea of Body Politics  
-- Establish 2 limitations / constraints.
-- Choose a framework to present your topic and to correlate to your critical, technological and design approach.
-- Design, make and document a Device or Object that is critical about your chosen topic.
-- Prepare for a in class Demo and Presentation of your final Critical Object.
+- Guidelines
+	- Choose a Topic / Subject relevant to the idea of Body Politics  
+	- Establish 2 limitations / constraints.
+	- Choose a framework to present your topic and to correlate to your critical, technological and design approach.
+	- Design, make and document a Device or Object that is critical about your chosen topic.
+	- Prepare for a in class Demo and Presentation of your final Critical Object.
 
 ## Think
 
@@ -34,11 +33,11 @@ I know I generally wanted to focus on the experience of having T1D, so I started
 	- c1) Wearable
 	- c2) Use a body metric
 
-* B) Topic: DIY Insulin
+* B) Topic: DIY insulin
 	- c1) Funny 
 	- c2) Hand-held to use
 
-* C) Topic: Insulin Access
+* C) Topic: Insulin access
 	- c1) Related to food
 	- c2) Is annoying 
 
@@ -50,14 +49,14 @@ I know I generally wanted to focus on the experience of having T1D, so I started
 	- c1) Use a body metric
 	- c2) Internet related
 
-* F) Topic: Misunderstood Disease
+* F) Topic: Misunderstood disease
 	- c1) Toy related
 	- c2) DIY (can make at home)
 
 ## Research
 
-- [Multi-Touch Paintings series - Untitled: (A Search for Ghosts in the Meat Machine) - Ani Liu](https://ani-liu.com/the-ghosts-you-havent-been)
-- [Evan Roth](http://www.evan-roth.com/work/multi-touch-paintings/)
+- [Untitled: (A Search for Ghosts in the Meat Machine) - Ani Liu](https://ani-liu.com/the-ghosts-you-havent-been)
+- [Multi-Touch Paintings series - Evan Roth](http://www.evan-roth.com/work/multi-touch-paintings/)
 - [sputniko](https://sputniko.com/Home)
 	- [MENSTRUATION MACHINE - TAKASHI'S TAKE ](https://sputniko.com/Menstruation-Machine)
 	- [PENIS CYBERNÉTIQUE](https://sputniko.com/Penis-Cybernetique)
