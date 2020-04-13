@@ -23,9 +23,9 @@ showFullContent = false
 
 ## Think
 
-Body politics is a topic area I have a strong, personal relationship with. As I have discussed in previous posts (recurring theme here...) I am a Type 1 Diabetic and this I need easy access to insulin in order to control my blood sugar. The life of a Type 1 Diabetic in America today is one full of clashes between the needs of the body, business and policy. 
+Body politics is a topic area I have a strong, personal relationship with. As I have discussed in previous posts (recurring theme here...) I am a Type 1 Diabetic (T1D). This means I need easy access to insulin in order to control my blood sugar. The life of a T1D in America today is one full of clashes between the needs of the body, business and policy. 
 
-I know I generally wanted to focus on this area so I started coming up with more specific topics and two constraints for each.
+I know I generally wanted to focus on the experience of having T1D, so I started coming up with more specific topics and two constraints for each.
 
 <!-- TODO: PHOTO OF NOTEBOOK -->
 <!-- {{< figure src="img/..." alt="..." caption="[ ... ]" >}} -->
@@ -33,19 +33,19 @@ I know I generally wanted to focus on this area so I started coming up with more
 A. Topic: ....
 	- c1) Weareable
 	- c2) Use a body metric
-A. Topic: DIY Insulin
+B. Topic: DIY Insulin
 	- c1) Funny 
 	- c2) Hand-held to use
-A. Topic: Insulin Access
+C. Topic: Insulin Access
 	- c1) Related to food
 	- c2) Is annoying 
-A. Topic: Invisible to others
+D. Topic: Invisible to others
 	- c1) Concealable
 	- c2) Repeatedly interacted with 
-A. Topic: Control over self/body
+E. Topic: Control over self/body
 	- c1) Use a body metric
 	- c2) Internet related
-A. Topic: Misunderstood Disease
+F. Topic: Misunderstood Disease
 	- c1) 
 	- c1) 
 
