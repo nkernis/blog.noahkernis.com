@@ -15,11 +15,11 @@ showFullContent = false
 > Design, make and document a Device or Object that is critical about a topic related to Body politics. ( Feminism, Racial Bias, Abortion, Healthcare Access, Bionic Humans, Cyborgs, Non Binary Rights, ... )
 
 > Guidelines:
->    - Choose a Topic / Subject relevant to the idea of Body Politics
->    - Establish 2 limitations / constraints.
->    - Choose a framework to present your topic and to correlate to your critical, technological and design approach.
->    - Design, make and document a Device or Object that is critical about your chosen topic.
->    - Prepare for a in class Demo and Presentation of your final Critical Object.
+	- Choose a Topic / Subject relevant to the idea of Body Politics  
+	- Establish 2 limitations / constraints.
+	- Choose a framework to present your topic and to correlate to your critical, technological and design approach.
+	- Design, make and document a Device or Object that is critical about your chosen topic.
+	- Prepare for a in class Demo and Presentation of your final Critical Object.
 
 ## Think
 
