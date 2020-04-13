@@ -51,8 +51,8 @@ I know I generally wanted to focus on the experience of having T1D, so I started
 	- c2) Internet related
 
 * F) Topic: Misunderstood Disease
-	- c1) Large
-	- c2) 
+	- c1) Toy related
+	- c2) DIY (can make at home)
 
 ## Proposal
 
