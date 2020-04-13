@@ -53,5 +53,13 @@ I know I generally wanted to focus on the experience of having T1D, so I started
 	- c1) Toy related
 	- c2) DIY (can make at home)
 
+## Research
+
+- [Multi-Touch Paintings series - Untitled: (A Search for Ghosts in the Meat Machine) - Ani Liu](https://ani-liu.com/the-ghosts-you-havent-been)
+- [Evan Roth](http://www.evan-roth.com/work/multi-touch-paintings/)
+- [sputniko](https://sputniko.com/Home)
+	- [MENSTRUATION MACHINE - TAKASHI'S TAKE ](https://sputniko.com/Menstruation-Machine)
+	- [PENIS CYBERNÉTIQUE](https://sputniko.com/Penis-Cybernetique)
+
 ## Proposal
 
