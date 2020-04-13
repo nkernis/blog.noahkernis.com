@@ -12,9 +12,9 @@ showFullContent = false
 
 > "The term body politics refers to the practices and policies through which powers of society regulate the human body, as well as the struggle over the degree of individual and social control of the body".
 
-> Design, make and document a Device or Object that is critical about a topic related to Body politics. ( Feminism, Racial Bias, Abortion, Healthcare Access, Bionic Humans, Cyborgs, Non Binary Rights, ... )
+*Design, make and document a Device or Object that is critical about a topic related to Body politics. ( Feminism, Racial Bias, Abortion, Healthcare Access, Bionic Humans, Cyborgs, Non Binary Rights, ... )*
 
-- Guidelines:
+*Guidelines*
 	- Choose a Topic / Subject relevant to the idea of Body Politics  
 	- Establish 2 limitations / constraints.
 	- Choose a framework to present your topic and to correlate to your critical, technological and design approach.
