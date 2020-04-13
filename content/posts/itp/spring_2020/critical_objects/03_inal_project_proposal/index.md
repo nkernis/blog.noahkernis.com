@@ -14,7 +14,7 @@ showFullContent = false
 
 > Design, make and document a Device or Object that is critical about a topic related to Body politics. ( Feminism, Racial Bias, Abortion, Healthcare Access, Bionic Humans, Cyborgs, Non Binary Rights, ... )
 
-> Guidelines:
+- Guidelines:
 	- Choose a Topic / Subject relevant to the idea of Body Politics  
 	- Establish 2 limitations / constraints.
 	- Choose a framework to present your topic and to correlate to your critical, technological and design approach.
@@ -30,23 +30,28 @@ I know I generally wanted to focus on the experience of having T1D, so I started
 <!-- TODO: PHOTO OF NOTEBOOK -->
 <!-- {{< figure src="img/..." alt="..." caption="[ ... ]" >}} -->
 
-* A) Topic: ....
+* A) Topic: Workplace assumes "normal" body function
 	- c1) Wearable
 	- c2) Use a body metric
+
 * B) Topic: DIY Insulin
 	- c1) Funny 
 	- c2) Hand-held to use
+
 * C) Topic: Insulin Access
 	- c1) Related to food
 	- c2) Is annoying 
+
 * D) Topic: Invisible to others
 	- c1) Concealable
 	- c2) Repeatedly interacted with 
+
 * E) Topic: Control over self/body
 	- c1) Use a body metric
 	- c2) Internet related
+
 * F) Topic: Misunderstood Disease
-	- c1) 
+	- c1) Large
 	- c2) 
 
 ## Proposal
