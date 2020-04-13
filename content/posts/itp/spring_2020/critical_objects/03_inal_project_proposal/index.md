@@ -30,24 +30,24 @@ I know I generally wanted to focus on the experience of having T1D, so I started
 <!-- TODO: PHOTO OF NOTEBOOK -->
 <!-- {{< figure src="img/..." alt="..." caption="[ ... ]" >}} -->
 
-A. Topic: ....
-	- c1) Weareable
+* A) Topic: ....
+	- c1) Wearable
 	- c2) Use a body metric
-B. Topic: DIY Insulin
+* B) Topic: DIY Insulin
 	- c1) Funny 
 	- c2) Hand-held to use
-C. Topic: Insulin Access
+* C) Topic: Insulin Access
 	- c1) Related to food
 	- c2) Is annoying 
-D. Topic: Invisible to others
+* D) Topic: Invisible to others
 	- c1) Concealable
 	- c2) Repeatedly interacted with 
-E. Topic: Control over self/body
+* E) Topic: Control over self/body
 	- c1) Use a body metric
 	- c2) Internet related
-F. Topic: Misunderstood Disease
+* F) Topic: Misunderstood Disease
 	- c1) 
-	- c1) 
+	- c2) 
 
 ## Proposal
 
