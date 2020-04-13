@@ -27,8 +27,7 @@ Body politics is a topic area I have a strong, personal relationship with. As I 
 
 I know I generally wanted to focus on the experience of having T1D, so I started coming up with more specific topics and two constraints for each.
 
-<!-- TODO: PHOTO OF NOTEBOOK -->
-<!-- {{< figure src="img/..." alt="..." caption="[ ... ]" >}} -->
+{{< figure src="img/IMG_9076.JPG" alt="Notes in notebook on ideas" caption="[ Coming Up With Ideas ]" >}}
 
 * A) Topic: Workplace assumes "normal" body function
 	- c1) Wearable
