@@ -1,6 +1,6 @@
 +++
-slug = "first_post"
-title = "First Post"
+slug = "digitial_fabrication"
+title = "Digitial Fabrication"
 date = "2020-08-29T17:31:59-04:00"
 author = "Noah Kernis"
 tags = ["itp", "digital_fabrication"]

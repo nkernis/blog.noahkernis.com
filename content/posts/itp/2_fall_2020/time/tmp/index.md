@@ -1,6 +1,6 @@
 +++
-slug = "first_post"
-title = "First Post"
+slug = "time"
+title = "Time"
 date = "2020-08-29T17:30:59-04:00"
 author = "Noah Kernis"
 tags = ["itp", "time"]
