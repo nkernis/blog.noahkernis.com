@@ -25,7 +25,7 @@ showFullContent = false
 
 ##### Topic
 
-Body politics is a topic area I have a strong, personal relationship with. As I have discussed in previous posts (recurring theme here...) I am a Type 1 Diabetic (T1D). This means I need easy access to insulin in order to control my blood sugar. The life of a T1D in America today is one full of clashes between the needs of the body, business and policy. 
+Body politics is a topic area I have a strong, personal relationship with. As I have discussed in previous posts I am a Type 1 Diabetic (T1D). This means I need easy access to insulin in order to control my blood sugar. The life of a T1D in America today is one full of clashes between the needs of the body, business and policy. 
 
 I know I generally wanted to focus on the experience of having T1D, so I started coming up with more specific topics and two constraints for each.
 
@@ -63,22 +63,23 @@ I know I generally wanted to focus on the experience of having T1D, so I started
 	- RFID ID/tag worn at work to get into rooms. To use, person must enter BG (integrated into tag?) and it open if in certain range. 
 
 * B) DIY insulin 
-	- DIY survival kit made only from medical waste fro, having T1D
+	- DIY survival kit made only from medical waste from having T1D
+	- 
 
 * C) Insulin access 
 	- Home router, bandwidth is determined by bg of one person.
+	- 
 
 * D) Invisible to others
-	- Shirt/mesh that lightly shocks person in response to a body metric(?). Person must do something to stop it. Repeatedly happens. 
+	- Shirt/mesh that lightly shocks person in response to a body metric(?). Person must do something to stop it. Repeatedly happens.
+	- 
 
 * E) Control over self/body	
 	- Cookie jar that opens an amount in relation to bg of person (in house or each individual?)
+	- 
 
 * F) Misunderstood disease
 	- 
-
-	
-
 
 ## Research
 
