@@ -9,7 +9,7 @@ showFullContent = false
 +++
 
 ## Assignment
-asd
+
 > "The term body politics refers to the practices and policies through which powers of society regulate the human body, as well as the struggle over the degree of individual and social control of the body".
 
 *Design, make and document a Device or Object that is critical about a topic related to Body politics. ( Feminism, Racial Bias, Abortion, Healthcare Access, Bionic Humans, Cyborgs, Non Binary Rights, ... )*
