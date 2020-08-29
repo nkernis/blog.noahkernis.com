@@ -1,11 +1,12 @@
 +++
 slug = "first_post"
 title = "First Post"
-date = "2019-08-31T18:24:53-04:00"
+date = "2020-08-29T17:34:59-04:00"
 author = "Noah Kernis"
 tags = ["itp", "thesis"]
 description = "Temporary first post for this class."
 showFullContent = false
+draft = true
 +++
 
 This is a temporary first post. 
