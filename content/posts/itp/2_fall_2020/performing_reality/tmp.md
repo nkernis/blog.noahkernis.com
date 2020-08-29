@@ -1,7 +1,7 @@
 +++
 slug = "first_post"
 title = "First Post"
-date = "2019-08-31T18:20:53-04:00"
+date = "2019-08-31T18:23:53-04:00"
 author = "Noah Kernis"
 tags = ["itp", "performing_reality"]
 description = "Temporary first post for this class."
