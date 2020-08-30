@@ -1,39 +1,47 @@
 <!DOCTYPE html>
 <html lang="{{ $.Site.Language }}">
+
 <head>
-  {{ block "title" . }}
-    <title>{{ if .IsHome }}{{ $.Site.Title }}{{ with $.Site.Params.Subtitle }} — {{ . }}{{ end }}{{ else }}{{ .Title }} :: {{ $.Site.Title }}{{ with $.Site.Params.Subtitle }} — {{ . }}{{ end }}{{ end }}</title>
-  {{ end }}
-  {{ partial "head.html" . }}
+	{{ block "title" . }}
+	<title>{{ if .IsHome }}{{ $.Site.Title }}{{ with $.Site.Params.Subtitle }} — {{ . }}{{ end }}{{ else }}{{ .Title }}
+		:: {{ $.Site.Title }}{{ with $.Site.Params.Subtitle }} — {{ . }}{{ end }}{{ end }}</title>
+	{{ end }}
+	{{ partial "head.html" . }}
 </head>
+
 <body class="">
-{{ $container := cond $.Site.Params.FullWidthTheme "container full" (cond $.Site.Params.CenterTheme "container center" "container") }}
+	{{ $container := cond $.Site.Params.FullWidthTheme "container full" (cond $.Site.Params.CenterTheme "container center" "container") }}
 
-<div class="{{- $container -}}">
+	<div class="{{- $container -}}">
 
-  {{ partial "header.html" . }}
+		{{ partial "header.html" . }}
 
-  <div class="content">
-    {{ block "main" . }}
-    {{ end }}
-  </div>
+		<div id="tagline" style="font-size:1.5em; font-style: italic;">
+			<span>&nbsp;</span>
+		</div>
 
-  {{ block "footer" . }}
-    {{ partial "footer.html" . }}
-  {{ end }}
-</div>
+		<div class="content">
+			{{ block "main" . }}
+			{{ end }}
+		</div>
 
-<script>
-  var taglines = {{ $.Site.Params.Taglines }};
+		{{ block "footer" . }}
+		{{ partial "footer.html" . }}
+		{{ end }}
+	</div>
 
-  function randInt(max) {
-    return Math.floor(Math.random() * Math.floor(max));
-  };
+	<script>
+		var taglines = {{ $.Site.Params.Taglines }};
 
-  var oldTxt = document.getElementById("tagline").innerHTML;
-  var newTxt = oldTxt.replace(/&nbsp;/g, taglines[randInt(taglines.length)]);
-  document.getElementById("tagline").innerHTML = newTxt;
-</script>
+		function randInt(max) {
+			return Math.floor(Math.random() * Math.floor(max));
+		};
+
+		var oldTxt = document.getElementById("tagline").innerHTML;
+		var newTxt = oldTxt.replace(/&nbsp;/g, taglines[randInt(taglines.length)]);
+		document.getElementById("tagline").innerHTML = newTxt;
+	</script>
 
 </body>
+
 </html>

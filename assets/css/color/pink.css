@@ -6,17 +6,6 @@
 @import '../syntax.css';
 @import '../variables.css';
 
-/* :root {
-	--accent: #7A61E2;
-	--color: #fff;
-	--border-color: #7A61E2;
-} */
-
-/* body {
-	background-color: color-mod(var(--accent) blend(#1D1E28 98%));
-}
- */
-
 :root {
 	--accent: #174237;
 	--color: #0a1a0f;
