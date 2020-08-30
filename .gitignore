@@ -1,5 +1,5 @@
 public/
 .DS_Store
 
+node_modules/
 *.MOV
-.node_modules
