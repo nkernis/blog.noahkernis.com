@@ -1,0 +1,8 @@
+{{ if .Get "src" }}
+  <figure class="center" style="max-width:70%;">
+    <img src="{{ .Get "src" | safeURL }}" alt="{{ .Get "alt"  | plainify }}" style="max-height:80vh;">
+    {{ if .Get "caption" }}
+      <figcaption class="center">{{ .Get "caption" }}</figcaption>
+    {{ end }}
+  </figure>
+{{ end }}
