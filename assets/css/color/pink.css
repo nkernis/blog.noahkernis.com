@@ -151,6 +151,10 @@ hr {
 	background: none;
 }
 
+.footer__inner {
+	align-items: flex-start;
+}
+
 .copyright--user {
 	margin: none;
 }
