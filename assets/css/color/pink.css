@@ -151,15 +151,14 @@ hr {
 	background: none;
 }
 
-/* .footer__inner {
-	justify-content: center;
-} */
-
 .copyright--user {
-	/* flex-direction: column; */
 	margin: none;
 }
 
 .copyright>span {
 	font-size: 1.4rem;
+}
+
+.fof-title {
+	font-size: 4.0rem;
 }
