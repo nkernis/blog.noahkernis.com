@@ -79,7 +79,6 @@ I know I generally wanted to focus on the experience of having T1D, so I started
 	- 
 
 * F) Misunderstood disease
-	- 
 
 ## Research
 

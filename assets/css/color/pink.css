@@ -167,5 +167,9 @@ hr {
 }
 
 .fof-title {
-	font-size: 4.0rem;
+	font-size: 20.0rem;
+}
+
+li>p {
+	margin: 0px;
 }

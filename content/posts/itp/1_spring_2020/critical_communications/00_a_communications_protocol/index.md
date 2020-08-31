@@ -14,11 +14,11 @@ showFullContent = false
 
 Research a communications protocol of your choice and write it up what you find in a blog post. Questions to answer (at the very least):
 
-	- How does it work?
-		- Doesn't need to be super technical but it should be detailed enough that to understand how someone could use it.
-	- Who made it?
-	- Why was it made?
-	- What did you find interesting about it?
+- How does it work?
+	- Doesn't need to be super technical but it should be detailed enough that to understand how someone could use it.
+- Who made it?
+- Why was it made?
+- What did you find interesting about it?
 
 For the purpose of this assignment a communications protocol will be defined as a system of rules that allow two or more entities of a communications system to transmit information via any kind of variation of a physical quantity (Source: Wikipedia).
 

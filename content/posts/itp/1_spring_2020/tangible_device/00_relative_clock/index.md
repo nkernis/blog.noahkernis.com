@@ -25,12 +25,12 @@ showFullContent = false
 
 For this project I was asked to make a clock with the following requirements: 
 
-	- Make the controls for a desk or bedside clock or timer
-		- Your controls should be clear enough that the user can figure out how to set the time without a manual
-	- At minimum this should include controls to set the hour and minute
-	- Automated time setting is not permitted for this assignment. 
-	- You should add at least one extra feature to your clock. 
-	- Your clock’s display should be as simple as possible (serial output to a computer, p5.js, LED or LED screen)
+- Make the controls for a desk or bedside clock or timer
+	- Your controls should be clear enough that the user can figure out how to set the time without a manual
+- At minimum this should include controls to set the hour and minute
+- Automated time setting is not permitted for this assignment. 
+- You should add at least one extra feature to your clock. 
+- Your clock’s display should be as simple as possible (serial output to a computer, p5.js, LED or LED screen)
 
 ## Think
 
