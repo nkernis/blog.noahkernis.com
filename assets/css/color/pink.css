@@ -6,16 +6,6 @@
 @import '../syntax.css';
 @import '../variables.css';
 
-:root {
-	--accent: #174237;
-	--color: #0a1a0f;
-	--border-color: #174237;
-}
-
-body {
-	background-color: color-mod(var(--accent) blend(#fff 75%));
-}
-
 /* Color Options */
 
 /* #69306d */
@@ -34,3 +24,76 @@ body {
 
 /* Instead of black: #36020E */
 /* Instead of black: #0a1a0f */
+
+:root {
+	--accent: #174237;
+	--color: #0a1a0f;
+	--border-color: #174237;
+}
+
+/* 
+	Trick to set root font-size to 10px. For example,
+	font-size of 1.4rem will now equal 14px.
+*/
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	background-color: color-mod(var(--accent) blend(#fff 75%));
+	font-size: 1.8rem;
+}
+
+figure figcaption {
+	background: none;
+	color: var(--accent);
+	font-weight: 800;
+}
+
+h1 {
+	font-size: 2.8rem;
+}
+
+h2 {
+	font-size: 2.6rem;
+}
+
+h3 {
+	font-size: 2.4rem;
+}
+
+h4 {
+	font-size: 2.2rem;
+}
+
+h5 {
+	font-size: 2.0rem;
+}
+
+h6 {
+	font-size: 1.8rem;
+}
+
+.post-content {
+	font-style: italic;
+	font-size: 2.0rem;
+}
+
+.post-date,
+.post-author,
+.post-tags,
+.read-more,
+.button__text,
+.button__icon {
+	font-size: 1.4rem;
+	font-weight: bold;
+}
+
+.copyright>span {
+	font-size: 1.4rem;
+}
+
+.pagination__title-h {
+	background: none;
+}

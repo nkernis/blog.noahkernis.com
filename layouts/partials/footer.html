@@ -1,4 +1,5 @@
 <footer class="footer">
+	<hr />
 	<div class="footer__inner">
 		{{ if $.Site.Copyright }}
 		<div class="copyright copyright--user">
@@ -7,6 +8,11 @@
 			<div class="copyright">
 				<span>© {{ now.Year }} Powered by <a href="http://gohugo.io">Hugo</a></span>
 				{{end}}
+			</div>
+		</div>
+		<div class="footer__inner">
+			<div class="copyright copyright--user">
+				<span>Built on <a href="http://gohugo.io">Hugo</a></span>
 			</div>
 		</div>
 </footer>
