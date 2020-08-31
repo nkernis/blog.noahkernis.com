@@ -84,6 +84,10 @@ hr {
 	&__logo {
 		&:after {
 			background: repeating-linear-gradient(90deg, color-mod(var(--accent) blend(#fff 25%)), color-mod(var(--accent) blend(#fff 25%)) 1px, transparent 0, transparent 2px);
+
+			@media (--phone) {
+				background: repeating-linear-gradient(180deg, color-mod(var(--accent) blend(#fff 25%)), color-mod(var(--accent) blend(#fff 25%)) 1px, transparent 0, transparent 2px);
+			}
 		}
 	}
 }
@@ -102,8 +106,19 @@ hr {
 .tagline {
 	font-size: 1.5em;
 	font-style: italic;
+	text-align: center;
 	background: color-mod(var(--accent) blend(#fff 25%));
 	color: color-mod(var(--accent) blend(#fff 75%));
+	margin-top: 40px;
+	margin-bottom: 40px;
+
+	@media (--phone) {
+		margin-bottom: 0px;
+	}
+}
+
+.container {
+	max-width: 1100px;
 }
 
 .post-title {

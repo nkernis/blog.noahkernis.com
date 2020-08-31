@@ -24,8 +24,8 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Noah Kernis - The Blog"
-    subtitle = "Blog is a weird word"
+    title = "blog.noahkernis.com"
+    subtitle = "blog is a weird word"
     keywords = "blog itp technology art learning noah kernis"
     copyright = "All The Rights - All Of Time - All To Noah Kernis"
     menuMore = "Show more"
