@@ -1,14 +1,11 @@
 <!DOCTYPE html>
 <html lang="{{ $.Site.Language }}">
-
 <head>
 	{{ block "title" . }}
-	<title>{{ if .IsHome }}{{ $.Site.Title }}{{ with $.Site.Params.Subtitle }} — {{ . }}{{ end }}{{ else }}{{ .Title }}
-		:: {{ $.Site.Title }}{{ with $.Site.Params.Subtitle }} — {{ . }}{{ end }}{{ end }}</title>
+		<title>{{ if .IsHome }}{{ $.Site.Title }}{{ else }}{{ .Title }} :: {{ $.Site.Title }}{{ end }}</title>
 	{{ end }}
 	{{ partial "head.html" . }}
 </head>
-
 <body class="">
 	{{ $container := cond $.Site.Params.FullWidthTheme "container full" (cond $.Site.Params.CenterTheme "container center" "container") }}
 
@@ -29,7 +26,6 @@
 			{{ partial "footer.html" . }}
 		{{ end }}
 	</div>
-
 	<script>
 		var taglines = {{ $.Site.Params.Taglines }};
 
@@ -41,7 +37,5 @@
 		var newTxt = oldTxt.replace(/&nbsp;/g, taglines[randInt(taglines.length)]);
 		document.getElementById("tagline").innerHTML = newTxt;
 	</script>
-
 </body>
-
 </html>

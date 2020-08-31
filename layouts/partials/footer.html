@@ -2,17 +2,17 @@
 	<hr />
 	<div class="footer__inner">
 		{{ if $.Site.Copyright }}
-		<div class="copyright copyright--user">
+		<div class="copyright">
 			<span>{{ $.Site.Copyright | safeHTML }}</span>
-		{{else}}
+			{{else}}
 			<div class="copyright">
 				<span>© {{ now.Year }} Powered by <a href="http://gohugo.io">Hugo</a></span>
-		{{end}}
+				{{end}}
 			</div>
 		</div>
 		<div class="footer__inner">
-			<div class="copyright copyright--user">
-				<span>Built on <a href="http://gohugo.io">Hugo</a></span>
+			<div class="copyright">
+				<span>Built on <a href="http://gohugo.io" style="text-decoration: underline;">Hugo</a></span>
 			</div>
 		</div>
 </footer>

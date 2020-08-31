@@ -103,6 +103,14 @@ hr {
 	text-decoration: underline double;
 }
 
+.menu-trigger {
+	visibility: hidden;
+
+	@media (--phone) {
+		visibility: visible;
+	}
+}
+
 .tagline {
 	font-size: 1.5em;
 	font-style: italic;
@@ -141,6 +149,15 @@ hr {
 
 .pagination__title-h {
 	background: none;
+}
+
+/* .footer__inner {
+	justify-content: center;
+} */
+
+.copyright--user {
+	/* flex-direction: column; */
+	margin: none;
 }
 
 .copyright>span {
