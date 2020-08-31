@@ -100,7 +100,10 @@ hr {
 }
 
 .menu {
+	--shadow-color: none !important;
 	text-decoration: underline double;
+	color: var(--color) !important;
+	background: color-mod(var(--accent) blend(#fff 75%)) !important;
 }
 
 .menu-trigger {
