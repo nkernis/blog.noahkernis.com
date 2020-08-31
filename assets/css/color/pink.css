@@ -69,6 +69,10 @@ h6 {
 	font-size: 1.8rem;
 }
 
+pre {
+	font-size: 1.8rem;
+}
+
 figure figcaption {
 	background: none;
 	color: var(--accent);
