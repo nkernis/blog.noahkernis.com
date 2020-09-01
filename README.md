@@ -17,11 +17,3 @@ function carl() {
 }
 {{< /code >}}
 ```
-
-*command-prompt*
-
-```go
-{{< code language="bash" title="code code code" line-numbers="command-prompt">}}
-echo catdog
-{{< /code >}}
-```

@@ -10,11 +10,7 @@
 		{{ end }}
 		<span class="collapsable-code__toggle" data-label-expand="{{ .Get "expand" | default "Show" }}" data-label-collapse="{{ .Get "collapse" | default "Hide" }}"></span>
 	</label>
-	<pre class="
-		{{ if .Get "language" }}language-{{ .Get "language" }}{{ end }}
-		{{ if .Get "line-numbers" }}line-numbers{{ end }}
-		{{ if .Get "command-line" }}line-numbers{{ end }}
-	"><code>{{ .Inner | string }}</code></pre>
+	<pre class="{{ if .Get "language" }}language-{{ .Get "language" }}{{ end }} {{ if .Get "line-numbers" }}line-numbers{{ end }}"><code>{{ trim .Inner "\n" | string }}</code></pre>
 </div>
 {{ else }}
 	{{ errorf "If you want to use the \"collapsable code\" shortcode, you need to pass a mandatory \"language\" param. The issue occured in %q (%q)" .Page.File .Page.Permalink }}
