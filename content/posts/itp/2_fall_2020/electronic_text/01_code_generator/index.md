@@ -24,9 +24,9 @@ For me, the collective pool of jokes is kind of like the collective pool of word
 
 I guess I was struck by the relationship of the description of the process, to implementation, to what is actually produced. And how that abstract description can render so much. My experience working as DevOps Engineer meant I spent a lot of time thinking about systems (I also am interested in them generally, but my work was practical and taught me different things). One of the major themes I took away was that complexity is created from many simple things, happening together (these often have a relationship and may interact in multiple ways). So, for this, I want to use the early, simple generators to create complexity by feeding text through the system one or more times. 
 
-Below is a link to code that created the final poem.
+Below is a link to code that created the final poem. The text of this post sorta ends here and picks up in the code linked to.
 
-__LINK__
+[poetry_generator.ipynb](https://gist.github.com/nkernis/e7cfa374d16fe16f320ed25a638db427)
 
 Here is a version of a poem produced by this code
 
@@ -101,5 +101,3 @@ a thirst of roots
      for thirst candles
 a inhabited hungers deal
 ```
-
-<script src="https://gist.github.com/nkernis/e7cfa374d16fe16f320ed25a638db427.js"></script>

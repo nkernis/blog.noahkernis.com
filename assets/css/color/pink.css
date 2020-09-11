@@ -76,6 +76,10 @@ figure figcaption {
 	font-style: normal;
 }
 
+code {
+	font-size: 1.8rem;
+}
+
 hr {
 	background: var(--color);
 }
