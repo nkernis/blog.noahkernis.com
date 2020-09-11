@@ -8,6 +8,8 @@ description = "*a being of plastic*"
 showFullContent = false
 +++
 
+## Thinking
+
 For this assignment, we were asked to look at some early versions of poem generators and then to create our own, starting from one of the examples. 
 
 After reviewing the generators and reading more about their histories and makers, I had some ideas. I was interested in exploring the creation and consumption of text as input/output. Unix streams are the closest analogy I can think of - and in reality is the practical experience I am thinking of.
@@ -24,9 +26,15 @@ For me, the collective pool of jokes is kind of like the collective pool of word
 
 I guess I was struck by the relationship of the description of the process, to implementation, to what is actually produced. And how that abstract description can render so much. My experience working as DevOps Engineer meant I spent a lot of time thinking about systems (I also am interested in them generally, but my work was practical and taught me different things). One of the major themes I took away was that complexity is created from many simple things, happening together (these often have a relationship and may interact in multiple ways). So, for this, I want to use the early, simple generators to create complexity by feeding text through the system one or more times. 
 
-Below is a link to code that created the final poem. The text of this post sorta ends here and picks up in the code linked to.
+## The code
 
-[poetry_generator.ipynb](https://gist.github.com/nkernis/e7cfa374d16fe16f320ed25a638db427)
+*Note: the post continues inside the embed below*
+
+{{< gist nkernis e7cfa374d16fe16f320ed25a638db427 >}}
+
+[link to poetry_generator.ipynb](https://gist.github.com/nkernis/e7cfa374d16fe16f320ed25a638db427)
+
+## A poem
 
 Here is a version of a poem produced by this code
 
