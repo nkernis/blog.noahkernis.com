@@ -6,9 +6,13 @@ For usage, see [Hugo](https://gohugo.io/).
 
 ## Shortcodes
 
-### Code
+### Figure and Images
 
-*line-numbers*
+```go
+{{< figure src="https://s3.amazonaws.com/media.noahkernis.com/images/life_is_weird.gif" alt="description of image" caption="[ title ]" >}}
+```
+
+### Code
 
 ```go
 {{< code language="javascript" title="code code code" line-numbers="true">}}
