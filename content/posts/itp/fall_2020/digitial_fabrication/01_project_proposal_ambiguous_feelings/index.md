@@ -1,5 +1,5 @@
 +++
-slug = "roject_proposal_ambiguous_feelings"
+slug = "project_proposal_ambiguous_feelings"
 title = "Ambiguous Feelings"
 date = "2020-09-17T09:28:59-04:00"
 author = "Noah Kernis"
