@@ -90,7 +90,7 @@ Much of my thinking in this area is influenced and/or started by *The Order Of T
 
 Often I find it helpful to create rough illustrations and/or write out my thoughts. The following is a series of those sketches.
 
-To start, I wrote down the 5 W's and drew a picture of a person and a clock. I tried to "point" to the W's in the scene. This lead me think about all of them as just be references to each other. 
+To start, I wrote down the 5 W's and drew a picture of a person and a clock. I tried to "point" to the W's in the scene. This lead me to think about all of them as just references to each other. 
 
 {{< figure src="img/00.JPG" alt="" caption="[ Relational Clock ]" >}}
 
@@ -98,7 +98,7 @@ Dreaming about having time for myself.
 
 {{< figure src="img/01.JPG" alt="" caption="[ Time For Myself ]" >}}
 
-Thinking about what the use of all these times tools is actually for.
+Thinking about what the use of all these time tools is actually for.
 
 {{< figure src="img/02.JPG" alt="" caption="[ Time For The Machine ]" >}}
 
