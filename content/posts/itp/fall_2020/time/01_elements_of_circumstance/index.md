@@ -42,7 +42,7 @@ To me it seems that these questions, or elements of circumstance, actually form 
 
 ## Thinking
 
-Humans communicate, and when they do this, they often place there discussion in one of the elements of circumstance:
+Humans communicate, and when they do, they place there discussion in one of the elements of circumstance:
 
 *What are you doing?*
 
@@ -52,7 +52,7 @@ Humans communicate, and when they do this, they often place there discussion in 
 
 *Why did that chicken cross the road?*
 
-I want to focus on these 5 W's and see what is in the. Below are notes and thoughts as I worked my way through them.
+Below are my notes and thoughts as my thinking progressed.
 
 ### 5 W's
 
@@ -84,7 +84,7 @@ Much of my thinking in this area is influenced and/or started by *The Order Of T
 			- "clocks" were built to help us answer *why*? -> no
 				- to situate the why?
 - answer it then degrade it
-	- pull apart the relatives things until the clock can no longer and the question it was built to ask
+	- pull apart the relatives things until the clock can no longer answer the question it was built to
 
 #### Picture and Notes
 
