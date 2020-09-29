@@ -4,9 +4,8 @@ title = "Digital Cutup"
 date = "2020-09-26T15:22:05-04:00"
 author = "Noah Kernis"
 tags = ["itp"]
-description = "FILL"
+description = "Chopping Broccoli"
 showFullContent = false
-draft = true
 +++
 
 ## Thinking
