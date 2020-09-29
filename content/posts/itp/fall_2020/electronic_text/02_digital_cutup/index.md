@@ -3,7 +3,7 @@ slug = "digital_cutup"
 title = "Digital Cutup"
 date = "2020-09-26T15:22:05-04:00"
 author = "Noah Kernis"
-tags = ["itp"]
+tags = ["itp", "electronic_text"]
 description = "Chopping Broccoli"
 showFullContent = false
 +++
