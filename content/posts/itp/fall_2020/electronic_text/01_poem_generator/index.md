@@ -1,5 +1,5 @@
 +++
-slug = "poem-generator"
+slug = "poem_generator"
 title = "Making a Poem Generator"
 date = "2020-08-29T17:32:59-04:00"
 author = "Noah Kernis"
