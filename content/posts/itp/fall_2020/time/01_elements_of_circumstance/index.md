@@ -4,7 +4,7 @@ title = "Elements of Circumstance"
 date = "2020-09-23T10:56:27-04:00"
 author = "Noah Kernis"
 tags = ["itp", "time"]
-description = "&nbsp;&nbsp;&nbsp;*Time*<br/>*who* <-> *what* <-> *where* <-> *why* <-> *when*<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Space*"
+description = "&nbsp;&nbsp;&nbsp;*Time*&#13;/>*who* <-> *what* <-> *where* <-> *why* <-> *when*&#13;/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Space*"
 showFullContent = false
 +++
 
