@@ -4,11 +4,9 @@ title = "Elements of Circumstance"
 date = "2020-09-23T10:56:27-04:00"
 author = "Noah Kernis"
 tags = ["itp", "time"]
-description = "*who* <-> *what* <-> *where* <-> *why* <-> *when*"
+description = "&nbsp;&nbsp;&nbsp;*Time*<br/>*who* <-> *what* <-> *where* <-> *why* <-> *when*<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Space*"
 showFullContent = false
 +++
-
-<!-- {{< figure src="img/..." alt="..." caption="[ ... ]" >}} -->
 
 ## The Idea
 
@@ -30,11 +28,11 @@ A common way to investigate or talk about events (at least in the western tradit
 
 These questions are often used in cases or professions where determining facts or events is crucial. For example, journalism, scientific research, and legal cases.
 
-The history of these questions...
-TODO: fill in history (and find some real, none wikipedia sources...)
-	- [Five W's](https://en.wikipedia.org/wiki/Five_Ws)
-	- [Seven Circumstances](https://sevencircumstances.com/what-does-seven-circumstances-mean/)
-	- [Hermagoras of Temnos](https://en.wikipedia.org/wiki/Hermagoras_of_Temnos)
+Here are some sources I used to get started and introduce myself to these ids:
+
+- [Five W's](https://en.wikipedia.org/wiki/Five_Ws)
+- [Seven Circumstances](https://sevencircumstances.com/what-does-seven-circumstances-mean/)
+- [Hermagoras of Temnos](https://en.wikipedia.org/wiki/Hermagoras_of_Temnos)
 
 Researching this history is where I came upon the term *elements of circumstance*, which is maybe my new favorite way to think about how we talk about all the pieces that make up an event, experience, story, and so on. It also means that there is some system of elements we have devised to talk about circumstances.
 
@@ -86,7 +84,7 @@ Much of my thinking in this area is influenced and/or started by *The Order Of T
 - answer it then degrade it
 	- pull apart the relatives things until the clock can no longer answer the question it was built to
 
-#### Picture and Notes
+## Exploring 5W's
 
 Often I find it helpful to create rough illustrations and/or write out my thoughts. The following is a series of those sketches.
 
@@ -125,4 +123,6 @@ An attempt at breaking down sentences with the 5 W's
 Time as an actor.
 
 {{< figure src="img/08.JPG" alt="" caption="[ Time Did... ]" >}}
+
+## How We Talk About Time and Space
 
