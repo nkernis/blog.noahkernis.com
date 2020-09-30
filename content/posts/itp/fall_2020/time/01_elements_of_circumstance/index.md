@@ -4,7 +4,7 @@ title = "Elements of Circumstance"
 date = "2020-09-23T10:56:27-04:00"
 author = "Noah Kernis"
 tags = ["itp", "time"]
-description = "&nbsp;&nbsp;&nbsp;*Time*&#13;/>*who* <-> *what* <-> *where* <-> *why* <-> *when*&#13;/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Space*"
+description = "&nbsp;&nbsp;&nbsp;*Time*&#10&#13;*who* <-> *what* <-> *where* <-> *why* <-> *when*&#10&#13;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Space*"
 showFullContent = false
 +++
 
@@ -126,3 +126,8 @@ Time as an actor.
 
 ## How We Talk About Time and Space
 
+In another class I am taking, *Reading and Writing Electronic Text*, I was asked to write code that took in some original source texts, chopped them up, and prints out a new work. I decided to use this assignment as a chance to explore the idea of how we talk about time.
+
+Rather than retype everything I did for that assignment, I will link to that post and discuss some of the highlights here.
+
+First, link to other post: []()
