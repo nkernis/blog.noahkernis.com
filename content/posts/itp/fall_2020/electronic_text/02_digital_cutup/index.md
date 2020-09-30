@@ -22,16 +22,16 @@ For this assignment, I wanted to try something similar. I wanted to find texts t
 
 So, I went to [Project Gutenberg](https://gutenberg.org/) and searched for texts relating to time and/or space. The following are the texts I chose, and the groups I put them in.
 
-1. H.G. Wells - fiction, non-fiction, and lecture on future
+- group 1)  H.G. Wells - fiction, non-fiction, and lecture on future
 	- [A Short History of the World by H. G. Wells](https://gutenberg.org/ebooks/35461)
 	- [The Time Machine by H. G. Wells](https://gutenberg.org/ebooks/35)
 	- [The Discovery of the Future by H. G. Wells](https://gutenberg.org/ebooks/44867)
-2. two books about time keeping and clocks and one about the International Meridian Conference
+- group 2) two books about time keeping and clocks and one about the International Meridian Conference
 	- [International Conference Held at Washington for the Purpose of Fixing a Prime Meridian and a Universal Day](https://gutenberg.org/ebooks/17759)
 		- [International_Meridian_Conference](https://en.wikipedia.org/wiki/International_Meridian_Conference)
 	- [Time and Its Measurement by James Arthur](https://gutenberg.org/ebooks/44838)
 	- [Time and Clocks: A Description of Ancient and Modern Methods of Measuring Time](https://gutenberg.org/ebooks/54546)
-3. living with time and scientific description of time
+- group 3) living with time and scientific description of time
 	- [How to Live on 24 Hours a Day by Arnold Bennett](https://gutenberg.org/ebooks/2274)
 	- [Space, Time and Gravitation: An Outline of the General Relativity Theory](https://gutenberg.org/ebooks/29782)
 

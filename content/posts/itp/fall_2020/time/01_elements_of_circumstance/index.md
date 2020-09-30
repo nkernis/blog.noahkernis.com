@@ -130,4 +130,45 @@ In another class I am taking, *Reading and Writing Electronic Text*, I was asked
 
 Rather than retype everything I did for that assignment, I will link to that post and discuss some of the highlights here.
 
-First, link to other post: []()
+First, the link to other post: [Digital Cutup](https://blog.noahkernis.com/posts/itp/fall_2020/electronic_text/digital_cutup/)
+
+The groupings of texts I chose were important. It was my attempt to create the greatest chance for juxtaposition between the texts in a given group. 
+
+The process I went through first involved just getting an idea of what putting random lines involving time, next to each other. After I did this I felt confident that I was headed - somwhere. 
+
+I then focused on trying to create something that prodcued works that looked and felt like the drawing and writing I had done. A sort of rambling, but also clearing about something (time and space). A questioning of the sense that words usually have. 
+
+I wanted the code to basically do what I was doing, but at a scale that I could not.
+
+Here is an example of the kind of work the final code can produce. I was really pleased with it. I do feel it does, in some way, mimic the process I was going through with marker and paper.
+
+```
+spent one's time badly, but one did spend it; one did do something with
+	what one has
+	when one sets forth on the enterprise of using all one's time,
+	who have to work longer for a living, but there are others who do not
+	where we stand
+	Why should you be astonished
+
+space-time which we have been studying
+	why it should relate to matter especially; since matter is not
+	who insist on investing the words with
+	where these laws do not apply
+	when a
+	what the readings of any kind of clock record, what
+
+
+in the space of my command
+	what you are reading,
+	where there are a hundred
+	when you
+	who have intellectual curiosity--the
+	Why should you be astonished
+
+there are still definite natural tracks in space-time far beyond the influence
+	Why are you specially interested in Euclidean
+	who is accordingly travelling with a velocity approaching that of light relative to S
+	when their weight vanished altogether at the
+	where the broken line shows the theoretical
+	what kinds of space-time can
+```
