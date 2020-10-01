@@ -12,13 +12,13 @@ showFullContent = false
 
 My plan is to make the ambiguous object I am designing, large. The current rendering has the object sitting on a circular pedestal that has a diameter of 10 feet (radius of 5 feet). 
 
-The setup would require a large space that is uniformity lit. The lighting may need to be more specific in the future, but I have not experimented enough yet to know how light intensity and angles effect the illusion.
+The setup would require a large space that is uniformly lit. The lighting may need to be more specific in the future, but I have not experimented enough yet to know how light intensity and angles effect the illusion.
 
-The object can be viewed from any angle or distance that the room allows. However, there is an optimal distance that the illusion can be seen. This distance is dependent on the viewers height (specifically the height of their eyes). There isn't a "correct" way to view the piece, but there is a positive in which the illusions appearance is most effective.
+The object can be viewed from any angle or distance that the room allows. However, there is an optimal distance that the illusion can be viewed from. This distance is dependent on the viewers height (specifically the height of their eyes). There isn't a "correct" way to view the piece, but there is a position from which the illusions appearance is most effective.
 
 ## Rendering 
 
-{{< figure src="img/scale_and_context.jpg" alt="2D rendering of what the object would look like in a gallery." caption="[ Ambiguous Object - Side View ]" >}}
+{{< figure src="img/scale_and_context.jpg" alt="2D rendering of what the object would look like in a gallery." caption="[ Rendering of Layout for Displaying Ambiguous Object ]" >}}
 
 ## Next Steps
 
