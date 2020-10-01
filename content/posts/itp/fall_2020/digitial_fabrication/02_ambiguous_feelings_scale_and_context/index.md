@@ -10,7 +10,7 @@ showFullContent = false
 
 ## Scale and Context
 
-My plan is to make ambiguous object I am designing, large. The current rendering has the object sitting on a circular pedestal that has a diameter of 10 inches (radius of 5 inches). 
+My plan is to make the ambiguous object I am designing, large. The current rendering has the object sitting on a circular pedestal that has a diameter of 10 feet (radius of 5 feet). 
 
 The setup would require a large space that is uniformity lit. The lighting may need to be more specific in the future, but I have not experimented enough yet to know how light intensity and angles effect the illusion.
 
