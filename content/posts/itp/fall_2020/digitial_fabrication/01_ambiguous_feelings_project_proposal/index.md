@@ -1,10 +1,10 @@
 +++
-slug = "project_proposal_ambiguous_feelings"
-title = "Ambiguous Feelings"
+slug = "ambiguous_feelings_project_proposal"
+title = "Ambiguous Feelings - Project Proposal"
 date = "2020-09-17T09:28:59-04:00"
 author = "Noah Kernis"
 tags = ["itp", "digital_fabrication"]
-description = "Project Proposal"
+description = "Committing to an idea - hope I still like it in 14 weeks..."
 showFullContent = false
 +++
 
