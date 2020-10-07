@@ -4,7 +4,7 @@ title = "{{ title (replace .Name "_" " ") }}"
 date = "{{ .Date }}"
 author = "Noah Kernis"
 tags = ["itp"]
-description = "FILL"
+description = "TODO: FILL"
 showFullContent = false
 draft = true
 +++

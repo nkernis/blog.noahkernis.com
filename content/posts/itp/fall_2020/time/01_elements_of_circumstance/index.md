@@ -8,6 +8,8 @@ description = "*Time*    [ *who* <-> *what* <-> *where* <-> *why* <-> *when* ]  
 showFullContent = false
 +++
 
+> Sketch #1
+
 ## The Idea
 
 To start, this sketch is incomplete. It is somewhere between an experiment and a journey. It is very possible by the time I finish it, it may be complete. But hey, from the relative position of when I wrote this sentence - it ain't done.
