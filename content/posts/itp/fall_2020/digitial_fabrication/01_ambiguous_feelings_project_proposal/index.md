@@ -37,17 +37,20 @@ The first work I found that really felt like it was what I was looking for was *
 
 *Blur* reminded me of an illustration I did a few years ago. In a similar way, there are two things present in one being. In the case of this drawing, emotion is interfering with clarity (not that emotions are a bad thing or that thought is perfectly logical). Although I like my drawings, I wanted to find some examples of other works that shared the same ideas.
 
-{{< figure src="img/01.jpg" alt="..." caption="[ *The Tension Of Though* - (GENERIC_EROR)[https://www.instagram.com/generic_error/] ]" >}}
+{{< figure src="img/01.jpg" alt="..." caption="[ "The Tension Of Thought" ]" >}}
 
 I found two works by artist Drew Young that I think really capture the feeling I am after. *Skeptic* is similar to my illustration. *Before-glow* is more expansive in terms of the multiple truths it presents. 
 
-{{< figure src="img/02.jpg" alt="..." caption="[ *Skeptic* by Drew Young - [source](https://www.dyoung.ca/Work/Other-Works/9/thumbs-caption) ]" >}}
+{{< figure src="img/02.jpg" alt="..." caption="[ "Skeptic" by Drew Young ]" >}}
+([source](https://www.dyoung.ca/Work/Other-Works/9/thumbs-caption))
 
-{{< figure src="img/03.jpg" alt="..." caption="[ *Before-glow* by Drew Young - [source](https://www.dyoung.ca/Work/In-Our-Wake/1/thumbs-caption) ]" >}}
+{{< figure src="img/03.jpg" alt="..." caption="[ *Before-glow* by Drew Young ]" >}}
+([source](https://www.dyoung.ca/Work/In-Our-Wake/1/thumbs-caption))
 
-I then started to look for physical work that felt like this. I looked through a lot of Jonty Hurwitz's work. His piece, *Lala Land* uses a mirror to construct the image of a full human being from partial scultuopre of humans.
+I then started to look for physical work that felt like this. I looked through a lot of Jonty Hurwitz's work. His piece, *Lala Land* uses a mirror to construct the image of a full human being from partial sculpture of humans.
 
-{{< figure src="img/04.jpg" alt="..." caption="[ *Lala Land* by Jonty Hurwitz - [source](https://jontyhurwitz.com/lala-land)]" >}}
+{{< figure src="img/04.jpg" alt="..." caption="[ *Lala Land* by Jonty Hurwitz]" >}}
+([source](https://jontyhurwitz.com/lala-land))
 
 At this point I felt like I had a good idea of the feeling I was after. But how to achieve it? It was at this point I remembered an illusion I had scene in the past few years, ambiguous cylinders:
 
@@ -58,6 +61,7 @@ The object is a square, and a circle, and both! It's dependent on one's point of
 The illusion, and many other generations of it, were developed by [Sugihara Kokichi](http://www.isc.meiji.ac.jp/~kokichis/Welcomee.html). In a later post I will go in-depth into how this illusion works. I did find a nice online demo that shows the basics of how it does:
 
 {{< frame "https://www.geogebra.org/m/EdSp6X76" >}}
+([source](https://www.geogebra.org/m/EdSp6X76))
 
 ## Proposal
 
@@ -65,12 +69,10 @@ The illusion, and many other generations of it, were developed by [Sugihara Koki
 
 ## Scale and context
 
-For more on this, please see the post: [Scale and Context](https://blog.noahkernis.com/posts/itp/fall_2020/digitial_fabrication/ambiguous_feelings_scale_and_context/)
+For more on this, please see the post: [Scale and Context](./ambiguous_feelings_scale_and_context/)
 
-{{< figure src="../02_ambiguous_feelings_scale_and_context/img/scale_and_context.jpg" alt="2D rendering of what the object would look like in a gallery." caption="[ Rendering of Layout for Displaying Ambiguous Object ]" >}}
+{{< figure src="../ambiguous_feelings_scale_and_context/img/scale_and_context.jpg" alt="2D rendering of what the object would look like in a gallery." caption="[ Rendering of Layout for Displaying Ambiguous Object ]" >}}
 
 ## Progress
 
 For more on this, please see the post: [Update 1]()
-
-{{< figure src="../02_ambiguous_feelings_scale_and_context/img/scale_and_context.jpg" alt="2D rendering of what the object would look like in a gallery." caption="[ Rendering of Layout for Displaying Ambiguous Object ]" >}}
