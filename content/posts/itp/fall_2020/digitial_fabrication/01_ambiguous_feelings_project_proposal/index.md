@@ -57,7 +57,7 @@ The object is a square, and a circle, and both! It's dependent on one's point of
 
 The illusion, and many other generations of it, were developed by [Sugihara Kokichi](http://www.isc.meiji.ac.jp/~kokichis/Welcomee.html). In a later post I will go in-depth into how this illusion works. I did find a nice online demo that shows the basics of how it does:
 
-{{< frame https://www.geogebra.org/m/EdSp6X76 >}}
+{{< frame "https://www.geogebra.org/m/EdSp6X76" >}}
 
 ## Proposal
 
