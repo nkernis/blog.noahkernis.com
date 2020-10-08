@@ -33,7 +33,8 @@ I wasn't 100% sure where to start with my idea. I started by searching for proje
 
 The first work I found that really felt like it was what I was looking for was *Blur* by Del Jackson. The object, which is 3D printed, is both focused and blurred. The clarity depends on where you look, or how much of the piece you look at. This hit on my concerns around perspective and multiple truths. 
 
-{{< figure src="img/00.jpg" alt="..." caption="[ *Blur* by Del Jackson - [source](http://deljackson.com/blur.html) ]" >}}
+{{< figure src="img/00.jpg" alt="..." caption="[ *Blur* by Del Jackson ]" >}}
+([source](http://deljackson.com/blur.html))
 
 *Blur* reminded me of an illustration I did a few years ago. In a similar way, there are two things present in one being. In the case of this drawing, emotion is interfering with clarity (not that emotions are a bad thing or that thought is perfectly logical). Although I like my drawings, I wanted to find some examples of other works that shared the same ideas.
 
@@ -76,3 +77,5 @@ For more on this, please see the post: [Scale and Context](../ambiguous_feelings
 ## Progress
 
 For more on this, please see the post: [Update 1](../ambiguous_feelings_update_1)
+
+<!-- TODO: add image -->

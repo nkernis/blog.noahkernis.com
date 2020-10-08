@@ -16,9 +16,7 @@ I have a physical object! It's not perfect, but I made it, and the illusion kind
 
 This was the first big hurdle: could I take two simple images and create something like the ambiguous cylinder illusion from them. 
 
-The next step is to refine the process and figure out what kinds of things effect the clarity of the illusion. Size, fill vs no fill, lighting, and so on.
-
-But first, how I made the 3D prints I currently have.
+The following is how I made the 3D prints I currently have.
 
 ## The Process - v1
 
@@ -142,3 +140,40 @@ void ary(JSONArray values) {
 {{< /code >}}
 
 *Step 5*
+
+The next step was to import the DXF file into Vectorworks. That's the easiest part of step 5.
+
+The data imports as many (in this case +400) 3D Polylines. I need a solid object. After lots of internet searching, meeting with Dani and a few emails back and forth, I did evntually figure out how to create the shelled, solid object I was looking for.
+
+Here is a rough overview of those steps
+
+1. import DXF as 3D - arrives as many 3d polygons
+2. close them and compose - get one 3D polygon
+3. check the closed box in the info, not sure it makes a difference
+4. convert to nurbs
+5. rebuild NRUBS in the 3d power pack to about 100 (simplifies it)
+6. duplicate the NURB about 100 under (z-axis)
+7. loft without rail 
+	1. in the 3d tab of the tools menu, choose leave curves and not solid
+	2. the angle (0 - 90) determines the angle of the wall built (0 for both is vertical)
+8. ungroup the resulting shape
+9. move NURBS surface to it's own space
+10. shell solid tool (outside)
+
+*Step 6*
+
+Once the rendering looks correct, I exported the object as a `.stl` file.
+
+I then took the STL file and imported into a slicer (I used the PrusaSlicer).
+
+The scale was wrong - the object was huge. But for the sake of testing, I just scaled it down to fit on the print plate.
+
+*Step 7*
+
+Once the object looked good in the slicer, I exported the object as `.gcode`.
+
+I loaded the gcode ont my 3D printer (Prusa Mini) and printed it!
+
+## Whats Next
+
+The next step is to refine the process and figure out what kinds of things effect the clarity of the illusion. Size, fill vs no fill, lighting, and so on.
