@@ -78,4 +78,4 @@ For more on this, please see the post: [Scale and Context](../ambiguous_feelings
 
 For more on this, please see the post: [Update 1](../ambiguous_feelings_update_1)
 
-{{< figure src="../ambiguous_feelings_scale_update_1/img/00.JPG" alt="..." caption="[ Ambiguous Objects - 3D Printed ]" >}}
+{{< figure src="../ambiguous_feelings_update_1/img/00.JPG" alt="..." caption="[ Ambiguous Objects - 3D Printed ]" >}}
