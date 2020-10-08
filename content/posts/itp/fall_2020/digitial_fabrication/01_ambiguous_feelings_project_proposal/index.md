@@ -8,6 +8,13 @@ description = "Committing to an idea - hope I still like it in 14 weeks..."
 showFullContent = false
 +++
 
+<!-- 
+	TODO:
+	- add proposal
+	- create post for update 1 and link it
+	- test code shortcode 
+-->
+
 ## Thinking
 
 The assignment for this project:

@@ -16,7 +16,6 @@ showFullContent = false
 
 {{< frame https://editor.p5js.org/nmk304/embed/3I7HI8fbp >}}
 
-
 edit -> https://editor.p5js.org/nmk304/sketches/3I7HI8fbp
 
 fullscreen -> https://editor.p5js.org/nmk304/present/3I7HI8fbp
