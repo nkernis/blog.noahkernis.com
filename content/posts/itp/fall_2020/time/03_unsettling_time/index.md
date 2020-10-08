@@ -14,7 +14,7 @@ showFullContent = false
 
 ## The Idea
 
-{{< frame https://editor.p5js.org/nmk304/embed/3I7HI8fbp >}}
+{{< frame "https://editor.p5js.org/nmk304/embed/3I7HI8fbp" >}}
 
 edit -> https://editor.p5js.org/nmk304/sketches/3I7HI8fbp
 
