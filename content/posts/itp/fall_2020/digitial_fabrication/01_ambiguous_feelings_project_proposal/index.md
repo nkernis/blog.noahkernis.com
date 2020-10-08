@@ -58,7 +58,7 @@ At this point I felt like I had a good idea of the feeling I was after. But how 
 
 The object is a square, and a circle, and both! It's dependent on one's point of view. 
 
-The illusion, and many other generations of it, were developed by [Sugihara Kokichi](http://www.isc.meiji.ac.jp/~kokichis/Welcomee.html). In a later post I will go in-depth into how this illusion works. I did find a nice online demo that shows the basics of how it does:
+The illusion, and many other generations of it, were developed by [Kokichi Sugihara](http://www.isc.meiji.ac.jp/~kokichis/Welcomee.html). In a later post I will go in-depth into how this illusion works. I did find a nice online demo that shows the basics of how it does:
 
 {{< frame "https://www.geogebra.org/m/EdSp6X76" >}}
 ([source](https://www.geogebra.org/m/EdSp6X76))
