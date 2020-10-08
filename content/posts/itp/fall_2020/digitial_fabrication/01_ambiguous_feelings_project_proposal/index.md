@@ -37,19 +37,19 @@ The first work I found that really felt like it was what I was looking for was *
 
 *Blur* reminded me of an illustration I did a few years ago. In a similar way, there are two things present in one being. In the case of this drawing, emotion is interfering with clarity (not that emotions are a bad thing or that thought is perfectly logical). Although I like my drawings, I wanted to find some examples of other works that shared the same ideas.
 
-{{< figure src="img/01.jpg" alt="..." caption="[ "The Tension Of Thought" ]" >}}
+{{< figure src="img/01.jpg" alt="..." caption="[ \"The Tension Of Thought\" ]" >}}
 
 I found two works by artist Drew Young that I think really capture the feeling I am after. *Skeptic* is similar to my illustration. *Before-glow* is more expansive in terms of the multiple truths it presents. 
 
-{{< figure src="img/02.jpg" alt="..." caption="[ "Skeptic" by Drew Young ]" >}}
+{{< figure src="img/02.jpg" alt="..." caption="[ \"Skeptic\" by Drew Young ]" >}}
 ([source](https://www.dyoung.ca/Work/Other-Works/9/thumbs-caption))
 
-{{< figure src="img/03.jpg" alt="..." caption="[ *Before-glow* by Drew Young ]" >}}
+{{< figure src="img/03.jpg" alt="..." caption="[ \"Before-glow\" by Drew Young ]" >}}
 ([source](https://www.dyoung.ca/Work/In-Our-Wake/1/thumbs-caption))
 
 I then started to look for physical work that felt like this. I looked through a lot of Jonty Hurwitz's work. His piece, *Lala Land* uses a mirror to construct the image of a full human being from partial sculpture of humans.
 
-{{< figure src="img/04.jpg" alt="..." caption="[ *Lala Land* by Jonty Hurwitz]" >}}
+{{< figure src="img/04.jpg" alt="..." caption="[ \"Lala Land\" by Jonty Hurwitz]" >}}
 ([source](https://jontyhurwitz.com/lala-land))
 
 At this point I felt like I had a good idea of the feeling I was after. But how to achieve it? It was at this point I remembered an illusion I had scene in the past few years, ambiguous cylinders:
