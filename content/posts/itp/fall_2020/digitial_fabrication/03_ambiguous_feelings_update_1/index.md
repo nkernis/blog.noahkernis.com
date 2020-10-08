@@ -10,7 +10,7 @@ showFullContent = false
 
 ## Progress
 
-<!-- NOTE: IMAGE -->
+{{< figure src="img/00.JPG" alt="..." caption="[ Ambiguous Objects - 3D Printed ]" >}}
 
 I have a physical object! It's not perfect, but I made it, and the illusion kinda works!
 
@@ -38,13 +38,13 @@ The code expects a certain scale for the SVGs. Second, it expects two SVG's each
 
 For my first test I used these two images (a) and (b). I imported them into illustrator and outlined them. I then scaled them to the correct size, chopped them in half, and exported them as SVGs.
 
-<!-- NOTE: image svg -->
+{{< figure src="img/01.png" alt="..." caption="[ SVGs Cut Up ]" >}}
 
 *Step 2*
 
 I updated the code two use my SVGs. The code also comes with helper functions to invert, shift, and a couple other transformations that can be used to make the final output. 
 
-<!-- NOTE: image of env -->
+{{< figure src="img/02.png" alt="..." caption="[ ThreeJs Development Environment ]" >}}
 
 Once the rendering looked good, I opened up the browsers developer tools. I printed a key on the `window` object which I changed the code to store the JSON data in. I copied that and pasted it into a JSON file.
 
@@ -160,6 +160,8 @@ Here is a rough overview of those steps
 9. move NURBS surface to it's own space
 10. shell solid tool (outside)
 
+{{< figure src="img/03.png" alt="..." caption="[ Original Lines and Shelled Object ]" >}}
+
 *Step 6*
 
 Once the rendering looks correct, I exported the object as a `.stl` file.
@@ -173,6 +175,8 @@ The scale was wrong - the object was huge. But for the sake of testing, I just s
 Once the object looked good in the slicer, I exported the object as `.gcode`.
 
 I loaded the gcode ont my 3D printer (Prusa Mini) and printed it!
+
+{{< figure src="img/04.JPG" alt="..." caption="[ Successful Print ]" >}}
 
 ## Whats Next
 
