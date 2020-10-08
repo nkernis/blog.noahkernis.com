@@ -14,11 +14,8 @@ showFullContent = false
 
 ## The Idea
 
-<div class="vimeo-container">
-  <iframe src="https://editor.p5js.org/nmk304/embed/3I7HI8fbp" allowfullscreen></iframe>
-</div>
+{{< frame https://editor.p5js.org/nmk304/embed/3I7HI8fbp >}}
 
-<!-- <iframe src="https://editor.p5js.org/nmk304/embed/3I7HI8fbp"></iframe> -->
 
 edit -> https://editor.p5js.org/nmk304/sketches/3I7HI8fbp
 
