@@ -66,7 +66,7 @@ The illusion, and many other generations of it, were developed by [Kokichi Sugih
 
 ## Proposal
 
-
+TODO: WRITE THIS
 
 ## Scale and context
 
