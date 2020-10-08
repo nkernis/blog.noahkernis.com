@@ -69,10 +69,10 @@ The illusion, and many other generations of it, were developed by [Sugihara Koki
 
 ## Scale and context
 
-For more on this, please see the post: [Scale and Context](./ambiguous_feelings_scale_and_context/)
+For more on this, please see the post: [Scale and Context](../ambiguous_feelings_scale_and_context/)
 
 {{< figure src="../ambiguous_feelings_scale_and_context/img/scale_and_context.jpg" alt="2D rendering of what the object would look like in a gallery." caption="[ Rendering of Layout for Displaying Ambiguous Object ]" >}}
 
 ## Progress
 
-For more on this, please see the post: [Update 1]()
+For more on this, please see the post: [Update 1](../ambiguous_feelings_update_1)
