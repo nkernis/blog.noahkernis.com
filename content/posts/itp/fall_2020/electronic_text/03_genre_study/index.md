@@ -68,10 +68,104 @@ These four formats will be what I use to create the skeleton structure of a tick
 
 *Note: the post continues inside the embed below*
 
-<!-- 
-{{< gist nkernis c86de2a6d4b4563691a74aadb28f2278 >}}
 
-[link to digital_cutup.ipynb](https://gist.github.com/nkernis/c86de2a6d4b4563691a74aadb28f2278) 
--->
+{{< gist nkernis b72102a371b636cddcb65d2083a2bf08 >}}
+
+[link to genre_study.ipynb](https://gist.github.com/nkernis/b72102a371b636cddcb65d2083a2bf08) 
+
 
 ## A poem
+
+Generated from *The Time Machine* by H.G. Wells
+
+```
+=====
+
+Create White thing 
+
+=====
+
+wood of Weena 
+[ ] change in nineteenth moss 
+[ ] Time Editor blow 
+
+=====
+
+Traveller Time Morlocks Time of Way patient 
+[ ] configure the existing nineteenth pain 
+[ ] creature 
+
+=====
+
+Analyze Traveller to Traveller Time and Morlocks 
+[ ] world order 
+
+=====
+
+facet gesture - Ichthyosaurus - sleepiness - I 
+[ ] access lips 
+[ ] Purchase point and danger shadows 
+
+=====
+
+expense existence - beach kind 
+[ ] own extension is towards of gesture 
+[ ] Analyze ears 
+
+=====
+
+modify Thames of Machine Sphinx and Morlocks 
+[ ] monomania undulating in my business 
+[ ] Time to the hands 
+[ ] horticulture 
+[ ] change night and light ages 
+
+=====
+
+can slowly Create his fear 
+
+=====
+
+neighbourhood brilliancy under blocks 
+
+=====
+
+little machine unfathomable 
+[ ] Purchase in limited radiance 
+[ ] metal to the shoulders 
+
+=====
+
+Upper failed after Time 
+
+=====
+
+Can very configure Newcomb 
+[ ] Execute the working aforementioned building 
+
+=====
+
+access Fruit current 
+[ ] access the mere fact 
+[ ] install sigh but silver abysses 
+[ ] Morlocks Time 
+[ ] part / Purchase three and darker 
+
+=====
+
+Purchase London intonation 
+
+=====
+
+Analyze New with Time Time but Morlocks 
+[ ] Morlocks Editor 
+[ ] population 
+[ ] dwindling 
+[ ] museum 
+
+=====
+
+Can course Analyze my bronze 
+
+=====
+```
