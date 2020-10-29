@@ -63,7 +63,7 @@ After some thinking, I came up with three things to try. Hopefully, this will le
 
 ## Structure in a poem
 
-I wanted to highlight the structure of one of the texts produced. This a good example of how the random tabs can change how the reading.
+I wanted to highlight the structure of one of the texts produced. This a good example of how the random tabs can effect the reading of the produced text.
 
 Although you could read this left to right, because of things like proximity, I feel like I should read the terms on the left as one block and the sentences on the right separately.
 
