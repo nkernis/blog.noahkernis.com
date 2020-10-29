@@ -36,7 +36,7 @@ In terms of measuring this data, I do have access to a lot of this info via the 
 
 ## Research
 
-- [Zuize - the Blood Sugar Clock ](https://www.indiegogo.com/projects/zuize-the-blood-sugar-clock#/)
+- [Zuize - the Blood Sugar Clock](https://www.indiegogo.com/projects/zuize-the-blood-sugar-clock#/)
 	- very simple
 - symptoms
 	- high
@@ -129,7 +129,7 @@ These symptoms were selected from the list I collected.
 	- anger, stubbornness, or sadness
 		- irritability or impatience
 
-### Symptom expression
+### Symptom expression and timetable
 
 - high
 	- frequent urination
@@ -148,7 +148,25 @@ These symptoms were selected from the list I collected.
 	- blurred vision
 		- the clock face may blur a bit
 	- anger, stubbornness, or sadness
-		- NOTE: 
+		- NOTE:
+
+effects:
+	- high:
+		- +1 hr -> the screen begins to fill with water
+			- tipping it will clear for a short while
+			- this lasts until back to normal
+			- rate increases over time
+		- +3 hrs -> the clock face will become blurry
+		- +8 hrs -> the clock face will begin to fade out until it full disappears
+		- for every high within a 24hr period, the clock takes that much longer to return to baseline
+	- low:
+		- +10 min -> the clock face will shake, 
+			-> shaking increases over time
+		- +20 min -> drift from the center of the UI and rotate slightly
+		- +30 min -> the clock face may blur a bit
+		- +40 -> min the clock face will begin to fade out until it full disappears
+		- notes for low:
+			- severe lows should speed-up timeline
 
 ### Symptom timetable
 

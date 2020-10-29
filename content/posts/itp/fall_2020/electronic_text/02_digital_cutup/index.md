@@ -4,7 +4,7 @@ title = "Digital Cutup"
 date = "2020-09-26T15:22:05-04:00"
 author = "Noah Kernis"
 tags = ["itp", "electronic_text"]
-description = "Chopping Broccoli"
+description = "Chopping broccoli"
 showFullContent = false
 +++
 
@@ -35,9 +35,9 @@ So, I went to [Project Gutenberg](https://gutenberg.org/) and searched for texts
 	- [How to Live on 24 Hours a Day by Arnold Bennett](https://gutenberg.org/ebooks/2274)
 	- [Space, Time and Gravitation: An Outline of the General Relativity Theory](https://gutenberg.org/ebooks/29782)
 
-Group 1 contains 3 texts by H.G. Well. *The Time Machine* is fiction, *A Short History of the World* is non-fiction, and *The Discovery of the Future* is lecture. I thought it would be interesting to look how time and space are discussed by the same author, in three different styles of texts, written at different points in the authors life. 
+Group 1 contains 3 texts by H.G. Wells. *The Time Machine* is fiction, *A Short History of the World* is non-fiction, and *The Discovery of the Future* is a lecture. I thought it would be interesting to look how time and space are discussed by the same author, in three different styles of texts, written at different points in the authors life. 
 
-Group 2 also has 3 texts, all by different authors. In this case, two of the books look at how we as people track time and the history of it. The third, *International Conference Held at Washington for the Purpose of Fixing a Prime*, is protocols of the proceedings from the International Meridian Conference. To quote the text directly, the conference, held in 1884 was for, "'for the purpose of fixing upon a meridian proper to be employed as a common zero of longitude and standard of time-reckoning throughout the globe..."' (p. 1). I wanted to juxtapose texts discussing how time is kept vs a text where people came together to decide how time will work and be kept moving forward.
+Group 2 also has 3 texts, all by different authors. In this case, two of the books look at how we as people track time and the history of it. The third, *International Conference Held at Washington for the Purpose of Fixing a Prime*, is the protocols of the proceedings from the International Meridian Conference. To quote the text directly, the conference, held in 1884 was for, "'for the purpose of fixing upon a meridian proper to be employed as a common zero of longitude and standard of time-reckoning throughout the globe..."' (p. 1). I wanted to juxtapose texts discussing how time is kept vs a text where people came together to decide how time will work and be kept moving forward.
 
 Group 3 has 2 texts. *How to Live on 24 Hours a Day* is a book about living with time and what that may or may not mean for us. *Space, Time and Gravitation: An Outline of the General Relativity Theory* is a cut and dry explanation of theory of general relativity. Here, I was looking to compare the science of time and space with what it is actually like for humans to live in time and space.
 
