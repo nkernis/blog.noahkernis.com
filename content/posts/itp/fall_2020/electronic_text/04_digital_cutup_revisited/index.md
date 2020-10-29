@@ -17,7 +17,7 @@ The assignment for this project:
 
 ### Last time
 
-So, the last time I did this ([Elements of Circumstance](https://blog.noahkernis.com/posts/itp/fall_2020/time/elements_of_circumstance/)), most of my effort went into creating a collection of strings I could then randomly pick from, based on a word I was interested in. 
+So, the last time I did this ([Digital Cutup](https://blog.noahkernis.com/posts/itp/fall_2020/electronic_text/digital_cutup/)), most of my effort went into creating a collection of strings I could then randomly pick from, based on a word I was interested in. 
 
 I was pleased with the results last time. However, it didn't quite achieve what I had in mind. I wanted the text produced to *feel* like it was ruminating on the 5W's, time, and space. To sort of, go down a rabbit hole of thinking.
 
