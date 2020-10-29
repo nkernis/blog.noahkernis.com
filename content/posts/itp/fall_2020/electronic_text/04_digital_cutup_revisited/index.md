@@ -4,7 +4,7 @@ title = "Digital Cutup - Revisited"
 date = "2020-10-24T17:39:56-04:00"
 author = "Noah Kernis"
 tags = ["itp", "electronic_text"]
-description = "The chef said to 'cut them smaller'"
+description = "The chef said to, \"cut them smaller\""
 showFullContent = false
 
 +++
