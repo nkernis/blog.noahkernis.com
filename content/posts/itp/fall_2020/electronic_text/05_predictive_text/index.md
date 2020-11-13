@@ -1,5 +1,5 @@
 +++
-slug = "05_predictive_text"
+slug = "predictive_text"
 title = "Predictive Text"
 date = "2020-11-09T20:20:54-05:00"
 author = "Noah Kernis"

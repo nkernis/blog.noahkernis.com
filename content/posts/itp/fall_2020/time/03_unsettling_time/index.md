@@ -12,7 +12,7 @@ showFullContent = false
 
 > Sketch #2
 
-## The Idea
+## The Idea                                       
 
 {{< frame "https://editor.p5js.org/nmk304/embed/3I7HI8fbp" >}}
 
