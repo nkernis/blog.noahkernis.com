@@ -6,7 +6,6 @@ author = "Noah Kernis"
 tags = ["itp", "electronic_text"]
 description = "The chef said to, \"cut them smaller\""
 showFullContent = false
-
 +++
 
 ## Thinking
