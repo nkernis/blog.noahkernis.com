@@ -32,11 +32,11 @@ I want to try and play with their language. The people interviewed and the perso
 
 {{< gist nkernis 127110f411648e9a6eeee92bce6422cc >}}
 
-[predictive_text.ipynb]](https://gist.github.com/nkernis/127110f411648e9a6eeee92bce6422cc)
+[predictive_text.ipynb](https://gist.github.com/nkernis/127110f411648e9a6eeee92bce6422cc)
 
 I also tried using aitextgen. I think training on the limited text I had didn't work well. The text generated was way to close to the original. I also didn't try a ton of messing with parameters because the markov chains were working well for me.
 
-[colab notebook (requires being logged into nyu google account)](https://colab.research.google.com/drive/1rZFSYyScnAV1YUcthM47F046IbUxkxoc?usp=sharing)
+[colab notebook](https://colab.research.google.com/drive/1rZFSYyScnAV1YUcthM47F046IbUxkxoc?usp=sharing) (requires being logged into nyu google account)
 
 ## An article
 
