@@ -8,8 +8,6 @@ description = "*It was an unsettling time...*"
 showFullContent = false
 +++
 
-<!-- {{< figure src="img/..." alt="..." caption="[ ... ]" >}} -->
-
 > Sketch #2
 
 ## The Idea                                       

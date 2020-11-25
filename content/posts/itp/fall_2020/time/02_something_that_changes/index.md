@@ -117,7 +117,6 @@ These symptoms were selected from the list I collected.
 	- dizziness and difficulty concentrating
 	- blurred vision
 
-
 ### Symptom expression and timetable
 
 - effects:

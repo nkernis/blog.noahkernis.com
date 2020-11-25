@@ -16,7 +16,7 @@ Here is the assignment for this project:
 
 This semester I have spent a bunch of time exploring words and (software) clocks. For my final project, I want to combine the two - and build something.
 
-While doing research for my thesis, one of my professors recommended I look at the work of [anatol knotek](http://www.anatol.cc/anatol_en.html). I *really* like his work.
+While doing research for my thesis, one of my professors recommended I look at the work of [Anatol Knotek](http://www.anatol.cc/anatol_en.html). I *really* like his work.
 
 Here are a bunch of his that deal with time:
     - [*time is running out*](http://www.anatol.cc/textobjects/time_is_running_out.html)
@@ -30,4 +30,4 @@ The last two (both versions of *just in time*) instantly gave me an idea. The ve
 
 ## The idea
 
-Inspired by anatol's *just in time* pieces, I will make 4 physical clocks. They will explore the language of time and the telling of time. Hopefully they will be funny too...
+Inspired by Anatol's *just in time* pieces, I will make 4 physical clocks. They will explore the language of time and the telling of time. Hopefully they will be funny too...
