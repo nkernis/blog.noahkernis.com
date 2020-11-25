@@ -26,7 +26,6 @@ The clock I want to make is a device that tracks some of the metrics I have ment
 
 I want it to give the viewer of the clock an idea of what the current set of values actually means for my experience. A way for people in my life to know my internal cycle without have to always ask me. That's really the important part. So much of the T1D experience is internal and private. The only time it emerges or becomes apparent is when things go poorly. But the reality is these values are always in flux, and that change has real consequences for me. It affects if I'm thirsty, if I can read a book or need to lay down while my levels return to normal.
 
-
 ## Research
 
 - [Zuize - the Blood Sugar Clock](https://www.indiegogo.com/projects/zuize-the-blood-sugar-clock#/)
