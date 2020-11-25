@@ -19,12 +19,13 @@ This semester I have spent a bunch of time exploring words and (software) clocks
 While doing research for my thesis, one of my professors recommended I look at the work of [Anatol Knotek](http://www.anatol.cc/anatol_en.html). I *really* like his work.
 
 Here are a bunch of his that deal with time:
-    - [*time is running out*](http://www.anatol.cc/textobjects/time_is_running_out.html)
-    - [*bye* - textpicture](http://www.anatol.cc/textpictures/bye.html)
-    - [*bye* - concrete poetry](http://www.anatol.cc/concrete_poetry.html)
-    - [*then*](http://www.anatol.cc/concrete_poetry/then.html)
-    - [*just in time* - animation](http://www.anatol.cc/textanimations.html)
-    - [*just in time* - textobject](http://www.anatol.cc/textobjects/just_in_time.html)
+
+- [*time is running out*](http://www.anatol.cc/textobjects/time_is_running_out.html)
+- [*bye* - textpicture](http://www.anatol.cc/textpictures/bye.html)
+- [*bye* - concrete poetry](http://www.anatol.cc/concrete_poetry.html)
+- [*then*](http://www.anatol.cc/concrete_poetry/then.html)
+- [*just in time* - animation](http://www.anatol.cc/textanimations.html)
+- [*just in time* - textobject](http://www.anatol.cc/textobjects/just_in_time.html)
 
 The last two (both versions of *just in time*) instantly gave me an idea. The version of *just in time* that is a textobject, has clockwork inside of it. So the second leg of the 'm' actually ticks. I want to make a bunch of clocks that play with this idea.
 
