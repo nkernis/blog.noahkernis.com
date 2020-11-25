@@ -6,7 +6,6 @@ author = "Noah Kernis"
 tags = ["itp", "time"]
 description = "Word clocks"
 showFullContent = false
-draft = true
 +++
 
 ## Research
