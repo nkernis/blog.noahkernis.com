@@ -26,7 +26,7 @@ Words activate frames, and the more a frame is activated, the stronger it become
 
 I drew an illustration to help myself better understand frames:
 
-{{< figure src="img/00.jpeg" alt="" caption="[ They poisoned the words ]" >}}
+{{< figure src="img/00.JPG" alt="" caption="[ They poisoned the words ]" >}}
 
 There are two things in this image that I would like to experiment with for this final project. First, the sentence in the center of the TV. How does the language of political news coverage activate frames? The choice of words effects how political events are interpreted. 
 
