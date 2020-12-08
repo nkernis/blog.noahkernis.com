@@ -6,7 +6,6 @@ author = "Noah Kernis"
 tags = ["itp",  "electronic_text"]
 description = "*They poisoned the words, don't speak them!*"
 showFullContent = false
-draft = true
 +++
 
 ## Thinking
