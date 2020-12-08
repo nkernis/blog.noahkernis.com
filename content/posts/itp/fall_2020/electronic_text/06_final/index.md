@@ -10,7 +10,7 @@ showFullContent = false
 
 ## Thinking
 
-For my final project I am going to explore frames, a topic I have been researching for my thesis. The main source for my initial research into frames is ["The ALL NEW Don't Think of an Elephant!: Know Your Values and Frame the Debate"](https://www.amazon.com/ALL-NEW-Dont-Think-Elephant/dp/160358594X), by George Lakoff.
+For my final project I am going to explore frames, a topic I have been researching for my thesis. The main source for my initial research into frames is ["The ALL NEW Don't Think of an Elephant!: Know Your Values and Frame the Debate"](https://georgelakoff.com/2014/08/18/new-book-the-all-new-dont-think-of-an-elephant-know-your-values-and-frame-the-debate/), by George Lakoff.
 
 Lakoff offers the following as a definition for frames,
 
