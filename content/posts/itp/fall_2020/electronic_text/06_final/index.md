@@ -30,7 +30,7 @@ I drew an illustration to help myself better understand frames:
 
 There are two things in this image that I would like to experiment with for this final project. First, the sentence in the center of the TV. How does the language of political news coverage activate frames? The choice of words effects how political events are interpreted. 
 
-Second, is the TV itself. One of the central ideas I am currently thinking about a lot for my thesis is how U.S. politics has been mediated through TV for over 70 years. We experience a lot of modern politics on tv through news, debates, and press conferences. This has expanded to the internet in many forms including twitter, tikok, anonymous message boards, youtube, and new forms of socials media apps. 
+Second, is the TV itself. One of the central ideas I am currently thinking about a lot for my thesis is how U.S. politics has been mediated through TV for over 60 years. We experience a lot of modern politics on tv through news, debates, and press conferences. This has expanded to the internet in many forms including twitter, tikok, anonymous message boards, youtube, and new forms of socials media apps. 
 
 I am interested in how the physical devices themselves - a TV, laptop, or phone - may activate a frame within people. That frame may be an expectation or idea about the sphere in which they are interacting. That sphere is often refereed to as "the internet". There are many examples in U.S. popular culture of what is expected from the internet. Many of them depict the internet as a harsh and cruel place.
 
