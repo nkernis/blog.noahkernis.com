@@ -16,7 +16,7 @@ Lakoff offers the following as a definition for frames,
 
 > Frames are mental structures that shape the way we see the world. As a result, they shape the goals we seek, the plans we make, the way we act, and what counts as good or bad outcomes of our actions. (xi - xii)
 
-Frames effect how we interpret the world. When an idea is new and hard to understand, Lakoff says that is because we lack a frame to understand it. We can either learn and develop a frame, or reject the idea. Another important point is that frames are structures in our brains. they are made up of patterns of neurons firing. 
+Frames effect how we interpret the world. When an idea is new and hard to understand, Lakoff says that is because we lack a frame to understand it. We can either learn and develop a frame, or reject the idea. Another important point is that frames are structures in our brains. They are made up of patterns of neurons firing. 
 
 When it comes to words, Lakoff writes,
 
@@ -30,9 +30,9 @@ I drew an illustration to help myself better understand frames:
 
 There are two things in this image that I would like to experiment with for this final project. First, the sentence in the center of the TV. How does the language of political news coverage activate frames? The choice of words effects how political events are interpreted. 
 
-Second, is the TV itself. One of the central ideas I am currently thinking about a lot for my thesis is how U.S. politics has been mediated through TV for over 60 years. We experience a lot of modern politics on tv through news, debates, and press conferences. This has expanded to the internet in many forms including twitter, tikok, anonymous message boards, youtube, and new forms of socials media apps. 
+Second, is the TV itself. One of the central ideas I am currently thinking about a lot for my thesis is how U.S. politics has been mediated through TV for over 60 years. We experience a lot of modern politics on tv through news, debates, and press conferences. This has expanded to the internet in many forms including twitter, tikok, anonymous message boards, youtube, and new forms of social media. 
 
-I am interested in how the physical devices themselves - a TV, laptop, or phone - may activate a frame within people. That frame may be an expectation or idea about the sphere in which they are interacting. That sphere is often refereed to as "the internet". There are many examples in U.S. popular culture of what is expected from the internet. Many of them depict the internet as a harsh and cruel place.
+I am interested in how the physical devices themselves - a TV, laptop, or (smart) phone - may activate a frame within someone. That frame may be an expectation or idea about the sphere in which they are interacting. That sphere is often refereed to as "the internet". There are many examples in U.S. popular culture of what is expected from the internet. Many of them depict the internet as a harsh and cruel place.
 
 If so much of U.S. politics happens through devices that activate the idea of another sphere (the internet), and we expect bad things in that sphere, how do those devices effect our political discourse and beyond?
 
@@ -46,7 +46,7 @@ The final idea I came up with includes three parts:
 2. generate a short sentence trained on the article
 3. print the generated sentence out, surrounded by a "frame" made of one of the keywords picked from the article
 
-For the final output I will pick a few articles, run them through my generator, pick two pieces from each articles, and then combine them into a small zine.
+For the final output I will pick a few articles, run them through my generator, pick two pieces generated from each article, and then combine them into a small zine.
 
 ## The code
 
